@@ -34,6 +34,36 @@
         "ftbquests/unassigned/reward.json",
         "ftbquests/unassigned/task.json"
       ],
+      "translation_files": [
+        "config/ftbquests/quests/lang/zh_tw/chapter_group.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/0EFE9E753A92388D.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/25ADADD36B4FDE05.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/402AE6264B81A84B.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/47870879D8E3742D.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/777EE0C4949DFE12.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/7F17CDF8564DCC49.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/acclimation.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/ars_nouveau.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/blazing.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/cascading.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/equipment.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/flashing.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/flourishing.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/it_takes_a_village.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/malum.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/natures_aura.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/pneumaticcraft.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/power_generation.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/replication.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/the_beginning.snbt",
+        "config/ftbquests/quests/lang/zh_tw/chapters/vexing.snbt",
+        "config/ftbquests/quests/lang/zh_tw/file.snbt",
+        "config/ftbquests/quests/lang/zh_tw/reward_table.snbt",
+        "config/ftbquests/quests/lang/zh_tw/unassigned/chapter.snbt",
+        "config/ftbquests/quests/lang/zh_tw/unassigned/quest.snbt",
+        "config/ftbquests/quests/lang/zh_tw/unassigned/reward.snbt",
+        "config/ftbquests/quests/lang/zh_tw/unassigned/task.snbt"
+      ],
       "key_meta_files": [
         "ftbquests/chapter_group.json",
         "ftbquests/chapters/0EFE9E753A92388D.json",
@@ -83,6 +113,23 @@
         "kubejs/assets/occultism.json",
         "kubejs/assets/oritech.json",
         "kubejs/assets/theurgy.json"
+      ],
+      "translation_files": [
+        "kubejs/assets/actuallyadditions/lang/zh_tw.json",
+        "kubejs/assets/aether/lang/zh_tw.json",
+        "kubejs/assets/apotheosis/lang/zh_tw.json",
+        "kubejs/assets/ars_caelum/lang/zh_tw.json",
+        "kubejs/assets/ars_nouveau/lang/zh_tw.json",
+        "kubejs/assets/enigmatica/lang/zh_tw.json",
+        "kubejs/assets/extended_industrialization/lang/zh_tw.json",
+        "kubejs/assets/farmersdelight/lang/zh_tw.json",
+        "kubejs/assets/gateways/lang/zh_tw.json",
+        "kubejs/assets/geneticsresequenced/lang/zh_tw.json",
+        "kubejs/assets/mi_tweaks/lang/zh_tw.json",
+        "kubejs/assets/modern_industrialization/lang/zh_tw.json",
+        "kubejs/assets/occultism/lang/zh_tw.json",
+        "kubejs/assets/oritech/lang/zh_tw.json",
+        "kubejs/assets/theurgy/lang/zh_tw.json"
       ]
     }
   }

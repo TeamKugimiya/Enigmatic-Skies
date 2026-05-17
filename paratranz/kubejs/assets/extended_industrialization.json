@@ -15,6 +15,7 @@
   },
   "lef_tier.extended_industrialization.modern_industrialization.copper_coil": {
     "original": "Copper",
+    "translation": "銅",
     "context": "source/kubejs/assets/extended_industrialization/lang/en_us.json",
     "meta": {
       "converter": "json-lang"
@@ -43,6 +44,7 @@
   },
   "teslatower_tier.extended_industrialization.modern_industrialization.copper_coil": {
     "original": "Copper",
+    "translation": "銅",
     "context": "source/kubejs/assets/extended_industrialization/lang/en_us.json",
     "meta": {
       "converter": "json-lang"

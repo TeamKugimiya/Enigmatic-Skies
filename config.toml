@@ -43,3 +43,35 @@ translation_root = "./translation/kubejs/assets"
 paratranz_root = "kubejs/assets"
 source_locale = "{source_locale}"
 target_locale = "{target_locale}"
+
+[build.client]
+type = "zip"
+include = ["translation/**"]
+exclude = [
+  "translation/config/ftbquests/quests/lang/{target_locale}/**",
+  "translation/config/ftbquests/quests/lang/{target_locale}.snbt",
+]
+strip_prefix = ["translation/"]
+output_filename = "Enigmatic-Skies-Patches-Client.zip"
+allow_empty = false
+
+[[build.client.generated]]
+type = "ftb-quests-lang-merge"
+source = "ftbquests"
+output_path = "config/ftbquests/quests/lang/{target_locale}.snbt"
+
+[build.server]
+type = "zip"
+include = ["translation/**"]
+exclude = [
+  "translation/config/ftbquests/quests/lang/{target_locale}/**",
+  "translation/config/ftbquests/quests/lang/{target_locale}.snbt",
+]
+strip_prefix = ["translation/"]
+output_filename = "Enigmatic-Skies-Patches-Server.zip"
+allow_empty = false
+
+[[build.server.generated]]
+type = "ftb-quests-lang-merge"
+source = "ftbquests"
+output_path = "config/ftbquests/quests/lang/{target_locale}.snbt"
