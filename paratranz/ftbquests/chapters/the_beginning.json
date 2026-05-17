@@ -1,0 +1,194 @@
+{
+  "chapter.67558DB55ADC2157.title": {
+    "original": "The Beginning",
+    "context": "chapters/the_beginning.snbt / chapter 67558DB55ADC2157",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.26D35A0B06B5EA35.quest_desc": {
+    "original": "The woman’s walking stick began to burn to cinder as the Four Winds rushed her back to the earth’s embrace. \n\nShe thrust the flame, precious and frail, into a special earthen vessel. There, it was nurtured and grew strong.\n\nAs the woman approached the earth once more, the heat of the vessel grew and spread, flowing across the earth. \n\nForever after, the cold of Winter would give way to the gentle touch of Spring in an endless dance of seasons.  ",
+    "context": "chapters/the_beginning.snbt / quest 26D35A0B06B5EA35",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.304838EDEC32DE97.quest_desc": {
+    "original": "Thank you for playing &n&6Enigmatic Skies&r! We hope you enjoyed your time here!\n\n                    &6&nFurther Reading&r\n\nInspiration comes from many sources and while there are some portions of this pack that draw on European traditions, it would be fair to say that the pack wouldn’t exist were it not for inspiration drawn from the myths and sacred stories of the native peoples of North America. \n\nIf you’re interested in learning more, please explore the following links:\n\n&6&nNations&r\n\n[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://anishinabek.ca/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Anishinaabe Nation\",\"underlined\":true}]\n\n[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.cherokee.org/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Cherokee Nation\",\"underlined\":true}]\n\n[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.lenape-nation.org/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Lenape Nation\",\"underlined\":true}]\n\n[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://ojibwe.net/stories/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Ojibwe Nation\",\"underlined\":true}]\n\n[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.wendake.ca/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Wendat Nation\",\"underlined\":true}]\n\n&6&nStories&r\n\n[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://thecanadianencyclopedia.ca/en/article/turtle-island\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Turtle Island\",\"underlined\":true}]\n\n[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.indigenouspeople.net/spider.htm\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Grandmother Spider Steals the Fire\",\"underlined\":true}]\n\n[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.americanfolklore.net/rainbow-crow/\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Rainbow Crow\",\"underlined\":true}]\n\n[\" • \", {\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.ganondagan.org/legend-of-the-three-sisters\"}, \"color\":\"green\", \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"The Three Sisters\",\"underlined\":true}]",
+    "context": "chapters/the_beginning.snbt / quest 304838EDEC32DE97",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.36A18D327A03810B.quest_desc": {
+    "original": "The &7Weeping Well&r has been generous with you, you have only one last thing to give it; yourself.\n\nTrust it. Jump in. \n&n                                                  &r\n\nBy jumping into the Well, you will receive an &7Umbral Spirit&r. \n\nIf you've lost yours, or simply need more, you can recreate it with some effort in the &7Particle Accelerator&r. ",
+    "context": "chapters/the_beginning.snbt / quest 36A18D327A03810B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.414458433C4734C6.quest_desc": {
+    "original": "When the woman returned to the Earth, she looked around to see that life was flourishing in the new cycle. The animals, once her teachers and companions, had multiplied and spread across the land. \n\nThe world was blooming, but the woman felt alone again. She had learned much but now had no one with whom to share her knowledge. \n\nWith her hands she dug into the damp earth, molding the clay there into her likeness. With the heat of her fire, she hardened the clay. With the breath in her lungs, she breathed life into the clay. \n\nWith the words in her heart, she taught the new people of the animals and the land. Taught them to hunt and to tend, to plant and to harvest. She taught them to nurture the fires, to create.",
+    "context": "chapters/the_beginning.snbt / quest 414458433C4734C6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5E4077F317135E34.quest_desc": {
+    "original": "As the woman awoke on the newly formed earth, alone and surrounded by unfamiliar sights. Her belly rumbled and she knew hunger. Her people were gone and she knew fear. She shed tears for what was lost.\n\nThe animals, seeing that she hungered, brought her roots to feed her. Seeing that she was alone, they gathered near to comfort her. \n\nThe woman ate her fill and sang her praises to the animals. With her heart full of company, she brushed her tears away. They spread across the sky where they glistened and became stars. With her belly full of nourishment, she pressed the roots into the newly formed earth. They flourished in the soil and multiplied.\n\nAs she wandered the new earth, she sang to the animals and they adored her. When her hunger returned, the animals fed her. Each place she visited, she pressed roots into the ground. Each place, they flourished and multiplied. The land grew lush and was filled with new life.  ",
+    "context": "chapters/the_beginning.snbt / quest 5E4077F317135E34",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5E4077F317135E34.title": {
+    "original": "Taking Root",
+    "context": "chapters/the_beginning.snbt / quest 5E4077F317135E34",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6030BA17DB9228F2.quest_desc": {
+    "original": "One day the woman found herself in the North and few animals remained with her. \n\nHere, the land was covered in deep snow and frozen in ice. Here, the woman’s wanderings slowed; she knew she had not the strength of body to traverse the land. She watched as the animals burrowed into the snow to stay warm and she did as they did. \n\nThere she sat, and there she reflected on her travels. \n\nThe North Wind began to blow, strong and cold, and the world stood still.",
+    "context": "chapters/the_beginning.snbt / quest 6030BA17DB9228F2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6030BA17DB9228F2.title": {
+    "original": "Snowed Under",
+    "context": "chapters/the_beginning.snbt / quest 6030BA17DB9228F2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.63A7E92BBCEDF461.quest_desc": {
+    "original": "All too soon, the woman felt she must move on. She headed into the South and the animals came with her.\n\nHere, forests gave way to wetlands, wetlands to sand-strewn shores. The woman, seeing how the animals swam along the winding waterways, made a canoe to follow them.  When she grew tired, she lay down amongst the sandy dunes of the coast to rest. When she grew unclean, she bathed in the warm waters of the seas. \n\nOf the animals who accompanied the woman, some found homes in the rivers and seas and were content to stay. \n\nThe South Wind began to blow, hot and strong, bringing with it Summer and the promise of adventure.",
+    "context": "chapters/the_beginning.snbt / quest 63A7E92BBCEDF461",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.63A7E92BBCEDF461.title": {
+    "original": "Soaking Up the Sun",
+    "context": "chapters/the_beginning.snbt / quest 63A7E92BBCEDF461",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6A4DD846F7E08FD6.quest_desc": {
+    "original": "The woman flew higher and higher, up and up. She soared for what seemed like ages. \n\nWhen the air grew thin and her lungs began to burn, the gentle winds of Spring filled her with breath.\n\nWhen the air grew cold and her limbs began to ache, the warm winds of Summer warmed her flesh. \n\nHigher and higher, up and up. She soared until at last she approached the Sun.\n\nWhen the light grew bright and her eyes could not see, the Autumn winds guided her.\n\nWhen the light grew hot and scorched her flesh, the Winter Winds braced her. \n\nShe soared until at last, she plunged her walking stick into the burning heights.",
+    "context": "chapters/the_beginning.snbt / quest 6A4DD846F7E08FD6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6A4DD846F7E08FD6.title": {
+    "original": "Borrowed Flame",
+    "context": "chapters/the_beginning.snbt / quest 6A4DD846F7E08FD6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6A8ACE8E9B7A056D.quest_desc": {
+    "original": "As the woman plummeted into the sea, the animals rushed to her knowing she would surely perish without a place to rest.\n\nThey took it in turns to dive down into the depths, each attempting to bring up the mud from the bottom. Each boasted of their strengths, claiming they would be the one to reach the bottom. Each failed and upon resurfacing claimed the task to be impossible. \n\nWhen hope was nearly lost, the smallest among them came forward and asked to be permitted to try. It made no boast and all doubted its ability, but the other animals stood aside to allow it to try. Through quiet determination, it dove deeper and deeper. It dove until its lungs burned and its limbs ached. It dove until at last, one small paw brushed the mud in the lightless depths. \n\nGrasping a handful of the mud, it turned and swam to the surface. There, it was greeted with praise when the other animals saw what it held. It spread the mud on Turtle’s back and, knowing that more would be needed, it dove again and again, slowly covering Turtle’s back to build a new land where the woman could rest. ",
+    "context": "chapters/the_beginning.snbt / quest 6A8ACE8E9B7A056D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6A8ACE8E9B7A056D.title": {
+    "original": "The Earth Diver",
+    "context": "chapters/the_beginning.snbt / quest 6A8ACE8E9B7A056D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6AF21EDF59FCE0D4.quest_desc": {
+    "original": "In the time before Time, the Sky People lived high above on islands of clouds. \n\nThey knew no strife for all was changeless. \n\nThey knew no grief for all were eternal. \n\nThen, something changed. \n\nOne of the Sky People fell from on high. She fell, and fell, and all mourned her as she tumbled through the endless blue sky. The Sky People, seeing her falling, felt that loss cut them deeply. Loss for her and loss for what was and would be no more. \n\nIn their lamentation, their tears fell in great heaving sobs, racing the woman to the place below as if to cushion her fall. \n\nThere, they pooled. There, the oceans rose. And there, the woman landed.",
+    "context": "chapters/the_beginning.snbt / quest 6AF21EDF59FCE0D4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6AF21EDF59FCE0D4.title": {
+    "original": "Innocence Lost",
+    "context": "chapters/the_beginning.snbt / quest 6AF21EDF59FCE0D4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6EBB293F3DDE5EC7.quest_desc": {
+    "original": "The woman wandered into the East and the animals came with her.\n\nHere, everywhere she walked, the lands bloomed with flowers and lush grasslands. Everywhere she lay down to rest, dense woodlands grew to offer her shade. \n\nOf the animals who accompanied the woman, some found homes amongst the trees and grasses and were content to stay. \n\nThe East Wind began to blow, gentle and warm, bringing with it Spring and the promise of a new beginning. ",
+    "context": "chapters/the_beginning.snbt / quest 6EBB293F3DDE5EC7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6EBB293F3DDE5EC7.title": {
+    "original": "A Spring in Her Step",
+    "context": "chapters/the_beginning.snbt / quest 6EBB293F3DDE5EC7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7413DDDB64FFAC2A.quest_desc": {
+    "original": "In what seemed like no time at all, the woman’s explorations led her into the West and the animals came with her.\n\nHere, wetlands gave way to dry brushland and stifling deserts. The woman found travel difficult and though she grew tired faster, places to take rest were fewer and farther between. Food grew scarce and the days grew hard. \n\nThe woman watched the animals cache food when it was available. Doing as they did, she could eat when none could be found. Seeing that shelter was scarce, she made her own that she could carry and move with her.\n\nOf the animals who accompanied the woman, some took to the air and made homes in the trees and were content to stay.\n\nThe West Wind began to blow, dry and harsh, bringing with it Autumn and the promise of challenges ahead.",
+    "context": "chapters/the_beginning.snbt / quest 7413DDDB64FFAC2A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7413DDDB64FFAC2A.title": {
+    "original": "Laying in Supplies",
+    "context": "chapters/the_beginning.snbt / quest 7413DDDB64FFAC2A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.799839991CC1DDF9.quest_desc": {
+    "original": "It is no small wonder that ancient stories still resonate with us. \n\nThey speak to something universal; an unbroken thread reaching back through time. A thread that binds us all together through shared experience and common plights. Memories linger, stories repeat, and we find their echoes in our day-to-day, in the stories we tell of our lives. \n\nHere, we find ourselves at the end. And with every end, a new story takes root.  \n\nWhat threads will we weave for those who will come after us?",
+    "context": "chapters/the_beginning.snbt / quest 799839991CC1DDF9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.799839991CC1DDF9.title": {
+    "original": "The Formless Void",
+    "context": "chapters/the_beginning.snbt / quest 799839991CC1DDF9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7B6DF86E979614F4.quest_desc": {
+    "original": "Having sat for some time in thought and preparation, the woman stepped out from her snow-bound home.\n\nShe looked to the East and implored the gentle winds of Spring to raise her. \n\nShe looked to the South and beseeched the warm winds of Summer to protect her.\n\nShe looked to the West and urged the dry winds of Autumn to guide her.\n\nShe looked to the North and pleaded that the cold winds of Winter brace her.\n\nThe Four Winds came at her call and uplifted her into the heavens. Soaring higher than even the birds dare, joy and elation swelled in her heart.",
+    "context": "chapters/the_beginning.snbt / quest 7B6DF86E979614F4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  }
+}

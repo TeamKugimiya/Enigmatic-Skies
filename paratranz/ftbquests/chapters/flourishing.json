@@ -1,0 +1,466 @@
+{
+  "chapter.083FB2FC095A6686.title": {
+    "original": "Flourishing Island",
+    "context": "chapters/flourishing.snbt / chapter 083FB2FC095A6686",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0DD1FC129B316381.quest_desc": {
+    "original": "These Redstone devices can be exceptionally useful for automating some of the processes in this chapter.\n\nGet creative and have a look around at other devices that might be useful, such as those from the &7Redstone Pen&r mod or even simple vanilla blocks like the &7Observer&r. ",
+    "context": "chapters/flourishing.snbt / quest 0DD1FC129B316381",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0F63D034A018A4FC.quest_desc": {
+    "original": "Placing a &7Sewer&r beneath your animals will allow you to collect &7Sewage&r which can be used to obtain more &7Water&r and eventually converted into &7Oil&r!",
+    "context": "chapters/flourishing.snbt / quest 0F63D034A018A4FC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.11B62E499806390F.quest_desc": {
+    "original": "A &7Tablet of Harvest&r can be a great early way to start automating crop farming.\n\nNot only does it harvest the standard crops you’d grow on farmland, but it will also easily harvest pods grown on trees, such as &7Cocoa&r, &7Mendosteen&r, or any of the other Pods from Ars Nouveau.\n\nIt will require a small amount of Source from a nearby &7Source Jar&r for each crop harvested and will deposit everything into an adjacent inventory. \n\n&a🛈 Tip: The particles denote the Ritual's \n&a    working area.",
+    "context": "chapters/flourishing.snbt / quest 11B62E499806390F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.136AD444BD07EFCF.quest_desc": {
+    "original": "The &7Plant Gatherer&r and &7Plant Sower&r are two machines that go hand in hand. \n\nBy default, when the Plant &7Gatherer harvests&r a crop, it breaks it, leaving an empty plot. Therefore, the &7Sower&r is used in tandem to re-plant those plots and keep the whole system running. \n\nYou’ll want to place the &7Gatherer&r on the edge of your field, while the &7Sower&r will go in the center just underground. \n\nBe sure to check the Show Working area button in their GUI to get an idea of where they’ll be operating.\n\nWith a &7+4 Range Addon&r, these machines will be able to work on the area of a standard 9x9 farm plot.\n\n&a🛈 Tip: Giving the Gatherer Ether Gas \n&a    will allow it to harvest without \n&a    breaking the crops. ",
+    "context": "chapters/flourishing.snbt / quest 136AD444BD07EFCF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.136AD444BD07EFCF.title": {
+    "original": "Crop Farming",
+    "context": "chapters/flourishing.snbt / quest 136AD444BD07EFCF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.17553CF42EDC67A6.quest_desc": {
+    "original": "Channeling more powerful magics requires a more specialized focus. \n\nUpgrade your &7Spell Book&r with the materials you’ve discovered on this island and discover a whole new world of possibilities. \n\n&a🛈 Tip: Spells and are retained when \n&a    upgrading your Spell Book!",
+    "context": "chapters/flourishing.snbt / quest 17553CF42EDC67A6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.17553CF42EDC67A6.title": {
+    "original": "Tier 2 Spells",
+    "context": "chapters/flourishing.snbt / quest 17553CF42EDC67A6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1ABB07894781F511.quest_desc": {
+    "original": "By setting up some &7Powder of Fertility&r near your animals, you can keep them happy and breeding at the cost of Aura instead of food. \n&n                                                  &r\n\nPowders apply in groups and their range is directly related to the number of powders you were holding when placing them.\n\nFor example, hold six powders and place them on the ground. All six will be placed as a single entity and their effect will cover a six-block radius. \n\nRight-Click the floating powder with your &7Mystical Magnifier&r to visualize the area.\n\n&a🛈 Tip: Powders may be removed by \n&a    punching them.",
+    "context": "chapters/flourishing.snbt / quest 1ABB07894781F511",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1ABB07894781F511.title": {
+    "original": "Ain't Nothing But Mammals",
+    "context": "chapters/flourishing.snbt / quest 1ABB07894781F511",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1D7DF143EDEAE1EC.quest_desc": {
+    "original": "A clever device for growing more mushrooms without any hassle. \n\nSimply provide power, water, and some mushrooms to get started and it’ll do the rest.",
+    "context": "chapters/flourishing.snbt / quest 1D7DF143EDEAE1EC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1FDA97FE562A2C4D.quest_desc": {
+    "original": "Addons can be installed in most Industrial Foregoing machines to speed them up and make them run more efficiently. \n\nDon’t miss out!",
+    "context": "chapters/flourishing.snbt / quest 1FDA97FE562A2C4D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1FDA97FE562A2C4D.title": {
+    "original": "Addons",
+    "context": "chapters/flourishing.snbt / quest 1FDA97FE562A2C4D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2C3B39CD6A7E044C.quest_desc": {
+    "original": "Andesite Alloy tier machines all run on &7Steam&r, which will need to be piped directly into the machine to power it. \n\nYour &7Decrepit Boiler&r should produce enough for now, but you’ll soon be able to build a better boiler to generate the &7Steam&r you need to power more machines. ",
+    "context": "chapters/flourishing.snbt / quest 2C3B39CD6A7E044C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2C3B39CD6A7E044C.quest_subtitle": {
+    "original": "Techonalogia!",
+    "context": "chapters/flourishing.snbt / quest 2C3B39CD6A7E044C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3104ECE58D5CC796.quest_desc": {
+    "original": "The &7Pyromantic Brazier&r can be quite wasteful when used to power Theurgy devices, since it simply keeps burning as long as fuel remains. \n\nConsider using a &7Mercury Catalyst&r instead. This device accepts &7Mercury Shards&r and converts them to Flux, storing it much like a battery. \n\nA &7Caloric Flux Emitter&r may then be linked to a device and placed on a nearby &7Mercury Catalyst&r, allowing it to remotely send Flux to the linked device. \n\nThis will only consume Flux when the linked device is running, allowing it to operate much more efficiently. ",
+    "context": "chapters/flourishing.snbt / quest 3104ECE58D5CC796",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.31903F40C2037EBD.quest_desc": {
+    "original": "With a &7Trading Depot&r, you may begin to automate trades with &7Villagers&r. \n\nPlace the &7Depot&r such that the red dot on the back is facing the &7Villager’s Workstation&r. Then put some trade goods on the &7Depot&r.  \n\nItems may be Right-Clicked on or off, but we want automation, right? So, use a hopper or some pipes to move items on and off the &7Depot&r. \n\nThe &7Depot&r only functions during normal Villager Working hours. So be sure you're stocking up on the things they want overnight to maximize the trading you can get done in the day.\n\n&a🛈 Tip: A filter may be set on the front \n&a    to control what is purchased. ",
+    "context": "chapters/flourishing.snbt / quest 31903F40C2037EBD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3282293AB6B43287.quest_desc": {
+    "original": "Slow but steady, this &7Compressor&r will get you started making &7Compressed Iron&r and &7Diamonds&r. \n\nIt's also a simple way to make plates going forward.\n\n&a🛈 Tip: Remember to lock the slots to \n&a    control what recipe is processed!",
+    "context": "chapters/flourishing.snbt / quest 3282293AB6B43287",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.33679351A7B6D8E6.quest_desc": {
+    "original": "Being able to place and pick up blocks automatically will help with getting some early tasks automated. \n\nHere on the Flourishing Island, &7Tuff&r may be summoned with the same spell you've previously used to obtain &7Icestone&r. It can be turned into some basic devices that will be useful for automation.\n\n                           &6&nExample Spells&r\n\n&7Conjure Tuff&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r",
+    "context": "chapters/flourishing.snbt / quest 33679351A7B6D8E6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.37C965C1FA40221E.quest_desc": {
+    "original": "&7Spell Turrets&r can be an incredibly powerful automation tool for casting prepared spells. \n\nThere are some limitations, of course, since the &7Spell Turret&r cannot use every spell form; primarily Touch and Projectile. Still, being able to trigger a spell cast on a &7Redstone&r signal is invaluable.\n\nThe &7Turret&r may be programmed by simply Right-Clicking it with your &7Spell Book&r, a &7Caster Tome&r, or a &7Spell Parchment&r. \n\nThey may uses glyphs such as &7Item Pickup&r and &7Place Block&r provided they have an inventory adjacent to send to or pull from. \n\nThey also need a &7Source Jar&r somewhere nearby to power them.\n\nTry setting your &5Brawndo&r spell on a &7Turret&r and shooting a &7Cloud Berry Bush&r.",
+    "context": "chapters/flourishing.snbt / quest 37C965C1FA40221E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.38E929DADF66C1F3.quest_desc": {
+    "original": "Made from &7Mud&r, &7Boggy Dorodangos&r may be processed down into new materials!\n\n                   &n&6Materials&r\n\n  • &7Black Quartz&r\n  • &7Fish Bones&r\n  • &7Rotten Flesh&r",
+    "context": "chapters/flourishing.snbt / quest 38E929DADF66C1F3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.39E9D5470F347400.quest_desc": {
+    "original": "Raw Gold, Copper, and Iron can contain some very useful secondary minerals, obtainable with just a little bit of extra processing. \n\nCraft an &7Alluvial Trommel&r and process your Crushed Ores to obtain &7Wastewater&r. \n\nThis may then be recycled into fresh &7Water&r and a variety of other blocks. \n\n&a🛈 Tip: Remember to lock the slots to \n&a    control what recipe is processed!",
+    "context": "chapters/flourishing.snbt / quest 39E9D5470F347400",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3B609B8A4DE93B53.quest_desc": {
+    "original": "Build a &7Melon&r farm and set your Alakarkinos to work making &7Melon Balls&r!\n\nThese will net you far more water than the clouds you've been using.",
+    "context": "chapters/flourishing.snbt / quest 3B609B8A4DE93B53",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3DD21FD2F10FE43D.quest_desc": {
+    "original": "Primarily used to make &7Rubber Sheets&r, &7Latex&r is also used in its raw form for a variety of recipes. \n\nYou’ll want to spend some time figuring out a way to automate production. ",
+    "context": "chapters/flourishing.snbt / quest 3DD21FD2F10FE43D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.410225ED927857D4.quest_desc": {
+    "original": "These three machines can be put together to farm passive mobs automatically. \n\nFirst, the &7Animal Feeder&r will keep your animals fed, happy, and making babies. This will stop working automatically when there are too many animals in the working area. \n\nThe &7Animal Rancher&r can be used in the same area to gather Wool from Sheep and Milk from Cows. \n\nThe &7Animal Baby Separator&r can then be used to send the babies to a holding area while they grow up. This block also has a reverse mode to separate the grown animals out from the baby holding area and into their final destination.\n\n&a🛈 Tip: Install matching Range Addons \n&a    in each to cover the appropriate \n&a    area.",
+    "context": "chapters/flourishing.snbt / quest 410225ED927857D4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.410225ED927857D4.title": {
+    "original": "Animal Farming",
+    "context": "chapters/flourishing.snbt / quest 410225ED927857D4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.427846D4FFE678C5.quest_desc": {
+    "original": "Ancient stories tell of warriors who would consume these &7Shards&r before battle to enhance their vitality and ensure their safe return.\n\nPerhaps it will also be accepted as a suitable sacrifice for the steps to come.\n\n&a🛈 Tip: Eating Life Shards will increase \n&a    your max health by one Heart each!",
+    "context": "chapters/flourishing.snbt / quest 427846D4FFE678C5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.47CB92C2ECBB7FF4.quest_desc": {
+    "original": "Bones are among the simplest things to re-animate. They hold in them a memory of life and an urge to move; they simply lack the impetus to do so. \n\nFor now, we’ll put them to work controlling some of our more basic machinery. ",
+    "context": "chapters/flourishing.snbt / quest 47CB92C2ECBB7FF4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.49968116FCB311B0.quest_desc": {
+    "original": "A precious gem known for its hardness, &7Ruby&r has long been used as a bearing in precision machinery. \n\nIt also makes an excellent focus for certain magical pursuits. ",
+    "context": "chapters/flourishing.snbt / quest 49968116FCB311B0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4CC1CF537349C2D6.quest_desc": {
+    "original": "Need a little more room to work? Summoning another island is always an option. \n\nAlternatively, Right-Click &7Tuff&r with an &7Earth Essence&r to convert a &n21x11x21&r area to this biome!",
+    "context": "chapters/flourishing.snbt / quest 4CC1CF537349C2D6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4CC1CF537349C2D6.title": {
+    "original": "Biome Conversion",
+    "context": "chapters/flourishing.snbt / quest 4CC1CF537349C2D6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4F2E18DABA17E0AC.quest_desc": {
+    "original": "The &7Atomic Reconstructor&r is a powerful device used to transmute certain materials such as &7Mud&r to &7Moss&r.\n\nIt can be incredibly power hungry!\n\nThis machine, when powered, will periodically emit a beam of energy. Any appropriate items or blocks in its path will be converted. \n\n&a🛈 Tip: Right-Click the machine with a \n&a    Redstone Torch to change it to \n&a    Pulse Redstone mode.\n\n&6⚠ Note: Blocks may be converted both\n&6    in item form and as blocks placed\n&6    in-world.",
+    "context": "chapters/flourishing.snbt / quest 4F2E18DABA17E0AC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.513BDF32A8F6EF45.quest_desc": {
+    "original": "Alakarkinos is eager and ready to assist! \n\nNew &7Dorodangos&r await you with the materials available on this island. ",
+    "context": "chapters/flourishing.snbt / quest 513BDF32A8F6EF45",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.53CE92319716971B.quest_desc": {
+    "original": "Minecraft has long allowed you to duplicate tall flowers such as &7Rose Bushes&r by applying &7Bone Meal&r. \n\nHere, that ability is extended to &7small flowers&r as well. ",
+    "context": "chapters/flourishing.snbt / quest 53CE92319716971B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.53CE92319716971B.title": {
+    "original": "Small Flower Duplication",
+    "context": "chapters/flourishing.snbt / quest 53CE92319716971B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.579B2C5CB83022ED.quest_desc": {
+    "original": "The &7Manipulation Infused Turret&r combines the benefits of a &7Focus of Block Shaping&r with an &7Enchanted Turret&r, meaning it can not only cast all the examples from the previous quest, but it gets an enormous mana discount in doing so. \n\nYou will undoubtedly want to spend some time setting up such Turrets to conjure important materials such as &7Cold Aerclouds&r, &7Aerogel&r, and &7Clay&r, to name a few.\n\n&a🛈 Tip: Item Pickup, when used with a Turret, \n    &aplaces the items in any adjacent inventory.\n\n&6⚠ Note: Right-Click a Turret with your \n&6    Spell Book or Spell Parchment to set a spell.",
+    "context": "chapters/flourishing.snbt / quest 579B2C5CB83022ED",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5AFB064A80189AA4.quest_desc": {
+    "original": "This &7Moss&r appears to be concentrating different minerals as it grows. \n\nCrush some to obtain &7Copper&r and other useful minerals!\n\nUsing &7Bone Meal&r on &7Moss&r will cause it to spread to nearby blocks, such as &7Mud&r and &7Dirt&r. As long as you keep at least one &7Moss&r, you will have an infinite supply!",
+    "context": "chapters/flourishing.snbt / quest 5AFB064A80189AA4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5AFB064A80189AA4.title": {
+    "original": "Copper",
+    "context": "chapters/flourishing.snbt / quest 5AFB064A80189AA4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5D1960D1AE64E4A2.quest_desc": {
+    "original": "The Flourishing Island comes with a ready-made &7Natural Altar&r to get you started. \n\nYou’ll also notice several &7Swamp Homis&r dotted around under the &7Spore Blossoms&r. These handy little devices will convert nearby &7Moss&r back to &7Mud&r, releasing some Aura into the environment in the process. ",
+    "context": "chapters/flourishing.snbt / quest 5D1960D1AE64E4A2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5E727F7B600E0E91.quest_desc": {
+    "original": "The &7Dissolution Chamber&r combines multiple ingredients with some type of fluid. \n\nThe machine only holds enough items for a single craft at a time, so it can be useful to lock the slots to a specific recipe and pipe items in. \n\nThis way it can run larger batches as you work on other things.\n\n&6⚠ Note: The items may be input in any \n&6    order!",
+    "context": "chapters/flourishing.snbt / quest 5E727F7B600E0E91",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.625AE1AEF37DAE03.quest_desc": {
+    "original": "One of several options for automated farming. It has its quirks, but it’ll do for now. \n\nRemember to set up an &7Agronomic Sourcelink&r nearby to capture some extra Source from your crop farms!\n\n&a🛈 Tip: Right-Click this machine with a \n&a    Compass to adjust the working \n&a    area.",
+    "context": "chapters/flourishing.snbt / quest 625AE1AEF37DAE03",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.63944BDC078E728A.quest_desc": {
+    "original": "The &7Focus of Block Shaping&r is a powerful piece of kit for any spell-caster as it allows you to stack effects into a single spell that would normally take multiple casts. \n\nFor example, you’re probably quite used to using a spell such as the one below to conjure Aerclouds.\n\n&7Conjure Cold Aercloud&r\n    &5Touch&r > &aConjure Terrain&r > &aCrush&r\n\nWith a &7Focus of Block Shaping&r equipped, however, the following forms become viable, allowing you to instantly create and pick up the conjured material.\n\n&7Conjure and Collect Cold Aercloud&r\n    &5Touch&r > &aConjure Terrain&r > &aCrush&r > \n            &aBreak&r > &aItem Pickup&r\n\nWithout the Focus, this would conjure an Aercloud and break the block you had clicked on to cast. With the Focus, however, the Break affects the block that was summoned.\n\nBelow are a few more spells of interest, but take some time to explore what else you can come up with.\n\n                           &6&nExample Spells&r\n\n&7Conjure and Collect Glass (Requires Cascading Isle)&r\n    &5Touch&r > &aConjure Terrain&r > &aCrush&r > &aSmelt&r > \n            &aBreak&r > &6Extract&r > &aItem Pickup&r\n\n&7Conjure and Collect Terracotta (Requires Cascading Isle)&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aSmelt&r > \n            &aBreak&r > &6Extract&r > &aItem Pickup&r\n\n&7Conjure and Collect Bricks (Requires Cascading Isle)&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aBreak&r > \n            &aSmelt&r > &6Sensitive&r > &aItem Pickup&r",
+    "context": "chapters/flourishing.snbt / quest 63944BDC078E728A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6490781066FAE8CF.quest_desc": {
+    "original": "                      &6&nBiome: Mangrove Swamp&r&r\n\nThe following Placement Conversions are in effect in this biome. Remember to use these to your advantage by using Conjure Terrain to summon these blocks.\n\n  • &7Dirt&r                      &2⟶&r           &7Mud&r\n  • &7Grass Block&r           &2⟶&r           &7Mud&r\n  • &7Cobblestone&r           &2⟶&r           &7Tuff&r\n  • &7Stone&r                   &2⟶&r           &7Infused Rock&r\n  • &7Sand&r                    &2⟶&r           &7Cold Aercloud&r\n  • &7Sandstone&r             &2⟶&r           &7Quicksoil&r\n  • &7C. Deepslate&r           &2⟶&r           &7Aerogel&r\n  • &7Deepslate&r              &2⟶&r           &7Aerogel&r\n\n{@pagebreak}\n&6&nExample Spells&r\n\n&7Conjure Mud&r\n    &5Touch&r > &aConjure Terrain&r\n\n&7Conjure Tuff&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r\n\n&7Conjure Infused Rock&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aSmelt&r\n\n&7Conjure Cold Aercloud&r\n    &5Touch&r > &aConjure Terrain&r > &aCrush&r\n\n&7Conjure Quicksoil&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aCrush&r\n\n&7Conjure Aerogel&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r",
+    "context": "chapters/flourishing.snbt / quest 6490781066FAE8CF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6EA0560551B821B3.quest_desc": {
+    "original": "The &7Flourishing Archwoods&r on this island will already have a few &7Mendosteen&r and &7Glow Berries&r grown on them. \n\nGather a few and consider setting up a farm when you can.\n                      &n&6A Note on Automation&r&r\n\n&7Mendosteen&r grow when placed on the side of &7Flourishing Archwood Logs&r and &7Glow Berries&r grow when placed on the bottom of most blocks. \n\nBoth can be sped up by applying &7Bone Meal&r or other grow effects such as spells.\n\n                           &6&nExample Spells&r\n\n&7Grow and Harvest Mendosteen&r\n    &5Touch&r > &aGrow&r > &aHarvest&r > &aItem Pickup&r\n\n&7Grow and Harvest Glow Berries&r\n    &5Touch&r > &aGrow&r > &aInteract&r > &aItem Pickup&r\n\n&a🛈 Tip: Harvest Rituals are an easy way farm these!",
+    "context": "chapters/flourishing.snbt / quest 6EA0560551B821B3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6EA0560551B821B3.title": {
+    "original": "Island Fruits",
+    "context": "chapters/flourishing.snbt / quest 6EA0560551B821B3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.77FA6854AC88C138.quest_desc": {
+    "original": "Made from &7Cold Aerclouds&r, &7Cloudy Dorodangos&r may be processed down into new materials!\n\n                   &n&6Materials&r\n\n  • &7Sky Stone Dust&r\n  • &7Sal Ammoniac Crystals&r",
+    "context": "chapters/flourishing.snbt / quest 77FA6854AC88C138",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7B9D8AD7BFC1E87D.quest_desc": {
+    "original": "Direct Steam power will only get you so far. To begin working with electricity, you'll need a very special device; a &7Flux Gate&r.\n\n[ \"Head on over to the \", { \"text\": \"Vexing Island\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13F15094F3AF4A73\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" to begin. \" ]",
+    "context": "chapters/flourishing.snbt / quest 7B9D8AD7BFC1E87D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7D63AB919406E5AD.quest_desc": {
+    "original": "&7Dorodangos&r produced by &7Alakarkinos&r are suffused with magic, full of latent potential. The &7Steam Alembic&r is capable of transmuting them into invaluable resources. \n\nOf course, only &7Alakarkinos&r knows how to operate the device in this way. Consider setting its home to the &7Input Hatch&r to ensure one is always nearby.\n&n                                                                          &r\n\nEvery Modern Industrialization multiblock requires input and output hatches commensurate with the recipes it handles. \n\nIn this case, the &7Steam Alembic&r requires both fluid and item hatches.\n\n&a🛈 Tip: Place the controller block, then hold a Wrench \n&a    to see the structure. Similarly, hold a Hatch to see \n&a    valid locations for them.",
+    "context": "chapters/flourishing.snbt / quest 7D63AB919406E5AD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "task.083303CA128E5B22.title": {
+    "original": "Fluid Output Hatch",
+    "context": "chapters/flourishing.snbt / task 083303CA128E5B22",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0BB96E58A01F180D.title": {
+    "original": "Fluid Input Hatch",
+    "context": "chapters/flourishing.snbt / task 0BB96E58A01F180D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.15D7325C0C904192.title": {
+    "original": "Any Small Flower",
+    "context": "chapters/flourishing.snbt / task 15D7325C0C904192",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.360DFCFD6400CADB.title": {
+    "original": "Latex Materials",
+    "context": "chapters/flourishing.snbt / task 360DFCFD6400CADB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.40A7E30D465D0168.title": {
+    "original": "Item Input Hatch",
+    "context": "chapters/flourishing.snbt / task 40A7E30D465D0168",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.40BF2920569F9751.title": {
+    "original": "Addon: Speed",
+    "context": "chapters/flourishing.snbt / task 40BF2920569F9751",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5887027FAE29F371.title": {
+    "original": "Addon: Processing",
+    "context": "chapters/flourishing.snbt / task 5887027FAE29F371",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5FD033C23F211569.title": {
+    "original": "Picking Up What You're Putting Down",
+    "context": "chapters/flourishing.snbt / task 5FD033C23F211569",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.62742836108A45A3.title": {
+    "original": "Addon: Efficiency",
+    "context": "chapters/flourishing.snbt / task 62742836108A45A3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6DE11EA8A586D544.title": {
+    "original": "Item Output Hatch",
+    "context": "chapters/flourishing.snbt / task 6DE11EA8A586D544",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

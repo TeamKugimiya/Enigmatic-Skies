@@ -1,0 +1,218 @@
+{
+  "chapter.25ADADD36B4FDE05.title": {
+    "original": "Just Dire Things",
+    "context": "chapters/25ADADD36B4FDE05.snbt / chapter 25ADADD36B4FDE05",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "chapter.4C53D082D6306BF8.title": {
+    "original": "Just Dire Things",
+    "context": "chapters/25ADADD36B4FDE05.snbt / chapter 4C53D082D6306BF8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0545305EBB98A0BA.quest_desc": {
+    "original": "The &7Advanced Swapper&r must be bound to another &7Advanced Swapper&r, in the same way as binding &7Simple Swappers&r. \n\nThis version requires energy to run but can operate in a larger area, making it more useful for farms. \n\n&a🛈 Tip: Use the Render Area button to \n&a    easily configure the working area.",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 0545305EBB98A0BA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.062BB5F675CF9F45.quest_desc": {
+    "original": "Welcome to Just Dire Things!\n\nThis mod hosts a number of small utility blocks to make life simpler, doing such tasks as interacting with entities, farming crops, and more.\n\nThis chapter will help get you familiar with the crafting mechanics it uses, as well as introduce some of the more notable blocks.\n\n[\"Additionally, the author has a number of helpful \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/playlist?list=PLvGYM7MCieIomj0tKtO9T5DUhvaYFjSxA\"},\"color\":\"blue\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"video guides\",\"underlined\":true},\" on YouTube. Check them out if you need a little extra help.\"]",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 062BB5F675CF9F45",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.062BB5F675CF9F45.title": {
+    "original": "Just Dire Things",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 062BB5F675CF9F45",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0B05FA716D7335D2.quest_desc": {
+    "original": "The &7Simple Dropper&r is an excellent tool to help automate recipes that involve in world transformations.",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 0B05FA716D7335D2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.11EDFB60C787114D.quest_desc": {
+    "original": "&7Goo&r is used to transmute materials placed next to it, converting them into far more valuable substances. \n\nPlacing blocks against any face of the &7Goo&r will begin this transformation. Try placing some &7Iron Blocks&r to begin crafting &7Ferricore&r\n\nWhen the blocks are fully engulfed by the &7Goo&r, they’ll be replaced by a crystal that can be broken to obtain the transmuted materials.\n\n&6⚠ Note: Goo is hungry and needs to be \n&6    fed to work! \n\n&6    Right-Click with items to activate it.\n&6    To find what items work, search \n&3    #goo_revive_tier_1&r&6 in EMI!",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 11EDFB60C787114D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.157A20804F9E8F83.quest_desc": {
+    "original": "With all this in world crafting, an &7Item Collector&r will no doubt come in handy.\n\nThis &7Item Collector&r places its items into the inventory it is attached to and can be filtered in a variety of ways. \n\n&a🛈 Tip: Use the Render Area button to \n&a    easily configure the working area.",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 157A20804F9E8F83",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.20454EB2C6E93573.quest_desc": {
+    "original": "The &7Player Accessor &rallows any form of logistics to interact with your inventory as if it were a chest. \n\nThis could be used to automatically stock building materials for a large project, among other things. ",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 20454EB2C6E93573",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.264783EF292A494B.quest_desc": {
+    "original": "The &7Simple Clicker&r can automate a number of interactions, such as shearing sheep or killing mobs that pass in front of it. \n\nIt does need a tool, so be sure to provide it shears for said sheep farm or a nice looting sword for killing mobs. ",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 264783EF292A494B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.289DEC367A80D718.quest_desc": {
+    "original": "These &7Advanced&r devices operate much like their &7Simple&r counterparts, but with some added features at the cost of energy.\n\nFirst, they operate in a much larger area which may be configured to your needs.\n\nThey also have their own robust filtering systems built in, so they can do more on their own without needing &7Sensors&r to control them.\n\n&a🛈 Tip: Use the Render Area button to \n&a    easily configure the working area.",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 289DEC367A80D718",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.289DEC367A80D718.title": {
+    "original": "Advanced Placers and Collectors",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 289DEC367A80D718",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2961B707783AC925.quest_desc": {
+    "original": "Once you're settled in with energy production, you should be quite comfortable upgrading your &7Goo&r to this tier.\n\n&a🛈 Tip: Higher tier Goos can do all of the lower tier’s recipes.\n\n&6⚠ Note: Goo is hungry and needs to be \n&6    fed to work! \n\n&6    Right-Click with items to activate it.\n&6    To find what items work, search \n&3    #goo_revive_tier_3&r&6 in EMI!",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 2961B707783AC925",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3D59639F51E89CF9.quest_desc": {
+    "original": "The &7Advanced Clicker&r gets an area upgrade over its Simple counterpart, allowing it to interact with things in a larger area. \n\n&a🛈 Tip: Use the Render Area button to \n&a    easily configure the working area.",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 3D59639F51E89CF9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3E7A4470BD04F2A1.quest_desc": {
+    "original": "The &7Simple Sensor&r is an all purpose block and entity sensor that emits a signal according to its settings. \n\nDrag an item or block from EMI to the filter slot in the middle. Right-Click blocks in the filter to configure states such as waterlogged.\n\nFor filtering entities, use that creature’s Spawn Egg and for fluids, use a bucket of that fluid.",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 3E7A4470BD04F2A1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4457D6BB7AE28073.quest_desc": {
+    "original": "The mod doesn’t offer any form of power conduit, but it does offer the next best thing: wireless energy.\n\nThe &7Energy Transmitter&r can be used to power every block in a small area. \n\nUse the Render Area button to help align the work area to cover your machines.",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 4457D6BB7AE28073",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.55065F1D9C6716C1.quest_desc": {
+    "original": "The &7Advanced Sensor&r gets an area upgrade over its Simple counterpart, allowing it to interact with things in a larger area. \n\n&a🛈 Tip: Use the Render Area button to \n&a    easily configure the working area.",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 55065F1D9C6716C1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.574555F24035E48A.quest_desc": {
+    "original": "This collection of blocks do pretty much what their name implies; placing and picking up blocks or fluid.\n\nThey cannot be filtered, but they can be controlled via Redstone, so they can be combined with a &7Sensor&r for more advanced logic. \n\nThey each have a single inventory slot which behaves slightly differently for each. \n\nThe &7Block Breaker&r will break using whatever item is in this slot as its tool. \n\nThe &7Block Placer&r only places the blocks in that inventory slot.\n\nMeanwhile the &7Fluid Collector&r and &7Placer&r blocks accept a tank in those slots to manually insert/extract fluids. Of course, fluids can also be piped in or out. ",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 574555F24035E48A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.574555F24035E48A.title": {
+    "original": "Simple Placers and Collectors",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 574555F24035E48A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.679DACB985517C55.quest_desc": {
+    "original": "The &7Advanced Dropper&r allows for dropping items further away and in more configurable amounts. \n\n&a🛈 Tip: Use the Render Area button to \n&a    easily configure the working area.",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 679DACB985517C55",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.692EDEAEC3F4A2AD.quest_desc": {
+    "original": "The &7Swapper&r is a powerful teleportation device that swaps the blocks or entities in front of it with its linked partner. \n\nThis can be a great way to get around your base, teleport long distances, move babies out of a farm, and more. \n\nThey must be set up in a linked pair and are bound to each other by using a &7Ferricore Wrench&r.\n\nSimply place them both, then Right-Click one with the &7Wrench&r. Finish by Right-Clicking the other with the &7Wrench&r. ",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 692EDEAEC3F4A2AD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.692EDEAEC3F4A2AD.title": {
+    "original": "Simple Swapper",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 692EDEAEC3F4A2AD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7163E7EBDB861D72.quest_desc": {
+    "original": "There is no advanced version of the &7Item Collector&r, instead tools at this tier may be given the ability to teleport items to a bound block.\n\nRunning a mob farm? Use a &7Celestigem Sword&r bound to a storage system; all the mob drops will be inserted automatically.\n\nSetting up a tree farm? Use a &7Celestigem Axe&r to teleport the logs to storage. \n\nFarmland tilled with a &7Celestigem Hoe&r will self-harvest and teleport the drops to a bound storage as well.",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 7163E7EBDB861D72",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7163E7EBDB861D72.title": {
+    "original": "Advanced Item Collector?",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 7163E7EBDB861D72",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.76695BF2B0E70087.quest_desc": {
+    "original": "[ \"After a quick jaunt to the \", { \"text\": \"Blazing Island\", \"color\":\"aqua\", \"underlined\": true, \"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A799F91D9A1C8A1\" } }, \", you’ll be able to upgrade your \", {\"text\": \"Goo\", \"color\": \"gray\"}, \" to a \", {\"text\": \"Blazebloom Goo\", \"color\": \"gray\"}, \" \" ]\n\n&a🛈 Tip: Higher tier Goos will do all of the \n&a    lower tier’s recipes faster.\n\n&6⚠ Note: Goo is hungry and needs to be \n&6    fed to work! \n\n&6    Right-Click with items to activate it.\n&6    To find what items work, search \n&3    #goo_revive_tier_2&r&6 in EMI!",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 76695BF2B0E70087",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.78B1BC9540590D17.quest_desc": {
+    "original": "Need a place to store that hard earned experience? \n\nTry the &7Experience Holder&r. \n\nThis handy device can be used to keep you at a specific level of experience, as well as storing an incredible amount of experience. \n\nIt makes an indispensable addition to any enchanting area. ",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 78B1BC9540590D17",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.79951647661D4B52.quest_desc": {
+    "original": "[ \"Face off against a \", {\"text\": \"Warden\", \"color\": \"gray\"}, \" at the \", { \"text\": \"Flashing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"300207E2557764E1\" } }, \" to obtain the necessary ingredients required for this tier of \", {\"text\": \"Goo\", \"color\": \"gray\"}, \".\" ]\n\n&a🛈 Tip: Higher tier Goos will do all of the \n&a    lower tier’s recipes faster.\n\n&6⚠ Note: Goo is hungry and needs to be \n&6    fed to work! \n\n&6    Right-Click with items to activate it.\n&6    To find what items work, search \n&3    #goo_revive_tier_4&r&6 in EMI!",
+    "context": "chapters/25ADADD36B4FDE05.snbt / quest 79951647661D4B52",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  }
+}

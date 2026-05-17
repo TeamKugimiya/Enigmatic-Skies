@@ -1,0 +1,250 @@
+{
+  "chapter.0EFE9E753A92388D.title": {
+    "original": "Building",
+    "context": "chapters/0EFE9E753A92388D.snbt / chapter 0EFE9E753A92388D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.00DE313EE5B9954D.quest_desc": {
+    "original": "A simple tape measure to help count distances. Handy for any dedicated builder to keep around.",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 00DE313EE5B9954D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.01266355AAB13C39.quest_desc": {
+    "original": "Chisel offers a plethora of block variants to spice up your building. Grab a Chisel and some blocks and get to work!\n\n&a🛈 Tip: Search &3@chisel&r &ain EMI to \n&a    discover more.",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 01266355AAB13C39",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.064BF1AA27A01A3A.quest_desc": {
+    "original": "BetterBlockZ is a decorative mod with a wide variety of sci-fi inspired elements to use in your builds!\n\nEach block has multiple variants that can be easily selected through keybinds, and multiple wands exist to quickly modify blocks already placed in the world.\n\n&a🛈 Tip: Search &3@blockz&r &ain EMI to \n&a    discover more.",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 064BF1AA27A01A3A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.064BF1AA27A01A3A.title": {
+    "original": "BetterBlockZ",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 064BF1AA27A01A3A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0CCE0467AF123EAB.quest_desc": {
+    "original": "Just Dire Things introduces a number of tools with special capabilities, from aoe breaking to teleportation of items to a linked inventory. \n\nHigher tiers also run on FE instead of using durability!\n\n&a🛈 Tip: Sneak Right-Click these tools to\n&a    open their options menu.",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 0CCE0467AF123EAB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.136EC4060E233E16.quest_desc": {
+    "original": "Construction Sticks help with mass placement of blocks, such as for building out walls and floors. \n\nThey offer a variety of options out of the box, but can be upgraded with new features by applying a Template in a Smithing Table.  ",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 136EC4060E233E16",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1D5616DFA428D46F.quest_desc": {
+    "original": "Building Gadgets offer a number of FE powered tools to assist with building ranging from block placement, block replacement, copy/paste, and even straight deletion of large areas.\n\nIf you’re looking to build a massive base, Building Gadgets likely has a tool to help. \n\n&a🛈 Tip: Search &3@buildinggadgets&r &ain EMI\n&a    to discover more.",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 1D5616DFA428D46F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1D5616DFA428D46F.title": {
+    "original": "Building Gadgets",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 1D5616DFA428D46F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1D5E773A3A547A2C.quest_desc": {
+    "original": "If you’re into Cottagecore or just want some knicknacks to fill your shelves with, Handcrafted is the place to start. It’s loaded with comfy chairs and interior decorations.\n\n&a🛈 Tip: Search &3@handcrafted&r &ain EMI to \n&a    discover more.",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 1D5E773A3A547A2C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1D5E773A3A547A2C.title": {
+    "original": "Handcrafted",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 1D5E773A3A547A2C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3263757C9A240C70.quest_desc": {
+    "original": "Chipped offers a multitude of block variants to fit your every decorative need. The Workbenches themselves are equally lovely and can spruce up your interiors quite easily.\n\nIf you’d like to work on the go, the mod also offers a variety of handheld tools that work exactly like a placed Workstation.\n\nWorkstation variants are aesthetic only. They can all make any Chipped block, so pick your favorite!\n\n&a🛈 Tip: Search &3@chipped&r &ain EMI to \n&a    discover more.",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 3263757C9A240C70",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3263757C9A240C70.title": {
+    "original": "Chipped",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 3263757C9A240C70",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4FEA49AD05720ED7.quest_desc": {
+    "original": "Ah, the simple joys of playing with chalk outside. \n\nArts and Crafts allows you to craft paint brushes to rapidly re-color blocks such as Wool, Terracotta, or any of the many blocks added by the mod itself. \n\n&a🛈 Tip: Search &3@arts&r &ain EMI to \n&a    discover more.",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 4FEA49AD05720ED7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4FEA49AD05720ED7.title": {
+    "original": "Arts and Crafts",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 4FEA49AD05720ED7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6AFCA9F187AE6EB2.quest_desc": {
+    "original": "The Building section covers mods and tools to help you build up or tear down. \n\nFrom mining and decoration, to destruction and more, the mods shown here will help you do it all.",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 6AFCA9F187AE6EB2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6AFCA9F187AE6EB2.title": {
+    "original": "Building",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 6AFCA9F187AE6EB2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6C4A7BF577605E4A.quest_desc": {
+    "original": "The &7Time Wand&r uses Time Fluid and Energy to drastically accelerate machines for a brief period. \n\nSimply Sneak + Right Click on a machine to apply stacking boosts up to 256x speed.   ",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 6C4A7BF577605E4A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.77A66ADAB0845804.quest_desc": {
+    "original": "Macaw’s Mods are an expansive suite of decorative mods to fit just about any build. Enigmatica 10 currently has the following:\n\n• Macaw’s Bridges\n• Macaw’s Doors\n• Macaw’s Fences and Walls\n• Macaw’s Lights and Lamps\n• Macaw’s Paths and Pavings\n• Macaw’s Trapdoors\n\n&a🛈 Tip: Search &3@mcw&r &ain EMI to\n&a    discover more.",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 77A66ADAB0845804",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.77A66ADAB0845804.title": {
+    "original": "Macaw's Mods",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 77A66ADAB0845804",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7ADBC282C9692EDE.quest_desc": {
+    "original": "Cable Façades are a universal façade that you can use to cover just about any pipe! ",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 7ADBC282C9692EDE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7ADBC282C9692EDE.title": {
+    "original": "Cable Facades",
+    "context": "chapters/0EFE9E753A92388D.snbt / quest 7ADBC282C9692EDE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0CB92589AF70B557.title": {
+    "original": "Any &3Handcrafted&r Item",
+    "context": "chapters/0EFE9E753A92388D.snbt / task 0CB92589AF70B557",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1B81285E0D45A226.title": {
+    "original": "Any Tool",
+    "context": "chapters/0EFE9E753A92388D.snbt / task 1B81285E0D45A226",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3DED6DAEE4419675.title": {
+    "original": "Any Chipped Workbench",
+    "context": "chapters/0EFE9E753A92388D.snbt / task 3DED6DAEE4419675",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3EAFB384DAB520FD.title": {
+    "original": "Any &3Arts and Crafts&r Item",
+    "context": "chapters/0EFE9E753A92388D.snbt / task 3EAFB384DAB520FD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4FE55FEB08DFF115.title": {
+    "original": "Construction Sticks",
+    "context": "chapters/0EFE9E753A92388D.snbt / task 4FE55FEB08DFF115",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5F727F447B0B4623.title": {
+    "original": "Just Dire Things Tools",
+    "context": "chapters/0EFE9E753A92388D.snbt / task 5F727F447B0B4623",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.60BB29288D966B49.title": {
+    "original": "Any &3Macaw's&r Item",
+    "context": "chapters/0EFE9E753A92388D.snbt / task 60BB29288D966B49",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.73C57E2AF9A1F920.title": {
+    "original": "Any Chipped Tool",
+    "context": "chapters/0EFE9E753A92388D.snbt / task 73C57E2AF9A1F920",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.75050C1ED68FA527.title": {
+    "original": "Building Gadgets",
+    "context": "chapters/0EFE9E753A92388D.snbt / task 75050C1ED68FA527",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

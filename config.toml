@@ -1,0 +1,35 @@
+schema_version = 1
+
+[project]
+slug = "enigmatic-skies"
+name = "Enigmatic Skies"
+source_locale = "en_us"
+target_locale = "zh_tw"
+
+[upstream]
+platform = "curseforge"
+project_id = "1503381"
+minecraft_version = "1.21.1"
+loader = "neoforge"
+release_channel = "release"
+
+[paratranz]
+project_id = 19100
+
+[source]
+archive_roots = ["overrides", "."]
+include = [
+  "config/ftbquests/quests/**/*.snbt"
+]
+
+[[convert.sources]]
+name = "ftbquests"
+type = "ftb-quests-lang-splitter"
+snbt_adapter = "canonical-snbt-json"
+snbt_multiline_list_policy = "join_with_lf"
+source_root = "./source/config/ftbquests/quests/lang"
+quest_data_root = "./source/config/ftbquests/quests"
+translation_root = "./translation/config/ftbquests/quests/lang"
+paratranz_root = "ftbquests"
+source_locale = "{source_locale}"
+target_locale = "{target_locale}"

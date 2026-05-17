@@ -1,0 +1,506 @@
+{
+  "chapter.402AE6264B81A84B.title": {
+    "original": "Logistics",
+    "context": "chapters/402AE6264B81A84B.snbt / chapter 402AE6264B81A84B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.00066BB06F509677.quest_desc": {
+    "original": "Item Cards for LaserIO allow Laser Nodes to transport Items.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 00066BB06F509677",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.015857940250CE8D.quest_desc": {
+    "original": "&7Fluid Modules&r for &7Modular Routers&r allows them to transfer fluid bi-directionally. They can also be used to place fluid in the world. \n\nThe &7Router&r needs some kind of storage tank in its buffer to work. A bucket is sufficient but a larger fluid tank from any other mod is ideal.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 015857940250CE8D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.04CE3E8B1DF8B441.quest_desc": {
+    "original": "The following are various forms of fluid transfer options available in Enigmatica 10.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 04CE3E8B1DF8B441",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.04CE3E8B1DF8B441.title": {
+    "original": "Fluids",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 04CE3E8B1DF8B441",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0537E3C9A2164A7D.quest_desc": {
+    "original": "Oritech’s &7Fluid Pipes&r may not have many fancy features, but they’ll get the job done. \n\nThese come in three varieties, though the differences are mainly cosmetic. &7Framed Pipes&r have a nice supporting structure around them, while &7Duct Pipes&r are a full block for passing through a wall without gaps. &7Duct Pipes&r only connect to other pipes, however.\n\nRight-Click the pipe connecting to a machine or tank to set it to Extract mode.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 0537E3C9A2164A7D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0B04BC5F88746182.quest_desc": {
+    "original": "The following are full-blown storage systems that hold many types of items and present them in a single easy-to-browse and searchable interface. ",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 0B04BC5F88746182",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0B04BC5F88746182.title": {
+    "original": "Storage",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 0B04BC5F88746182",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0D32F25CCBC9B192.quest_desc": {
+    "original": "Simple power cables for transferring Modern Industrialization’s EU power. \n\nThey can power blocks that use FE, but can only accept power from Modern Industrialization generators.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 0D32F25CCBC9B192",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0D65061DFD04B301.quest_desc": {
+    "original": "&7Item Modules&r for &7Modular Routers&r allow them to send to or pull from an inventory. \n\nThe first tier, MK1, can only send in a straight line, while MK2 can interact with any linked inventory in range. MK3 Senders are special in that they have no range limits and work across dimensions.\n\n&7Distributor Modules&r can pull from or send to a maximum of up to eight inventories per module, making them perfect for distributed crafts or collecting from many machines.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 0D65061DFD04B301",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0D65061DFD04B301.title": {
+    "original": "Item Modules",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 0D65061DFD04B301",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0E1258E2B2C7FFD5.quest_desc": {
+    "original": "&7Modular Routers&r can be upgraded with an &7Energy Distributor Module&r, allowing them to deliver power wirelessly to eight different blocks per module.\n\nTo use them, the &7Router&r must also have an &7Energy Upgrade&r installed, which determines the type of energy the &7Router&r will send. This is fully compatible with both FE and EU.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 0E1258E2B2C7FFD5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.16BFB19411FE195F.quest_desc": {
+    "original": "LaserIO is a catch all logistics mod capable of many things. \n\nCheck out the guidebook for more information on how to use it to your advantage!",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 16BFB19411FE195F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.16BFB19411FE195F.title": {
+    "original": "LaserIO",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 16BFB19411FE195F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1CEDA28FD4CB759E.quest_desc": {
+    "original": "&7Transfer Labels&r slip between blocks to enable block-to-block transfer without a pipe. \n\nSneak + Right-Click to install one on the side of a block. Once installed, the label may be configured by Right-Clicking either with another label or with a &7Label Accessor&r. \n\nWhile in the Configuration screen, you may add more labels to control the quantity and speed of transfer, as well as set filters.\n\nThe label may be removed by Left-Clicking it with another label or with a &7Label Accessor&r.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 1CEDA28FD4CB759E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2150EE8D0B1474CE.quest_desc": {
+    "original": "The Logistics section covers items from mods that help automate moving things around.\n\nBe it items, fluids, or power, the mods shown here will help move it.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 2150EE8D0B1474CE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2150EE8D0B1474CE.title": {
+    "original": "Logistics",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 2150EE8D0B1474CE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.21C1CAA38D040AC8.quest_desc": {
+    "original": "Functional Storage is an expandable storage solution capable of holding all of your items and liquids. \n\nEach drawer can hold from one to four item types, but will hold a truly astronomical amount of them. \n\nDrawers may also be linked up to a Drawer Controller, allowing you to link all of the drawers into a single network. So, item pipes and other logistics can pipe into or out of the Controller and have access to every attached drawer.\n\nIt’s not possible to manually access the Storage Controller, so you’ll likely want to pair this with something else that allows you access the items. An Ad Hoc AE2 network, Pretty Pipes, or an Ars nouveau Storage Lectern are all excellent options.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 21C1CAA38D040AC8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.21C1CAA38D040AC8.title": {
+    "original": "Functional Drawers",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 21C1CAA38D040AC8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.21FA8A625A79BE61.quest_desc": {
+    "original": "Simple fluid pipes for getting fluid from one place to another. \n\nEach one will only transfer a single fluid type at a time.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 21FA8A625A79BE61",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.22ABFC3024E54FEA.quest_desc": {
+    "original": "The Mercurial Item transport system is a simple logistics network for moving, well, items.\n\nThe &7Inserters&r and &7Extractors&r can be placed against machines or other inventories and then linked up with &7Mercurial Copper Wire&r. \n\n&7Mercurial Connection Nodes&r allow multiple wires to come together to form a broader network, as well as to extend the reach of individual wires.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 22ABFC3024E54FEA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.22ABFC3024E54FEA.title": {
+    "original": "Mercurial Item Nodes",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 22ABFC3024E54FEA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.235D7EF41916E480.quest_desc": {
+    "original": "The following are various forms of power transfer options available in Enigmatica 10.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 235D7EF41916E480",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.235D7EF41916E480.title": {
+    "original": "Power",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 235D7EF41916E480",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.28F4519591D71F80.quest_desc": {
+    "original": "&7Item Laser Relays&r pair with an &7Item Interface&r to create a larger storage network from a bunch of small inventories. \n\nPlace the L&7aser Relays&r against a series of chests and another against an &7Item Interface&r. Link them all together with a &7Laser Wrench&r and now any items that are pushed into the &7Interface&r will be stored in the chests. \n\nSimilarly, items can be pulled out of the system from the &7Interface&r, meaning this can be paired nicely with AE2 or an Ars Nouveau Storage Lectern.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 28F4519591D71F80",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2B0DDF8003305DB6.quest_desc": {
+    "original": "&7Transfer Labels&r slip between blocks to enable block-to-block transfer without a pipe. \n\nSneak + Right-Click to install one on the side of a block. Once installed, the label may be configured by Right-Clicking either with another label or with a &7Label Accessor&r. \n\nWhile in the Configuration screen, you may add more labels to control the quantity and speed of transfer, as well as set filters.\n\nThe label may be removed by Left-Clicking it with another label or with a &7Label Accessor&r.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 2B0DDF8003305DB6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2CA1A8A7B84FAD71.quest_desc": {
+    "original": "Modular Routers is a catch all logistics mod capable of many things. \n\nCheck out the guidebook for more information on how to use it to your advantage!",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 2CA1A8A7B84FAD71",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.35FD905A4A4EB1F5.quest_desc": {
+    "original": "Pretty Pipes: Fluids is an addon to Pretty Pipes which allows the network to carry fluids in addition to items. The same network will effectively carry both, allowing everything to flow through a single block space. \n\n&7Fluid Pipes&r are therefore only required at the end points where the pipes connect to a fluid tank. \n\nLike Pretty Pipes, this addon includes &7Extraction&r and &7Retrieval Modules&r for getting fluids into and out of tanks. It also features a suite of filters and works with the Pretty Pipes priority system. ",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 35FD905A4A4EB1F5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3A078285904792A2.quest_desc": {
+    "original": "Simple item pipes for moving things around. \n\nThey can be filtered and accept Motors as upgrades to speed them up.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 3A078285904792A2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3FF6566453299DC1.quest_desc": {
+    "original": "Applied Energistics is the ultimate storage and logistics solution. Not only does it store items and fluids, but it acts as a controller for external machines by way of its auto crafting system. \n\n[\"Read more about this system in the dedicated \",{\"clickEvent\":{ \"action\": \"change_page\", \"value\": \"7D82585D50D7207A\" },\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\": \"Applied Energistics\",\"underlined\":true},\" chapter. \"]",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 3FF6566453299DC1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.465D195EA5630857.quest_desc": {
+    "original": "With a Storage Lectern from Ars Nouveau, you can easily link together multiple inventories to have a central storage and crafting interface. \n\nBe sure to check out the Worn Notebook for more information on this system!",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 465D195EA5630857",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.472936F50BC28EBF.quest_desc": {
+    "original": "Sophisticated Storage offers a wide range of inventories to suit your needs, all of which may be connected through a Storage Controller for centralized access to everything in the network. \n\nThe Storage Tool is used to select the Controller and then bind different inventories to it. This allows wireless connections within a limited range. \n\nIt’s not possible to manually access the Storage Controller, so you’ll likely want to pair this with something else that allows you access the items. An Ad Hoc AE2 network, Pretty Pipes, or an Ars nouveau Storage Lectern are all excellent options.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 472936F50BC28EBF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.472936F50BC28EBF.title": {
+    "original": "Sophisticated Storage",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 472936F50BC28EBF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.598473588831F46D.quest_desc": {
+    "original": "&7Fluid Laser Relays&r act as a wireless fluid pipe. Simply place them against the machines that need liquids and a tank, then link them all together with the Laser Wrench. \n\nThey have a relatively short range but can be chained to extend their reach!\n\n&a🛈 Tip: Use a Compass to change modes\n&a    to pull from the source tank!",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 598473588831F46D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5FD8F4BE050D55B2.quest_desc": {
+    "original": "&7Pretty Pipes&r are a simple item logistics and sorting system with some powerful features. \n\nPerhaps the biggest draw is that they show what’s moving through them for a more immersive experience. \n\nBeyond this, however, they offer both push and pull functionality, where an &7Extraction Module&r can be used to pull items from an adjacent inventory and disperse them throughout the network, or a &7Retrieval Module&r may be used to pull items from any inventory on the network and push into the adjacent inventory. \n\nVarious filters and priority modules exist to help ensure the items are going to the correct place. ",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 5FD8F4BE050D55B2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6A94923547B93B51.quest_desc": {
+    "original": "Fluid Cards for LaserIO allow Laser Nodes to transport Fluids.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 6A94923547B93B51",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7327D905FE8B38FC.quest_desc": {
+    "original": "The Item Terminal turns a Pretty Pipes network into a full-fledged item management system, allowing you to access the items throughout a network in one central location. \n\nThis may even be upgraded to a Crafting Terminal which has an integrated crafting grid. \n\nAttaching and powering a Pipe Pressurizer will greatly increase the speed at which items are retrieved, however it is also recommended to keep your storage network pipe length short to ensure the items get to you quickly when requested.\n&n                                                  &r\n\nLastly, through the use of Crafting Modules, these Terminals may be used to request crafts on demand. \n\nSimply program the Crafting Module in a pipe segment adjacent to a machine and it will insert the ingredients upon request. \n\nAnother unconfigured pipe segment is needed for the Terminal to retrieve the craft.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 7327D905FE8B38FC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7327D905FE8B38FC.title": {
+    "original": "Pretty Pipes",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 7327D905FE8B38FC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.752888EAF2861EB4.quest_desc": {
+    "original": "The following are various forms of item transfer options available in Enigmatica 10.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 752888EAF2861EB4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.752888EAF2861EB4.title": {
+    "original": "Items",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 752888EAF2861EB4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7C1E4DDAAA75E58F.quest_desc": {
+    "original": "Oritech’s &7Item Pipes&r offer limited logistics and filtering, perfect for point-to-point transfers. \n\nThese come in four varieties, though the differences are mainly cosmetic. \n&7Framed Pipes&r have a nice supporting structure around them, while &7Duct Pipes&r are a full block for passing through a wall without gaps. &7Duct Pipes&r only connect to other pipes, however.\n\nRight-Click the pipe connecting to a machine or tank to set it to Extract mode.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 7C1E4DDAAA75E58F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7C27093E25633B9F.quest_desc": {
+    "original": "The Mercurial Fluid transport system is a simple logistics network for moving, well, fluids.\n\nThe &7Inserters&r and &7Extractors&r can be placed against machines or other inventories and then linked up with &7Mercurial Copper Wire&r. \n\n&7Mercurial Connection Nodes&r allow multiple wires to come together to form a broader network, as well as to extend the reach of individual wires.",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 7C27093E25633B9F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7C27093E25633B9F.title": {
+    "original": "Mercurial Fluid Nodes",
+    "context": "chapters/402AE6264B81A84B.snbt / quest 7C27093E25633B9F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1D1C35B0CD86F6CC.title": {
+    "original": "Any Fluid Drawer",
+    "context": "chapters/402AE6264B81A84B.snbt / task 1D1C35B0CD86F6CC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.24FDDE2CC71EBC7A.title": {
+    "original": "Logistics",
+    "context": "chapters/402AE6264B81A84B.snbt / task 24FDDE2CC71EBC7A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2BEFCB331D1564CF.title": {
+    "original": "Any Basic Sophisticated Storage Chest or Barrel",
+    "context": "chapters/402AE6264B81A84B.snbt / task 2BEFCB331D1564CF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2D263309A4FF7233.title": {
+    "original": "Energy Upgrades",
+    "context": "chapters/402AE6264B81A84B.snbt / task 2D263309A4FF7233",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.328C56BA23A70B8F.title": {
+    "original": "Power",
+    "context": "chapters/402AE6264B81A84B.snbt / task 328C56BA23A70B8F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.358F07DD4EF00930.title": {
+    "original": "Item Pipes",
+    "context": "chapters/402AE6264B81A84B.snbt / task 358F07DD4EF00930",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.35B971D8A6CCBC94.title": {
+    "original": "EU Cables",
+    "context": "chapters/402AE6264B81A84B.snbt / task 35B971D8A6CCBC94",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.36D658D637E5D847.title": {
+    "original": "Storage Systems",
+    "context": "chapters/402AE6264B81A84B.snbt / task 36D658D637E5D847",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3C9F8F7D407AC253.title": {
+    "original": "Sender Modules",
+    "context": "chapters/402AE6264B81A84B.snbt / task 3C9F8F7D407AC253",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3D17C42035FE93C1.title": {
+    "original": "Fluid Transfer Labels",
+    "context": "chapters/402AE6264B81A84B.snbt / task 3D17C42035FE93C1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3F1AFB75DEE21F65.title": {
+    "original": "Fluid Pipes",
+    "context": "chapters/402AE6264B81A84B.snbt / task 3F1AFB75DEE21F65",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.466DBFDDD1C1C5A6.title": {
+    "original": "Storage Controller",
+    "context": "chapters/402AE6264B81A84B.snbt / task 466DBFDDD1C1C5A6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.484FF1BEA9145D5F.title": {
+    "original": "Puller Modules",
+    "context": "chapters/402AE6264B81A84B.snbt / task 484FF1BEA9145D5F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4AAAB62A26960EFE.title": {
+    "original": "Fluid Pipes",
+    "context": "chapters/402AE6264B81A84B.snbt / task 4AAAB62A26960EFE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4D45C5166D0700F8.title": {
+    "original": "Item Pipes",
+    "context": "chapters/402AE6264B81A84B.snbt / task 4D45C5166D0700F8",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.51C59228A0E0612E.title": {
+    "original": "Items",
+    "context": "chapters/402AE6264B81A84B.snbt / task 51C59228A0E0612E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5FAB53ACB4BF565C.title": {
+    "original": "Fluid Modules",
+    "context": "chapters/402AE6264B81A84B.snbt / task 5FAB53ACB4BF565C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.6D1A048396918DF0.title": {
+    "original": "Fluids",
+    "context": "chapters/402AE6264B81A84B.snbt / task 6D1A048396918DF0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.71EFA0C693ACD330.title": {
+    "original": "Item Transfer Labels",
+    "context": "chapters/402AE6264B81A84B.snbt / task 71EFA0C693ACD330",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7E422D4A867340A6.title": {
+    "original": "Any Functional Storage Drawer",
+    "context": "chapters/402AE6264B81A84B.snbt / task 7E422D4A867340A6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "chapter.300207E2557764E1.title": {
+    "original": "Flashing Island",
+    "context": "chapters/flashing.snbt / chapter 300207E2557764E1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0B17FF64DFA4BA90.quest_desc": {
+    "original": "Looking for an easier way to get around? Consider crafting an Elytra to glide between islands in style!",
+    "context": "chapters/flashing.snbt / quest 0B17FF64DFA4BA90",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0C32904CD01E4743.quest_desc": {
+    "original": "Animate a Zephyr and harvest it for parts.\n\n&6⚠ Note: The Ritual Item is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/flashing.snbt / quest 0C32904CD01E4743",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1476B02AA2977ACB.quest_desc": {
+    "original": "The funny thing about being so high in the air is just how much lightning one can attract with a proper setup. \n\nThe &7Electrostatic Compressor&r will attract random lightning strikes, converting the energy into compressed air up to &720 bar&r.\n\nIt works well enough in clear skies, but when a storm rolls through it will really get going.\n\nUp this far, it is &overy efficient&r.\n&n                                                              &r\n\n[\"An example of the structure required for this compressor can be found on \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://blockprints.io/schematic/f0d838f5-6460-4f3d-aaf0-ab6590df20e5\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"BlockPrints.io\",\"underlined\":true},\". Press (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Open Book\"}]},\"keybind\":\"key.blockprints.open_menu\"},\") to open the menu!\"]\n\n&a🛈 Tip: Search &3#electrostatic&r &ain EMI to discover \n&a    valid blocks for an Electrostatic Grid.",
+    "context": "chapters/flashing.snbt / quest 1476B02AA2977ACB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1476B02AA2977ACB.quest_subtitle": {
+    "original": "Shocking Efficiency",
+    "context": "chapters/flashing.snbt / quest 1476B02AA2977ACB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.19F8B29D38CA31B8.quest_desc": {
+    "original": "The &7Flashing Archwoods&r on this island will already have a few &7Flashpine&r grown on them. \n\nGather a few and consider setting up a farm when you can; they grow when placed on a &7Flashing Archwood Log&r and can be sped up by applying &7Bone Meal&r or other grow effects. \n\n&a🛈 Tip: Harvest Rituals can be an easy \n&a    way to farm these fruit!",
+    "context": "chapters/flashing.snbt / quest 19F8B29D38CA31B8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1C4DB05778703E9B.quest_desc": {
+    "original": "&7Wardens&r were built for protection. That was the original purpose, at least.\n\nSomewhere along the way, they decided the best way to protect was to consume the souls of those they watched over. No more harm can come, after all, if there’s no body to be harmed.\n\nBy harvesting the souls from these creatures, we can use them to make many of our machines operate quicker. \n&n                                                              &r\n\nMany machines have built-in ways to speed themselves up; addons, upgrades, and the like. Sometimes, that's simply not enough, however. And in other cases, there's simply no built-in way to speed up the device.\n\nThis system can be a great way to speed up things like the &7Cooking Pot&r and the &7Natural Altar&r, among others.",
+    "context": "chapters/flashing.snbt / quest 1C4DB05778703E9B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1D9182A079919158.quest_desc": {
+    "original": "Need a little more room to work? Summoning another island is always an option. \n\nAlternatively, Right-Click &7Sculk&r with &7Air Essence&r to convert a &n21x11x21&r area to this biome!",
+    "context": "chapters/flashing.snbt / quest 1D9182A079919158",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1D9182A079919158.title": {
+    "original": "Biome Conversion",
+    "context": "chapters/flashing.snbt / quest 1D9182A079919158",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.25570E19FFABD951.quest_desc": {
+    "original": "The &7Arcane Catalyst&r and &7Stabilized Enchanter&r will allow you to over enchant your tools, weapons, and armor to truly absurd levels of power. \n\nAs &7Spirit&r requirements increase, it may be a good idea to push your Spirit Plunder enchants to ever greater heights.",
+    "context": "chapters/flashing.snbt / quest 25570E19FFABD951",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.274C351C4A8F794F.quest_desc": {
+    "original": "Positively buzzing with arcane energy. ",
+    "context": "chapters/flashing.snbt / quest 274C351C4A8F794F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2BB91161DB6B6AF5.quest_desc": {
+    "original": "What, you thought you’d have to blow up a bunch of &7Iron&r to make yourself some &7Compressed Iron&r? \n\nJust squish it really hard!",
+    "context": "chapters/flashing.snbt / quest 2BB91161DB6B6AF5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3DE69E7B1359D76D.quest_desc": {
+    "original": "This metal resonates with the endless possibilities of the void. \n\nIt feels lightweight but resists sudden changes in momentum as if it were incredibly dense or being dragged through a thick fluid…",
+    "context": "chapters/flashing.snbt / quest 3DE69E7B1359D76D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.42A899B5E25F6124.quest_desc": {
+    "original": "Channeling the most powerful magics requires a highly specialized focus. \n\nUpgrade your &7Spell Book&r with the materials you’ve discovered here and on other islands to unlock your true spell casting capabilities.\n\n&a🛈 Tip: Spells and are retained when \n&a    upgrading your Spell Book!",
+    "context": "chapters/flashing.snbt / quest 42A899B5E25F6124",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.42A899B5E25F6124.title": {
+    "original": "Tier 3 Spells",
+    "context": "chapters/flashing.snbt / quest 42A899B5E25F6124",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.454EB146FC67E3D5.quest_desc": {
+    "original": "Who knew accelerating objects to near relativistic speeds and smashing them together could be so lucrative?\n\nThe &7Particle Accelerator&r consists of a large free form multiblock structure. The &7Accelerator&r itself is used to inject items into the beam and the &7Guide Rings&r are used to guide the beam along the desired path. \n\nTypically, this path should be a loop to gain the momentum needed for various crafts. \n\nSpeeding up the particle will require one or more &7Linear Motors&r. As the input item crosses a powered &7Motor&r, it will consume &640 * Current Speed FE&r to accelerate by &61J&r. So while a low speed collision of &6100J&r will only require about &6200k FE&r total, high speed crafts may consume millions or billions of FE.\n\nStarting off, you'll probably only have a few &7Linear Motors&r, so it is best to keep the ring small to reduce the time it takes for the particle to get back around to the &7Motor&r again. \n\n&7Guide Rings&r may be controlled by &cRedstone&r to send a particle out into a larger loop that can handle higher speeds as the particle gains momentum.\n&n                                                                          &r\n\n[\"There are a lot of moving parts here, so be sure to check out the \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://moddedmc.org/en/project/oritech/docs/interaction/particle_accelerator\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Particle Accelerator\",\"underlined\":true},\" on the Oritech Wiki, which does an excellent job of describing how this system works. \"]\n\nTo give an idea of scope, however, consider a recipe that requires a collision of &61000J&r. Reaching these speeds while keeping your particle contained will require a minimum distance of 11 blocks between turns.\n\nSee the next page for a full list of speeds by &cRedstone Signal Strength&r as measured by the &7Sensor&r.\n\n{@pagebreak}\n            &6&nSignal Strength&r            &6&nParticle Speed&r \n                      1                             0\n                      2                            10\n                      3                            50\n                      4                            75\n                      5                           100\n                      6                           150\n                      7                           250\n                      8                           500\n                      9                           750\n                     10                          1000\n                     11                          2500\n                     12                          5000\n                     13                          7500\n                     14                         10000\n                     15                         15000",
+    "context": "chapters/flashing.snbt / quest 454EB146FC67E3D5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.47A2DB9344C8CE26.quest_desc": {
+    "original": "With a &7Zephyr Impetus&r secured, you’ll be able to mass produce some important materials; &7Weather Crystals&r and &7Wind Charges&r. \n\n[ \"Refer to the Spirit Focusing quest in the \", { \"text\": \"Malum\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0C0D9C8007301C03\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" Chapter for information on using the Impetus.\" ]\n\n&a🛈 Tip: Mending Diffusers are an easy\n&a    way to keep your Impetus from\n&a    breaking.",
+    "context": "chapters/flashing.snbt / quest 47A2DB9344C8CE26",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4D8B278BDF762813.quest_desc": {
+    "original": "As cold as the void, this material seems to phase in and out of existence.",
+    "context": "chapters/flashing.snbt / quest 4D8B278BDF762813",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4E2D6D91B5DA19EE.quest_desc": {
+    "original": "Deep intelligence and prescient capabilities allow these devices to handle the unpredictable power surges and chaotic arcane energies necessary for advanced technology. ",
+    "context": "chapters/flashing.snbt / quest 4E2D6D91B5DA19EE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4EA58751A74DABAA.quest_desc": {
+    "original": "Capable of storing immense power, &7Vibrant Crystals&r will allow you to begin dealing with EV Tier power. ",
+    "context": "chapters/flashing.snbt / quest 4EA58751A74DABAA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.503873180200D878.quest_desc": {
+    "original": "Made from &7Sculk&r, &7Reverberating Dorodangos&r may be processed down into new materials!\n\n                   &n&6Materials&r\n\n  • &7Zanite Gemstone&r\n  • &7Echo Dust&r\n  • &7Otherworld Ashes&r",
+    "context": "chapters/flashing.snbt / quest 503873180200D878",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.521DE7879A4B6F03.quest_desc": {
+    "original": "With access to &7EV Tier Cables&r and &7Transformers&r, upgrading your power infrastructure to handle high powered &7Particle Accelerator&r crafts would be a very good idea.  ",
+    "context": "chapters/flashing.snbt / quest 521DE7879A4B6F03",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.53D3092CA777D3B5.quest_desc": {
+    "original": "Nearly perfect, this Resonator seems to be able to react to changing conditions well in advance. \n\nThis will be of use when dealing with highly unstable arcane flows. ",
+    "context": "chapters/flashing.snbt / quest 53D3092CA777D3B5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.55D51F58CA3130AA.quest_desc": {
+    "original": "Alakarkinos is eager and ready to assist! \n\nNew &7Dorodangos&r await you with the materials available on this island. ",
+    "context": "chapters/flashing.snbt / quest 55D51F58CA3130AA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5A5596ED63306534.quest_desc": {
+    "original": "It seems to flicker to a breeze that isn't there. ",
+    "context": "chapters/flashing.snbt / quest 5A5596ED63306534",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.60DC19DA26E8CCA4.quest_desc": {
+    "original": "With all of the impurities purged, &7Stainless Steel&r should prove useful in more advanced technology where a stray soul or two might otherwise disturb the process and prove disastrous. ",
+    "context": "chapters/flashing.snbt / quest 60DC19DA26E8CCA4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.697E0106FF4F5691.quest_desc": {
+    "original": "&7Ender Resonators&r, despite their prescience, still lack the higher-order thinking capabilities of a conscious mind. \n\nCombining the two will permit working with the most unstable and powerful aspects of magic.",
+    "context": "chapters/flashing.snbt / quest 697E0106FF4F5691",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6DD8DD44D4B70AD4.quest_desc": {
+    "original": "With an &7Addon Splicer&r, it’s possible to compact a set of Addons into a single block, allowing you to make more compact setups for your Oritech machines. \n\nOnce the structure is built, attach addons to it like you would any other machine. Then either click the &7Compact!&r button in the GUI or supply a Redstone signal to the front of the machine to produce a &7Heart of the Machine&r. \n\nThis new compact addon will have provide the same benefits as the addons used to craft it and must be attached directly to an Oritech machine; it cannot be extended in any way, nor combined with other addons. ",
+    "context": "chapters/flashing.snbt / quest 6DD8DD44D4B70AD4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.768869D763EC54EB.quest_desc": {
+    "original": "                       &6&nBiome: Deep Dark&r&r\n\nThe following Placement Conversions are in effect in this biome. Remember to use these to your advantage by using Conjure Terrain to summon these blocks.\n\n  • &7Dirt&r                      &2⟶&r           &7Aether Dirt&r\n  • &7Grass Block&r           &2⟶&r           &7Aether Grass Block&r\n  • &7Cobblestone&r           &2⟶&r           &7Sculk&r\n  • &7Stone&r                   &2⟶&r           &7Sculk&r\n  • &7Sand&r                    &2⟶&r           &7Cold Aercloud&r\n  • &7Sandstone&r             &2⟶&r           &7Quicksoil&r\n  • &7C. Deepslate&r           &2⟶&r           &7C. Deepslate&r\n  • &7Deepslate&r              &2⟶&r           &7Deepslate&r\n\n{@pagebreak}\n&6&nExample Spells&r\n\n&7Conjure Aether Dirt&r\n    &5Touch&r > &aConjure Terrain&r\n\n&7Conjure Sculk&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r\n\n&7Conjure Gold Aercloud&r\n    &5Touch&r > &aConjure Terrain&r > &aCrush&r\n\n&7Conjure Quicksoil&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aCrush&r\n\n&7Conjure Cobbled Deepslate&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r\n\n&7Conjure Deepslate&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r > &aSmelt&r",
+    "context": "chapters/flashing.snbt / quest 768869D763EC54EB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "chapter.7F17CDF8564DCC49.title": {
+    "original": "Genetics: Resequenced",
+    "context": "chapters/7F17CDF8564DCC49.snbt / chapter 7F17CDF8564DCC49",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.08D496EFE575AD1E.quest_desc": {
+    "original": "With any luck, you’ll have received a Genetically Modified Cell with the trait you’re after. If not, better luck next time.\n\nIf you did, take that GM Cell back to the DNA Extractor and proceed from there as you would with any Cell. By the end of the process, you’ll have a blood sample with your fancy new upgraded trait.",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 08D496EFE575AD1E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0BF882C463675433.quest_desc": {
+    "original": "Now that we have some DNA, we need to know what it can do. \n\nEvery mob will give Basic Genes, but others have a chance to give more specialized Genes; these are what we’re ultimately after.\n\nFor example, had you started this process with a Sheep, you’d have a chance of getting the Eat Grass Gene, which could be used to give yourself the ability to Right-Click Grass to eat it.\n\n&a🛈 Tip: Check the Recipes for any given \n&a    Helix in EMI to see what mobs it \n&a    comes from!",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 0BF882C463675433",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0D7B7B9CF7362FD8.quest_desc": {
+    "original": "Have a trait you don’t want anymore? You can remove them by crafting an Anti-Plasmid. \n\nAttune it to the trait you wish to remove by crafting it together with a Plasmid of that type. Then inject it into a blood sample, just as you would with a regular Plasmid.",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 0D7B7B9CF7362FD8",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2850FCAFEEF5004C.quest_desc": {
+    "original": "Some traits, such as &7Efficiency&r, may be leveled up through a process known as Mutation.\n\nThe results of this process are not guaranteed but there are ways to improve your chances.\n\nTo begin, craft some &7Potions of Mutation&r, then get some &7Cells&r from a mob that can provide the basic trait. In this case, Silverfish.\n\nBrew the Cell samples with the potion of Mutation to obtain a Potion of Mutation with that mob set as the entity.",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 2850FCAFEEF5004C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2C1538BE243F0CB4.quest_desc": {
+    "original": "So you’ve found a trait you’d like to have for yourself? You’ll need to infuse it into a Plasmid. \n\nIt only takes one Helix to set the type of a Plasmid. From there you can either use more of the same type to fill it up, or Basic Genes. Either is valid, though it will take more Basic Genes to fill it.\n\n&a🛈 Tip: Use Basic Genes to craft Empty \n&a    Plasmids rather than wasting useful \n&a    Genes on them.",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 2C1538BE243F0CB4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3EA53BBEBC32F813.quest_desc": {
+    "original": "Welcome to Genetics: Resequenced!\n\nThis mod is all about gaining special powers, for yourself and other mobs. \n\nEver wanted to shear meat off a pig? Milk a chicken? Eat grass like a sheep? How about feed yourself directly through the power of photosynthesis?\n\nWell now you can!\n\nThese quests will walk you through the basics of using the mod. From there it’ll be up to you to put it to use, for good or ill.\n\n[\"Be sure to check out their online \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/aaronhowser1/Genetics-Resequenced/wiki\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Wiki\",\"underlined\":true},\" which is an excellent source of supplemental information.\"]",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 3EA53BBEBC32F813",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3EA53BBEBC32F813.title": {
+    "original": "Genetics: Resequenced",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 3EA53BBEBC32F813",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4613FE560EAC7695.quest_desc": {
+    "original": "Combine the &7Purified Blood&r with a filled &7Plasmid&r in the &7Plasmid Injector&r to set the trait in the blood sample. \n\nYou can inject multiple traits into the same sample if you like. \n\nOnce you’re happy with your enhanced blood sample, it’s time to inject it into a creature. \n\n[\"Many traits may be given to mobs, but not all. Refer to the \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://github.com/aaronhowser1/Genetics-Resequenced/wiki/3.-Gene-List\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Wiki\",\"underlined\":true},\" if in doubt.\"]\n\n&6⚠ Note: Some traits have prerequisites \n&6    that, if not met, will cause the \n&6    injection to fail. Refer to EMI.\n\n&a🛈 Tip: Traits applied to breedable \n&a    animals are transferred to their \n&a    offspring!",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 4613FE560EAC7695",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.529329FE6CB3D29E.quest_desc": {
+    "original": "Cells may be broken down in a DNA Extractor to obtain the juicy DNA Helices. ",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 529329FE6CB3D29E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.61F55FC24EA0CD1C.quest_desc": {
+    "original": "To begin, we’ll need some Organic Matter samples. You’ll obtain these by using your Scraper on different mobs. \n\nToss those in a Cell Analyzer to obtain Cells.\n\n&a🛈 Tip: A Scraper enchanted with \n&a    Delicate Touch will cause no harm.",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 61F55FC24EA0CD1C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6EB6E8DEEBB32911.quest_desc": {
+    "original": "In order to obtain a trait, it must be injected into a blood sample. So we’ll need to get one of those first.\n\nYou can obtain your own blood with an Empty Syringe; simply hold Right-Click until your vision goes dark.\n\nTo obtain the blood of another creature, you’ll need an Empty Metal Syringe.\n\nOnce a sample is obtained, run it through the Blood Purifier to get it ready for modification.\n\n&a🛈 Tip: You need to stand very close to \n&a    a mob to extract their blood.",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 6EB6E8DEEBB32911",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7431B398FFDF3DCA.quest_desc": {
+    "original": "With a &7Potion of Mutation&r set to the proper mob type, you’re ready for the next step. \n\nThis potion will again be combined in the &7Advanced Incubator&r, this time with a key item. Check the uses for your &7Potion of Mutation&r to see what it needs. \n\nThis process is slow and any attempt to speed it up will result in a lower chance of success. \n\nAdding &7Chorus Fruit&r to the right-hand slot of the A&7dvanced Incubator&r will increase your chances of success.\n\n&a🛈 Tip: When looking for these recipes, \n&a    check the Uses on the Potion of \n&a    Mutation.\n\n&c⚠ Warning: Overclockers drastically \n&c    increase failure rates. \n&c    Patience, grasshopper!",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 7431B398FFDF3DCA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7431B398FFDF3DCA.title": {
+    "original": "Mutation",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 7431B398FFDF3DCA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.79FA7B5854C9606F.quest_desc": {
+    "original": "The Anti-Field Orb and Block both function to suppress certain genes; specifically the Item Attraction and XP Attraction traits.\n\nPlace the block in an area where you don’t want to be sucking up items randomly. Or carry the orb with you to enable and disable the trait at will. Just Right-Click it to toggle the feature.",
+    "context": "chapters/7F17CDF8564DCC49.snbt / quest 79FA7B5854C9606F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "task.116CBCF6CA77E71A.title": {
+    "original": "Syringe",
+    "context": "chapters/7F17CDF8564DCC49.snbt / task 116CBCF6CA77E71A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.488180E25D5B815A.title": {
+    "original": "Anti-Fields",
+    "context": "chapters/7F17CDF8564DCC49.snbt / task 488180E25D5B815A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

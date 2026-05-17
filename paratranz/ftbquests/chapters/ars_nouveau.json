@@ -1,0 +1,226 @@
+{
+  "chapter.5C2F675CD8139E11.title": {
+    "original": "Ars Nouveau",
+    "context": "chapters/ars_nouveau.snbt / chapter 5C2F675CD8139E11",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.064F6355185A51D4.quest_desc": {
+    "original": "These adorable gold-loving critters can be a huge help in keeping your home tidy. \n\nIf bound to a chest, they’ll quickly gather all items from the ground and insert them into that chest. \n\nThey’ll also transfer from one chest to another and can farm Sourceberries without getting pricked by their thorns!\n\n&a🛈 Tip: Starbuncles can be filtered with \n&a    Allow/Deny Scrolls!",
+    "context": "chapters/ars_nouveau.snbt / quest 064F6355185A51D4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.07684F58521A4D34.quest_desc": {
+    "original": "Playing with friends? \n\nYou can share your Glyph knowledge with one another using an &7Annotated Codex&r. \n\nRight-Click to record your progress and your friend can Right-Click to learn everything you know.",
+    "context": "chapters/ars_nouveau.snbt / quest 07684F58521A4D34",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.09B6773CDA5A7565.quest_desc": {
+    "original": "The Enchanting Apparatus will likely be the next device you’ll wish to set up as it’s used for many more advanced crafts, upgrading equipment, and applying enchantments!\n\nThis device is a free form multiblock. The Enchanting Apparatus must sit atop the Arcane Core, but the Pedestals may go anywhere within 3 blocks of the Core.\n\nThe items in the Pedestals will be consumed by these recipes. ",
+    "context": "chapters/ars_nouveau.snbt / quest 09B6773CDA5A7565",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.09C3C5173499DF7C.quest_desc": {
+    "original": "To craft essences, you’ll need to place some pedestals adjacent to the &7Imbuement Chamber&r with key items installed in each pedestal. \n\nThese key items are &nnot consumed&r and are only there to set the recipe. \n\nValid placement is a 3x3x3 area centered on the &7Imbuement Chamber&r.\n\n&a🛈 Tip: Source is optional!",
+    "context": "chapters/ars_nouveau.snbt / quest 09C3C5173499DF7C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.09C3C5173499DF7C.title": {
+    "original": "Essences",
+    "context": "chapters/ars_nouveau.snbt / quest 09C3C5173499DF7C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.159F7020B1DE875D.quest_desc": {
+    "original": "Want to bring your new friends with you? \n\nBy bringing them close to a &7Ritual of Binding&r, you’ll obtain a &7Bound Script&r which may be learned by Right-Clicking it in the air. \n\nOnce learned, a new entry will appear in your &7Spell Book&r under the &7Familiars&r tab. From there, you’ll be able to instantly summon one familiar at a time to grant you benefits. \n\nThese benefits range from increased spell damage and higher looting rates, to buffed speed and ranged item collection. \n\nCheck the tooltips on each &7Bound Script&r to see what it has to offer you!",
+    "context": "chapters/ars_nouveau.snbt / quest 159F7020B1DE875D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1DA29F3B45DEFB4B.quest_desc": {
+    "original": "Magic can be a lonely profession. Everyone always asks, “What can you do?”, but never “How are you doing?”.\n\nAnd while it’s useful to have spells being cast for you by a Turret, they’re cold… lifeless. \n\nBut what if you could make your own friends? Cute, lovable, huggable friends that would spark joy just by being around? ",
+    "context": "chapters/ars_nouveau.snbt / quest 1DA29F3B45DEFB4B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1DA29F3B45DEFB4B.title": {
+    "original": "Magical Friends",
+    "context": "chapters/ars_nouveau.snbt / quest 1DA29F3B45DEFB4B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3895E1D9DE518B3F.quest_desc": {
+    "original": "Casting all these spells will take its toll on your mana bar, especially if you’re trying to use a &7Spell Book&r as your primary mining tool\n\nTo help replenish your mana faster, consider crafting a &7Jar of Voiding&r. These handy devices will eat items you pick up and convert them directly into mana. \n\nTo set an item it is allowed to eat, place that item in your offhand and Right-Click with the &7Jar&r. \n\nConsider adding things like &7Cobble&r and other &7Stones&r to it.\n\n&a🛈 Tip: The Jar can be toggled at any \n&a    time by Sneak + Right-Clicking with it. ",
+    "context": "chapters/ars_nouveau.snbt / quest 3895E1D9DE518B3F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3A0F43654CE474DA.quest_desc": {
+    "original": "Tree-hugging woodland spirits, &7Whirlisprigs&r will gladly join your menagerie if you show them some love and plant a tree nearby. \n\nIn exchange, the &7Whirlisprig&r will help you grow and farm plants. \n&n                                                  &r\n\nRight-Click any flower with her charm to create their home. Placing more plants and a greater variety of plants in their home will make them happier and more productive. ",
+    "context": "chapters/ars_nouveau.snbt / quest 3A0F43654CE474DA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.41614A924E5556EE.quest_desc": {
+    "original": "Welcome to Ars Nouveau!\n\nThis exciting mod will fulfil your every magical fantasy, from casting spells to brewing potions. \n\nSummon magical creatures and craft magical gadgets to automagically perform nearly any task around your home!\n\nArs Nouveau also has a number of add-on mods which bring many new mechanics and features. \n\nThese quests can't cover everything, but the guidebook should help with anything not covered here.\n\n&a🛈 Tip: Sourceberries can be planted \n&a    on grass!",
+    "context": "chapters/ars_nouveau.snbt / quest 41614A924E5556EE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.41614A924E5556EE.title": {
+    "original": "Ars Nouveau",
+    "context": "chapters/ars_nouveau.snbt / quest 41614A924E5556EE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4537806144939A6B.quest_desc": {
+    "original": "An animate block of Amethyst, these golems will automatically create, grow, and harvest budding blocks. \n\nBind them to an inventory to set the area they’ll work in. Nearby blocks will be converted into budding blocks. As they grow buds, they’ll break them and collect the drops, storing them in their bound inventory.\n\n&a🛈 Tip: Amethyst Golems works with\n&a   Certus Quartz too!",
+    "context": "chapters/ars_nouveau.snbt / quest 4537806144939A6B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4914692B607F8BE0.quest_desc": {
+    "original": "The Ender Source Jar is ideal for cross dimensional Source Transport. \n\nSo, if you’ve set up a crazy mob spawner in The End, maybe consider using this and a Vitalic Sourcelink to bring back all that delicious Source.",
+    "context": "chapters/ars_nouveau.snbt / quest 4914692B607F8BE0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5AD1A273F3714FAF.quest_desc": {
+    "original": "It’s probably about time we started thinking about Source. \n\nMany of Ars Nouveau’s devices either require Source to run, such as certain &7Enchanting Apparatus&r recipes, or are dramatically improved by having Source supplied, like the &7Imbuement Chamber&r.\n\nSo, let’s pick a method and get some Source generated!\n&n                                                              &r\n\nEach Sourcelink uses a different \"fuel\" to generate Source, which it deposits into a nearby Source Jar.\n\n• &7Agronomic&r – Generates Source from natural \n    crop growth. Place in the middle of a field \n    for best results.\n\n• &7Volcanic&r – Consumes furnace fuels like coal. \n    This can be dropped nearby or inserted into \n    an adjacent Arcane Pedestal.\n\n• &7Alchemical&r – Consumes potions from an \n    adjacent Potion Jar. Best paired with a Wixie \n    designated to craft potions into the jar.\n\n• &7Vitalic&r – Converts mob deaths to Source, an \n    excellent addition to any mob farm.\n\n• &7Mycelial&r – Consumes food. This can be dropped \n    nearby or inserted into an adjacent \n    Arcane Pedestal.\n\n&a🛈 Tip: Source Jars hold 10,000 Source.",
+    "context": "chapters/ars_nouveau.snbt / quest 5AD1A273F3714FAF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.65FDD18E441E2E6E.quest_desc": {
+    "original": "An animate Book, Bookwyrms are part of a complete storage system built into Ars Nouveau. \n\nThe guidebook offers a full guide on setting this system up, however as a brief overview use a Bookwyrm Charm on a Storage Lectern to enable that Lectern to be linked to inventories.\n\n&a🛈 Tip: Adding more Bookwyrms allows \n&a    more connections!",
+    "context": "chapters/ars_nouveau.snbt / quest 65FDD18E441E2E6E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.66DAC6EC4232C44A.quest_desc": {
+    "original": "Fun-loving denizens of the deeps, Sirens live in warm oceans and will happily join your menagerie if you give them a Sea Pickle. \n\nIn exchange, the Siren will help you automatically obtain fishing loot. \n&n                                                  &r\n\nRight-Click a block of Prismarine with her charm to create her home. Placing more aquatic plants and animals in their home will make them happier and more productive.",
+    "context": "chapters/ars_nouveau.snbt / quest 66DAC6EC4232C44A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.69295042E8C3A609.quest_desc": {
+    "original": "Source Relays are used for transporting Source from place to place. This way you can have a centralized Source generation area that feeds multiple devices or Spell Turrets around your home.\n\nThese come in a variety of flavors, however perhaps the most relevant right now will be the Splitter. Not only will this transfer Source faster than the basic Relay, but it can also be used to pull from or deposit to multiple targets. \n\nUse a Dominion Wand to link Relays to other Relays or Source Jars. First Right-Click the origin, then Right-Click the destination.\n\n&a🛈 Tip: You can recolor the beams shot \n&a    by a Relay using the Wololo Glyph!",
+    "context": "chapters/ars_nouveau.snbt / quest 69295042E8C3A609",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.72C1A824063BAFA3.quest_desc": {
+    "original": "Caretakers of natural spaces, &7Drygmies&r once roamd the lands tending to animals to maintain balance. They’ll willingly join your menagerie if you give them a &7Wilden Horn&r, thus showing your commitment to maintaining order.\n\nIn exchange, the &7Drygmy&r will help you harvest drops from animals and monsters alike. \n&n                                                  &r\n\nRight-Click a &7Mossy Cobblestone&r with their charm to create their home. Placing many different creatures in their home will make them happier and more productive. \n\n&a🛈 Tip: Drygmies will work with mobs \n&a    in Containment Jars!",
+    "context": "chapters/ars_nouveau.snbt / quest 72C1A824063BAFA3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7750C6E87B1EBF43.quest_desc": {
+    "original": "The humble Imbuement Chamber is perhaps the single most important apparatus in Ars Nouveau. \n\nWith it, you’ll be able to generate the Source Gems and Essences you’ll need for all future crafts. \n\n&a🛈 Tip: Source is optional!",
+    "context": "chapters/ars_nouveau.snbt / quest 7750C6E87B1EBF43",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7B6267C141FE9B83.quest_desc": {
+    "original": "These dapper ocean critters have a knack for digging up lost treasures from sand. \n\nBuild them a little home and be sure to provide them with plenty of fresh Sand or Gravel and they’ll while away their days sifting through it for obscure artifacts. ",
+    "context": "chapters/ars_nouveau.snbt / quest 7B6267C141FE9B83",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7FAC3A637F82BFED.quest_desc": {
+    "original": "These floaty little witch friends can be tasked with automating standard 3x3 Crafting Table crafts, Potion Brewing, and even the Enchanting Apparatus. \n\nObtaining the Wixie Token to craft the Charm is going to require a little bit of Spellcraft; essentially you must Dispel a Witch that’s at less than half health. \n\n&6&nExample Spells&r\n\n&7Villager to Wixie&r\n    &5Projectile&r > &aLinger&r > &aLightning&r > &aDispel&r \n\n&7Witch to Wixie&r\n    &5Projectile&r > &aHarm&r > &6Amplify&r > &aDispel&r ",
+    "context": "chapters/ars_nouveau.snbt / quest 7FAC3A637F82BFED",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "task.01BD7546106B0EB9.title": {
+    "original": "Magical Shards",
+    "context": "chapters/ars_nouveau.snbt / task 01BD7546106B0EB9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0767C8200D0389A6.title": {
+    "original": "Essences",
+    "context": "chapters/ars_nouveau.snbt / task 0767C8200D0389A6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.35F8589774CE48D9.title": {
+    "original": "Arcane Pedestals",
+    "context": "chapters/ars_nouveau.snbt / task 35F8589774CE48D9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3898E7E189555B8C.title": {
+    "original": "Arcane Platforms",
+    "context": "chapters/ars_nouveau.snbt / task 3898E7E189555B8C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.47D22C2E34E9A099.title": {
+    "original": "Sourcelinks",
+    "context": "chapters/ars_nouveau.snbt / task 47D22C2E34E9A099",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

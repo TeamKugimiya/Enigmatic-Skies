@@ -1,0 +1,634 @@
+{
+  "chapter.17B9F323B083C6C2.title": {
+    "original": "It Takes a Village",
+    "context": "chapters/it_takes_a_village.snbt / chapter 17B9F323B083C6C2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.008F3C0FB9F4B451.quest_desc": {
+    "original": "[ \"\", { \"text\": \"Fire Essence\", \"color\":\"gray\"}, \" grants access to the fiery volcano on the \", { \"text\": \"Blazing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"78626EE046E48EF3\" } }, \".\" ]",
+    "context": "chapters/it_takes_a_village.snbt / quest 008F3C0FB9F4B451",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.008F3C0FB9F4B451.title": {
+    "original": "Blazing Island",
+    "context": "chapters/it_takes_a_village.snbt / quest 008F3C0FB9F4B451",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.03D475AF2266ECB6.quest_desc": {
+    "original": "Villagers represent a critical source of materials, so be sure to check in with them and make use of their expertise!\n\nStart by making a &7Smithing Table&r to get a &7Tool Smith Villager&r. They will sell you various workstations used by other Villagers, allowing you to easily expand your trading operations!\n\nVillagers need a steady diet of good foods to do their best work, so make sure you're growing a variety of foods for them!\n\nThey must also be kept warm! If your Hearth goes out they'll die just as surely as you will.\n\n              &6&nUseful Keybinds&r\n\n  Press &6U&r while hovering over a \n  &7Villager Spawn Egg&r to see all of \n  their workstations.\n\n\n&a🛈 Tip: Purple Seats can be crafted \n&a    from Magebloom!",
+    "context": "chapters/it_takes_a_village.snbt / quest 03D475AF2266ECB6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.03D475AF2266ECB6.title": {
+    "original": "Villagers",
+    "context": "chapters/it_takes_a_village.snbt / quest 03D475AF2266ECB6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.04D144DC0EAE8BE3.quest_desc": {
+    "original": "Buy a &7Brewing Stand&r to gain access to the &7Cleric Villager's&r trades. \n\nIn particular, you'll need a &7Ritual Brazier&r soon, so be certain to pick one up.\n\n&a🛈 Tip: Potions inserted into a Hearth \n&a    will apply their effects to entities \n&a    in the area!",
+    "context": "chapters/it_takes_a_village.snbt / quest 04D144DC0EAE8BE3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.04D144DC0EAE8BE3.title": {
+    "original": "Cleric",
+    "context": "chapters/it_takes_a_village.snbt / quest 04D144DC0EAE8BE3",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.054093E1130E24C1.quest_desc": {
+    "original": "An &7Automatic Feeder&r is a simple feeding station for nearby animals. \n\nKeep it filled with the items your animals need to breed, and they’ll take care of the rest. \n\n            &6&nA Note on Automation&r\n\nThe &7Automatic Feeder&r can be used to count the animals in the area. \n\nPlace a &7Comparator&r against it to get a rough estimate, where each level of redstone means two animals. \n\nAt a signal of 15, it can no longer breed, meaning it's time to start culling.",
+    "context": "chapters/it_takes_a_village.snbt / quest 054093E1130E24C1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.07189DA532A429AE.quest_desc": {
+    "original": "The &7Whirl&r glyph can make some exceptionally useful spells, but getting the glyphs to make it yourself may take some time. \n\nFor now, you can craft some specially prepared &7Caster Tomes&r with pre-set spells to make use of it!\n\n&a🛈 Tip: Caster Tomes can be used to \n&a    set Spell Turrets!",
+    "context": "chapters/it_takes_a_village.snbt / quest 07189DA532A429AE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.07189DA532A429AE.title": {
+    "original": "Whirligigs",
+    "context": "chapters/it_takes_a_village.snbt / quest 07189DA532A429AE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0745FDF3F22807CA.quest_desc": {
+    "original": "[ \"\", { \"text\": \"Air Essence\", \"color\":\"gray\"}, \" access to the dizzying heights of the \", { \"text\": \"Flashing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"768869D763EC54EB\" } }, \".\" ]",
+    "context": "chapters/it_takes_a_village.snbt / quest 0745FDF3F22807CA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0745FDF3F22807CA.title": {
+    "original": "Flashing Island",
+    "context": "chapters/it_takes_a_village.snbt / quest 0745FDF3F22807CA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0E1F3FCCA1A9E405.quest_desc": {
+    "original": "These simple Platforms consist of little more than grass and clouds. \n\nThey can be used to help you expand your base if you wish!",
+    "context": "chapters/it_takes_a_village.snbt / quest 0E1F3FCCA1A9E405",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.105CABB7D9705359.quest_desc": {
+    "original": "&7Farmers&r have some very helpful tools to help you speed up your crop farms. Be sure to check out their wares!\n\nThey'll also help you get started with Source production with a &7Mycelial Sourcelink&r which will convert food items directly to Source.",
+    "context": "chapters/it_takes_a_village.snbt / quest 105CABB7D9705359",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.105CABB7D9705359.title": {
+    "original": "Farmer",
+    "context": "chapters/it_takes_a_village.snbt / quest 105CABB7D9705359",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.149BC66585EA0C34.quest_desc": {
+    "original": "Each Bookwyrm attached to the &7Primary Lectern&r allows you to link eight inventories. That goes quick if you’re binding directly to chests and the like. \n\nInstead, bind to a &7Repository Catalog&r and place &7Repositories&r adjacent to it. \n&n                                                  &r\n\n&7Repository Catalogs&r will help you maximize the number of inventories connected to the system since they act as a Storage Controller. \n\nAny adjacent and connected &7Repositories&r are automatically joined to the &7Catalog&r, so anything inserted into it will be intelligently sorted into the adjoined &7Repositories&r. \n\nIt is recommended that you use &7Repository Catalogs&r and &7Repositories&r, but any inventory will do.",
+    "context": "chapters/it_takes_a_village.snbt / quest 149BC66585EA0C34",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.15FAB1720AD470A0.quest_desc": {
+    "original": "Every Modern Industrialization multiblock will require input and output hatches commensurate with the recipes it handles. \n\nIn this case, the &7Steam Kiln&r requires both Item and Fluid Hatches. Multiple hatches may be placed in order to accomodate different inputs. \n\nTo power this device, at least one Fluid Input is required for &7Steam&r, which can be piped out of your &7Decrepit Boiler&r.\n\nOther blocks required for any structure can also be found by looking at uses for the controller block (ie. &7Steam Kiln&r block) in &7EMI&r. Note that some of the blocks listed will be replaced by Hatches.\n\n&a🛈 Tip: Place the controller block, then hold the Wrench \n&a    to see the structure. Similarly, hold a Hatch to see \n&a    valid locations for them.",
+    "context": "chapters/it_takes_a_village.snbt / quest 15FAB1720AD470A0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.161CA05D18639AD4.quest_desc": {
+    "original": "This workstation allows the &7Wixie&r to craft &7Farmer's Delight Cutting&r recipes. \n\nIt will only produce the primary output of the craft, however. For example, &7Rice&r will &nnot&r produce &7Straw&r when processed this way. \n\n                   &6&nFormation&r\n\nRight-Click a &7Cutting Board&r with a &7Wixie Charm&r.\n\n&6⚠ Note: For multi-step crafts, each \n&6    step must be specified separately.",
+    "context": "chapters/it_takes_a_village.snbt / quest 161CA05D18639AD4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.161CA05D18639AD4.title": {
+    "original": "Wixie Cutting",
+    "context": "chapters/it_takes_a_village.snbt / quest 161CA05D18639AD4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1A2B5BCA37161B1A.quest_desc": {
+    "original": "This workstation allows the &7Wixie&r to craft &7Enchanting Apparatus&r recipes. \n\nThis can be particularly helpful for repeat crafts as the &7Wixie&r will process ingredients more quickly than the standard &7Enchanting Apparatus&r.\n\n                   &6&nFormation&r\n\nRight-Click a &7Enchanting Apparatus&r with a &7Wixie Charm&r.\n\n&6⚠ Note: For multi-step crafts, each \n&6    step must be specified separately.",
+    "context": "chapters/it_takes_a_village.snbt / quest 1A2B5BCA37161B1A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1A2B5BCA37161B1A.title": {
+    "original": "Wixie Enchanting",
+    "context": "chapters/it_takes_a_village.snbt / quest 1A2B5BCA37161B1A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1ACB8880980AF206.quest_desc": {
+    "original": "There’s much to do and you’re going to need help. With everyone else gone, you'll have to make your own friends.\n\nFor ages, homunculi have been crafted in the same way; clay formed into the shape of a person and a note bearing instructions inserted into their head. \n\nThen, just a touch of magic to bring animate it with a semblance of life.\n&n                                                  &r\n\nCraft some &7Source Ink&r and &7Blank Parchment&r, you'll need these to make a &7Statue&r. \n\n&7Quick Soil&r will make a form of glass suitable for making &7Bottles&r. ",
+    "context": "chapters/it_takes_a_village.snbt / quest 1ACB8880980AF206",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1ACB8880980AF206.title": {
+    "original": "Wit by Writ",
+    "context": "chapters/it_takes_a_village.snbt / quest 1ACB8880980AF206",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1CF4103BFBCE0E29.quest_desc": {
+    "original": "With an &7Imbuement Chamber&r, you can begin accessing new islands, each with its own unique block transformations and resources. \n\nUse your &7Source Gems&r to create the &7Essences&r you'll need for each island. \n\nThese areas are not self-contained, however; the deeper you go into each Island’s quests, the more you’ll need resources from the other Islands. \n\nSummon them all as soon as you're able. \n\n[ \"A good place to start will be the \", { \"text\": \"Flourishing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \", so get the materials together for \", { \"text\": \"Essence of Earth\" , \"color\":\"gray\"}, \".\" ]\n\nTo use the &7Imbuement Chamber&r, you’ll need to place some &7Arcane Pedestals&r or &7Platforms&r directly adjacent to it. The item shown in the middle of the recipe goes in the &7Imbuement Chamber&r, while the rest must be placed in the &7Pedestals.&r \n\n&6⚠ Note: The Pedestal items are &nnot&r &6consumed. \n\n&a🛈 Tip: Source is optional but will speed up the craft!",
+    "context": "chapters/it_takes_a_village.snbt / quest 1CF4103BFBCE0E29",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1D783196F551142F.quest_desc": {
+    "original": "Better food, better work. \n\nKeep your Villages stocked up with the very finest cooking you can manage, and they’ll be able to create wonders. \n\n                 &6&nA Note on Automation&r&r\n\nThe &7Cooking Pot&r is a sided machine, much like a &7Furnace&r. This means that specific items must be inserted on specific sides when using any form of logistics.\n\n • Food Ingredients must be inserted from \n   the top face.\n\n • Serving containers, such as &7Bottles&r and\n   &7Bowls&r, must be inserted on a side face.\n\n • The Result of the craft can only be \n   extracted from the bottom.\n\n • Any remainders, such as Bottles used in \n   the inputs, will be thrown on the floor. \n\nThe order of the input items does not matter, and duplicate items can be stacked in the same slot.\n\nDue to these requirements, it can prove difficult to automate the &7Cooking Pot&r early on since few things can extract from the bottom while the &7Heat Source&r is under the &7Pot&r. \n\n&7Starbuncles&r can be very useful for extracting from the bottom, however. ",
+    "context": "chapters/it_takes_a_village.snbt / quest 1D783196F551142F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.22344008D43D4710.quest_desc": {
+    "original": "Villagers are the soul source of many critical ingredients and their hunger knows no bounds. You’re going to need some help keeping them fed!\n\nThe &7Wixie&r represents a very simple means of automating various kitchen appliances, among other things. \n\n                            &6&nCare and Use&r&r\n\nIn order to get your &7Wixie&r working, you'll need to set up their area appropriately. \n\nFirst, place their workstation. For general crafting, this will be a &7Cauldron&r. Right-Click the workstation with the &7Wixie Charm&r to summon them.\n\nNext, you'll need to tell them what to craft. This is done by placing &7Arcane Pedestals&r directly adjacent to the workstation and then placing the desired output in the pedestal. \n\nA single Wixie can support multiple crafts by using multiple &7Pedestals&r. Powering a &7Pedestal&r with Redstone will disable that one craft from their list, thus allowing you to stop crafting when you reach a desired amount.\n\nNaturally, they'll also need ingredients. Place one or more inventories nearby and use your &7Dominion Wand&r to bind them to the workstation; while holding the &7Wand&r, Sneak Right-Click the inventory then Right-Click the workstation. \n\nLastly, and most importantly, Wixies need Source. Place a &7Source Jar&r nearby, fill the inventory with ingredients, and enjoy. ",
+    "context": "chapters/it_takes_a_village.snbt / quest 22344008D43D4710",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.22344008D43D4710.title": {
+    "original": "Chef's Aid",
+    "context": "chapters/it_takes_a_village.snbt / quest 22344008D43D4710",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.23ED7167CB856D26.quest_desc": {
+    "original": "Magic doesn’t come out of thin air, of course. What madness!\n\nBuy a &7Codex&r from your friendly neighborhood &7Librarian&r and dissolve it in &7Sal Ammoniac&r to obtain &7Liquefied Source&r. \n\nFrom there, you’ll be able to infuse &7Ambrosium&r with it to create &7Source Gems&r.",
+    "context": "chapters/it_takes_a_village.snbt / quest 23ED7167CB856D26",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.294B023DD4F19FE3.quest_desc": {
+    "original": "Your &7Goat Fur Suit&r should keep you warm enough while stepping out into the cold. But it won’t offer much else. \n\nIf you’d like to wear other armor pieces, you can insulate them at a &7Sewing Table&r.\n\nInsulation can always be removed by placing &7Shears&r in the bottom slot. This does not damage the insulation or the armor.\n                           &6&nInsulation Types&r\n\n    • &9Cold&r - Effective against &9Cold&r  \n    • &6Heat&r - Effective against &cHeat&r \n    • &dNeutral&r - Effective against &cHeat&r &oand&r &9Cold&r \n        It is 50% as effective as dedicated insulation\n    • &aAdaptive&r - Effective against either &cHeat&r &oor&r &9Cold&r \n        It is 75% as effective as dedicated insulation\n        and takes time to adapt to change \n\n&a🛈 Tip: Search \"Insulate\" in EMI to find suitable items.",
+    "context": "chapters/it_takes_a_village.snbt / quest 294B023DD4F19FE3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2F1EA0B091C700E1.quest_desc": {
+    "original": "The &7Fisherman Villager&r has some unusual fish to offer you, like the enigmatic &7Brown Shrooma&r. \n\nYou can convert these into &7Brown Mushrooms&r, perfect for making &7Dumplings&r!",
+    "context": "chapters/it_takes_a_village.snbt / quest 2F1EA0B091C700E1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2F1EA0B091C700E1.title": {
+    "original": "Fisherman",
+    "context": "chapters/it_takes_a_village.snbt / quest 2F1EA0B091C700E1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.2F9C801DFAC1C0D9.quest_desc": {
+    "original": "Librarians will sell you everything you need to set up your own &7Storage Lectern&r to organize all of your goods. \n\nThe Codices they sell are also the &n&7only&r&r way to access new glyphs. \n\nEach Codex will teach you a &n&7single random glyph&r&r that that isn't already known by you.\n\n&a🛈 Tip: Learning Glyphs increases your \n&a    mana, allowing you to cast more!",
+    "context": "chapters/it_takes_a_village.snbt / quest 2F9C801DFAC1C0D9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2F9C801DFAC1C0D9.title": {
+    "original": "Storage Lectern",
+    "context": "chapters/it_takes_a_village.snbt / quest 2F9C801DFAC1C0D9",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.30FE41CF0C7F1270.quest_desc": {
+    "original": "Need a fuel boost? \n\n&7Primal Coal&r burns 16 times longer than a log and can be produced quite easily in the &7Calcination Oven&r.",
+    "context": "chapters/it_takes_a_village.snbt / quest 30FE41CF0C7F1270",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.32305BE195F77F2F.quest_desc": {
+    "original": "Before heading out, you’ll need to start producing some Source as well; each of the following rituals will need a full &7Source Jar&r to activate.\n\nPurchase a &7Mycelial Sourcelink&r from &7Farmer Villager&r and use it to turn excess food directly into delectable Source. \n\n&a🛈 Tip: Place your food into an  \n&a    adjacent Arcane Pedestal!",
+    "context": "chapters/it_takes_a_village.snbt / quest 32305BE195F77F2F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.34FB10F0A2504973.quest_desc": {
+    "original": "Buy a &7Loom&r to gain access to a &7Shepherd Villager&r. \n\nYou won’t be able to afford much yet but be sure to buy yourself a &7Tablet of Conjure Island: Lush Garden&r.",
+    "context": "chapters/it_takes_a_village.snbt / quest 34FB10F0A2504973",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.34FB10F0A2504973.title": {
+    "original": "Shepherd",
+    "context": "chapters/it_takes_a_village.snbt / quest 34FB10F0A2504973",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.39716C901B98BAF2.quest_desc": {
+    "original": "This workstation allows the &7Wixie&r to craft &7Stonecutter&r recipes. \n\n                   &6&nFormation&r\n\nRight-Click a &7Stonecutter&r with a &7Wixie Charm&r.\n\n&6⚠ Note: For multi-step crafts, each \n&6    step must be specified separately.",
+    "context": "chapters/it_takes_a_village.snbt / quest 39716C901B98BAF2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.39716C901B98BAF2.title": {
+    "original": "Wixie Stonecutting",
+    "context": "chapters/it_takes_a_village.snbt / quest 39716C901B98BAF2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3CBA1384BD3D28ED.quest_desc": {
+    "original": "This workstation allows the &7Wixie&r to craft &7Furnace&r recipes. \n\n                   &6&nFormation&r\n\nRight-Click a &7Furnace&r with a &7Wixie Charm&r.\n\n&6⚠ Note: For multi-step crafts, each \n&6    step must be specified separately.",
+    "context": "chapters/it_takes_a_village.snbt / quest 3CBA1384BD3D28ED",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3CBA1384BD3D28ED.title": {
+    "original": "Wixie Smelting",
+    "context": "chapters/it_takes_a_village.snbt / quest 3CBA1384BD3D28ED",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3F20E7D7E1C07311.quest_desc": {
+    "original": "Give this little guy a pail, a shovel, and a little snack and it’ll happily get to work for you. \n&n                                                  &r\n\nRight-Click the &7Alakarkinos Charm&r to place it in-world, then use a &7Wand of Dominion&r to link it to any nearby inventory. \n\nAlakarkinos will consume Source from nearby &7Source Jars&r to convert different blocks into &7Dorodangos&r. \n\nThe resulting &7Dorodangos&r may then be processed down into other key items, like &7Water&r, &7Lava&r, &7Black Quartz&r, and more!",
+    "context": "chapters/it_takes_a_village.snbt / quest 3F20E7D7E1C07311",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3F20E7D7E1C07311.title": {
+    "original": "They See Me Ballin'",
+    "context": "chapters/it_takes_a_village.snbt / quest 3F20E7D7E1C07311",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.51A88370BE1CAC99.quest_desc": {
+    "original": "Not only do &7Worms&r speed up crop growth, but they’ll also keep the soil mostly hydrated. \n\nA single &7Worm&r will help maintain a 3x3 plot of farmland.",
+    "context": "chapters/it_takes_a_village.snbt / quest 51A88370BE1CAC99",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5226F1BC0A1B23D0.quest_desc": {
+    "original": "[ \"\", { \"text\": \"Water Essence\", \"color\":\"gray\"}, \" grants access to the ever-flowing waterfalls of the \", { \"text\": \"Cascading Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7893072479F01DC2\" } }, \".\" ]",
+    "context": "chapters/it_takes_a_village.snbt / quest 5226F1BC0A1B23D0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5226F1BC0A1B23D0.title": {
+    "original": "Cascading Island",
+    "context": "chapters/it_takes_a_village.snbt / quest 5226F1BC0A1B23D0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.540133B792547B21.quest_desc": {
+    "original": "Make a &7Calcination Oven&r and place it atop a &7Pyromantic Brazier&r. \n\nItems, such as &7Pebbles&r, may be Right-Clicked into the &7Oven&r while fuel may be Right-Clicked into the &7Brazier&r to begin processing.",
+    "context": "chapters/it_takes_a_village.snbt / quest 540133B792547B21",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5550423B6E6BDBAF.quest_desc": {
+    "original": "In need of some saplings? Maybe you’d like to get some bees producing honey? \n\nSummon forth the Queen Bee in her throne and see what trades she has to offer!",
+    "context": "chapters/it_takes_a_village.snbt / quest 5550423B6E6BDBAF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5550423B6E6BDBAF.title": {
+    "original": "Beehive Island",
+    "context": "chapters/it_takes_a_village.snbt / quest 5550423B6E6BDBAF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.56AD6E7F12056140.quest_desc": {
+    "original": "The &7Enchanting Apparatus&r is a vital tool in and of itself and will become important soon enough. \n\nThe &7Arcane Core&r used in this device is also the &7Job Site&r for &7Shady Wizard Villagers&r, who will sell you various magical trinkets.\n\nConsider picking up some Wixies to help you with cooking up food to feed your villagers.",
+    "context": "chapters/it_takes_a_village.snbt / quest 56AD6E7F12056140",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.56AD6E7F12056140.title": {
+    "original": "Shady Wizard",
+    "context": "chapters/it_takes_a_village.snbt / quest 56AD6E7F12056140",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.605A60825B68C2D7.quest_desc": {
+    "original": "Many animals are not well adapted to these heights, and as such have a diminished lifespan. \n\nThe following creatures will only survive about &710 in-game days&r as adults before they die, meaning you will have to keep breeding them if you wish to keep them around. They must also be kept in a warm environment to avoid freezing to death.\n\nAging animals will show the following signs:\n    1. Their &7maximum health&r will be reduced.\n    2. They'll move &7slower&r and become &7blind&r.\n    3. Finally, they will &7wither&r and die. \n\nMobs that die in this way will &7drop no loot&r.\n\nThankfully, you have some options to automate breeding, thus keeping your herds renewed. \n\n                  &6&nSenescent Animals&r\n\n      &7Chickens                     &7Mooshrooms\n      &7Cows                       &7Flying Cows      \n      &7Sheep                        &7Sheepuffs      \n      &7Pigs                          &7Phygs\n      &7Rabbits                      &7Aerbunnies\n      &7Goats",
+    "context": "chapters/it_takes_a_village.snbt / quest 605A60825B68C2D7",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.605A60825B68C2D7.title": {
+    "original": "Animal Senescence",
+    "context": "chapters/it_takes_a_village.snbt / quest 605A60825B68C2D7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.623B5F0C0464F907.quest_desc": {
+    "original": "While it is true that a scurry of &7Starbuncles&r all share a single over-worked brain cell, they can be immensely helpful, nonetheless. \n\nNaturally, each one can only manage a single task at a time, but they can be instructed to do several different jobs depending on the hat you give them. \n\n&6Default Jobs&r\n  • Collect items on the ground and deposit them into a \n    designated inventory\n  • Collect Sourceberries from bushes and deposit them \n    into a designated inventory\n  • Transport items from one inventory to another\n\n&6Starbuncle Shades&r\n  • Disables their ability to pick up items and to collect \n    Sourceberries\n\n&6Square Robin Mask&r\n  • Enables round-robin item transportation.\n\n&6Wixie Hat&r\n  • Transport potions from one Potion Jar to another\n\n&6Starbucket&r\n  • Transport fluids from one fluid container to another\n\n&6StarBin&r\n  • Voids items that are collected\n\n&6Starminer&r\n  • Allows the Starbuncle to break blocks at a location\n\n&6Starbuilder&r\n  • Allows the Starbuncle to place blocks at a location",
+    "context": "chapters/it_takes_a_village.snbt / quest 623B5F0C0464F907",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.628A6A79EFA30990.quest_desc": {
+    "original": "The Storage Lectern is your primary interface to your storage network. Here, you can access all the linked inventories and there’s a handy crafting grid included. \n\nEach network will have exactly one &7Primary Storage Lectern&r and may have as many &7Secondary Lecterns&r as desired. \n\nOnly the primary one is allowed to be linked to inventories; the secondary ones simply act as remote access. \n\n                &6&nPrimary Storage Lectern&r\n\nTo designate the &7Primary Lectern&r, Right-Click it with a &7Bookwyrm Charm&r. \n\n\n              &6&nSecondary Storage Lectern&r\n\nTo designate a &7Secondary Lectern&r, Right-Click it with the &7Dominion Wand&r, then Right-Click the &7Primary Lectern&r to form the connection. \n\n&7Secondary Lecterns&r may be chained to reach greater distances.\n\n                     &6&nBinding Storage&r\n\nBind an inventory to your &7Primary Lectern&r using the Dominion Wand; Sneak Right-Click the inventory, then Right-Click the &7Primary Lectern&r.",
+    "context": "chapters/it_takes_a_village.snbt / quest 628A6A79EFA30990",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.63AFE7CB35AE94BF.quest_desc": {
+    "original": "Want to change things up a bit? Looking for a more magical experience over Create’s normal machines?\n\nArs Technica, an addon for Ars Nouveau, includes glyphs to mimic many of Create’s processes. Below are a few example spells to get you started.\n\nThese are great for quick manual processing or can be a powerful replacement to Create if the spells are inscribed in a Spell Turret.\n\n                           &6&nExample Spells&r\n\n&7Encased Fan - Bulk Washing&r\n    &5Projectile&r > &aWhirl&r > &6Extend Time&r > &aConjure Water&r\n\n&7Encased Fan - Bulk Blasting&r\n    &5Projectile&r > &aWhirl&r > &6Extend Time&r > &aSmelt&r\n\n&7Deployer&r\n    &5Projectile&r > &aApply&r > &6AOE&r\n\n&7Mechanical Mixer&r\n    &5Projectile&r > &aFuse&r > &6AOE&r\n\n&7Sandpaper&r\n    &5Projectile&r > &aPolish&r > &6AOE&r\n\n&7Mechanical Press&r\n    &5Projectile&r > &aPress&r > &6AOE&r\n\n&a🛈 Tip: Try adding more AOE or stacking spell casts!",
+    "context": "chapters/it_takes_a_village.snbt / quest 63AFE7CB35AE94BF",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6AC4CADE97CB512F.quest_desc": {
+    "original": "[ \"\", { \"text\": \"Earth Essence\", \"color\":\"gray\"}, \" grants access to the swampy environs of the \", { \"text\": \"Flourishing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6490781066FAE8CF\" } }, \".\" ]",
+    "context": "chapters/it_takes_a_village.snbt / quest 6AC4CADE97CB512F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6AC4CADE97CB512F.title": {
+    "original": "Flourishing Island",
+    "context": "chapters/it_takes_a_village.snbt / quest 6AC4CADE97CB512F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6BA05AC6ECC577DA.quest_desc": {
+    "original": "By now, you should have everything you need to summon your first Island, the Lush Garden. \n\nThere, you'll find a number of plants to expand your cooking repertoire as well as an &7Altar of Birthing&r where you can summon in some animals for meat and other resources. \n\nSimply toss your recipe ingredients near the &7Altar&r and your animal will appear. Magic!\n&n                                                              &r\n\nBe careful when setting up these Island rituals. They will not destroy blocks when spawning the island. \n\nSo, if anything is in the way, you may miss out on important blocks.\n\nUse the &7Potion of Flying&r from the previous quest to get a little ways from your main island and then cast your &7Holdfast&r spell to place a temporary block to build on.\n\nYour &7Ritual Brazier&r may then be set atop that block.\n\nOnce the &7Brazier&r has been placed, Right-Click it with the &7Tablet&r and then once once more with an empty hand to start the ritual.\n\n&6⚠ Note\n&6  If important blocks are missing, simply clear \n&6  whatever was in the way and run the ritual \n&6  again in the same spot to refresh the island.",
+    "context": "chapters/it_takes_a_village.snbt / quest 6BA05AC6ECC577DA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6BA05AC6ECC577DA.title": {
+    "original": "Lush Garden ",
+    "context": "chapters/it_takes_a_village.snbt / quest 6BA05AC6ECC577DA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6D09D016EDE0AAFB.quest_desc": {
+    "original": "This workstation allows the Wixie to craft standard &7Crafting Table&r and &7Brewing Stand&r recipes. \n\nBrewing potions, however, will require a nearby Potion Jar to store the result.\n\n                   &6&nFormation&r\n\nRight-Click a &7Cauldron&r with a &7Wixie Charm&r.\n\n&6⚠ Note: For multi-step crafts, each \n&6    step must be specified separately.",
+    "context": "chapters/it_takes_a_village.snbt / quest 6D09D016EDE0AAFB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6D09D016EDE0AAFB.title": {
+    "original": "Wixie Crafting and Brewing",
+    "context": "chapters/it_takes_a_village.snbt / quest 6D09D016EDE0AAFB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6DA23C4B7F016B1D.quest_desc": {
+    "original": "&7Greenhouse Glass&r provides a significant growth boost to the crop directly below it. \n\nUse it to build yourself a nice enclosure for your plants that is also functional. ",
+    "context": "chapters/it_takes_a_village.snbt / quest 6DA23C4B7F016B1D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.714379744B3CF395.quest_desc": {
+    "original": "The first few &7Gold Ingots&r you make should go towards making an &7Imbuement Chamber&r. \n&n                                                                          &r\n\nThe &7Digestion Vat&r is operated by Right-Clicking the inputs into the machine. Once everything is in, Sneak Right-Click it again to ‘close’ it. It will only operate while closed.\n\nThe Vat will open again automatically once it can no longer do any work. Be that because it finished, ran out of room for outputs, or ran out of inputs. \n\n                       &n&6A Note on Automation&r&r\n\nFluids and Items may be inserted by any form of logistics such as pipes or hoppers, but only while the device is open. Similarly, items may only be extracted while it is open.\n\nThe device may be closed by applying a Redstone signal to any side other than the front, which can be identified by the red dot at the bottom. \n\nRegardless of the signal, the device will still open automatically if it has no room for outputs.\n\nThe front will output a signal when the device has finished a recipe, allowing finer control for small batches.",
+    "context": "chapters/it_takes_a_village.snbt / quest 714379744B3CF395",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.72B6C89DB165BB07.quest_desc": {
+    "original": "When placed in-world, &7Organic Compost&r will slowly transform into &7Rich Soil&r, a particularly good soil for growing crops.\n\nAny crops planted on &7Rich Soil Farmland&r will gain a significant boost in growth rates. ",
+    "context": "chapters/it_takes_a_village.snbt / quest 72B6C89DB165BB07",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.75507A3DE753BC75.quest_desc": {
+    "original": "Tired of losing drops in the clouds? \n\nMake yourself a &7Magnet&r and you won't need to worry about it any longer.\n\nA &7Demagnetization Coil&r may prove similarly indispensable, rendering your &7Magnet&r inert near things you'd like to avoid picking up.",
+    "context": "chapters/it_takes_a_village.snbt / quest 75507A3DE753BC75",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.79DFBA1E35132332.quest_desc": {
+    "original": "This workstation allows the &7Wixie&r to craft &7Farmer's Delight Cooking&r recipes. \n\nThe &7Wixie&r is generally quicker than the &7Cooking Pot&r, and far easier to automate!\n\n                   &6&nFormation&r\n\nRight-Click a &7Cooking Pot&r with a &7Wixie Charm&r.\n\n&6⚠ Note: For multi-step crafts, each \n&6    step must be specified separately.",
+    "context": "chapters/it_takes_a_village.snbt / quest 79DFBA1E35132332",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.79DFBA1E35132332.title": {
+    "original": "Wixie Cooking",
+    "context": "chapters/it_takes_a_village.snbt / quest 79DFBA1E35132332",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.1A49508B81A230E6.title": {
+    "original": "Observation: &2Altar of Birthing&r",
+    "context": "chapters/it_takes_a_village.snbt / task 1A49508B81A230E6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.20B6CC540E82D042.title": {
+    "original": "Pedestals",
+    "context": "chapters/it_takes_a_village.snbt / task 20B6CC540E82D042",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.210DF794EE1D714A.title": {
+    "original": "Observation: &2Wixie's Stonecutter&r",
+    "context": "chapters/it_takes_a_village.snbt / task 210DF794EE1D714A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.241DC4DBEF1C8648.title": {
+    "original": "Observation: &2Wixie Cauldron&r",
+    "context": "chapters/it_takes_a_village.snbt / task 241DC4DBEF1C8648",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.264F4FA6B354C01A.title": {
+    "original": "Observation: &2Wixie's Enchanting Apparatus&r",
+    "context": "chapters/it_takes_a_village.snbt / task 264F4FA6B354C01A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4484CC7F88D33D12.title": {
+    "original": "Arcane Platforms",
+    "context": "chapters/it_takes_a_village.snbt / task 4484CC7F88D33D12",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.5243C7DE02D7AA20.title": {
+    "original": "Armor Insulation",
+    "context": "chapters/it_takes_a_village.snbt / task 5243C7DE02D7AA20",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.573110BB52169A48.title": {
+    "original": "Observation: &2Wixie's Furnace&r",
+    "context": "chapters/it_takes_a_village.snbt / task 573110BB52169A48",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.605834F92F6F384F.title": {
+    "original": "Observation: &2Wixie's Cooking Pot&r",
+    "context": "chapters/it_takes_a_village.snbt / task 605834F92F6F384F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7559C9E4BA735703.title": {
+    "original": "Observation: &2Wixie's Cutting Board&r",
+    "context": "chapters/it_takes_a_village.snbt / task 7559C9E4BA735703",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.75F35EC4088EBA42.title": {
+    "original": "Create Processing",
+    "context": "chapters/it_takes_a_village.snbt / task 75F35EC4088EBA42",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

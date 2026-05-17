@@ -1,0 +1,322 @@
+{
+  "chapter.7F9A789B53FAB216.title": {
+    "original": "Getting Acclimated",
+    "context": "chapters/acclimation.snbt / chapter 7F9A789B53FAB216",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.074827E52A09685F.quest_desc": {
+    "original": "&7Water&r, precious and rare, will be hard to come by in this place. \n\nFor now, you'll be able to condense a very small amount from the clouds around you by inserting them in the &7Accumulator&r. \n\nThere are pipes in the floor under the &7Accumulator&r that drain &7Water&r directly into your &7Boiler&r. \n\nExcess &7Water&r will overflow into the &7Fluid Drawer&r in the basement where it can be easily retrieved; just Left-Click the front with an empty &7Bucket&r.\n\nRemember to keep an eye on your &7Hearth&r! A bucket of water will only last about 12 minutes. \n\n&6⚠ Note: Water Sources are &nnot&r &6infinite! ",
+    "context": "chapters/acclimation.snbt / quest 074827E52A09685F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.074827E52A09685F.title": {
+    "original": "Water",
+    "context": "chapters/acclimation.snbt / quest 074827E52A09685F",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.123BB918DF6E3936.quest_desc": {
+    "original": "Looking for a more traditional set of pipes? These pipes from Oritech should get the job done. \n\nSimply place them down and Right-Click any pipes that connect to an inventory to toggle between Extract and Insert mode.\n\nThe &7Item Pipes&r have one small quirk, however; they only extract from the first slot of the connected inventory by default.\n\nTo allow them to extract from any slot, you just need to slap a &7Rune of Swiftness&r on the connection.",
+    "context": "chapters/acclimation.snbt / quest 123BB918DF6E3936",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.130A2701B96A941D.quest_desc": {
+    "original": "This place is mostly safe from monsters, however there are worse things than a few zombies or skeletons poking around.\n\nThe &7Hearth&r in the gazebo will keep you warm within the bounds of the building once it is activated.\n\nInsert the provided &7Tiny Charcoal&r in the &7Chest&r on the left and Right-Click the &7Crystallized Water&r into the &7Accumulator&r on the right.\n\nIf you wish to check in on it, locate the &7Trap Door&r in front and descend into the basement. \n\nIt will take a minute for the &7Hearth&r to warm up, and it will not heat the basement, but you can check on the &7Decrepit Boiler&r while you're down there to ensure it is operating.\n{@pagebreak}\nA &7Hearth&r provides thermal regulation in a &7covered area&r within a &720 block spherical radius&r. The area will not spread through solid blocks. \n\nThe center of the protected area may be moved by attaching &7Smokestacks&r to the top. \n\nEach &7Hearth&r will only produce one protected area at a time, branching &7Smokestacks&r will not allow it to affect multiple areas.\n\nThe &7Hearth&r has two sides marked for &cHeating&r (left and back) and two for &9Cooling&r (right and bottom). \n&n                                                              &r\n\n                          &6&nFuel\n    &cHeating&r                               &9Cooling&r\n     &7Steam                                  &7Ice\n&n                                                              &r\n\nAppropriate &7Fuel&r and a &7Redstone&r signal must be provided on these faces. \n\nFor example, pipe &7Steam&r into the left and power the back with &7Redstone&r to start heating the area.",
+    "context": "chapters/acclimation.snbt / quest 130A2701B96A941D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.130A2701B96A941D.title": {
+    "original": "Welcome to the Skies!",
+    "context": "chapters/acclimation.snbt / quest 130A2701B96A941D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.25B419FE32D9752B.quest_desc": {
+    "original": "Make a &7Mercury Distiller&r and place it atop a &7Pyromantic Brazier&r. \n\nItems, such as &7Sky Stone Dust&r, may be Right-Clicked into the &7Distiller&r while fuel may be Right-Clicked into the &7Brazier&r to begin processing.",
+    "context": "chapters/acclimation.snbt / quest 25B419FE32D9752B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.28ACDB98DC2B9D41.quest_desc": {
+    "original": "Our fuel can burn plenty hot, but with the extreme cold here it's still not enough to warm certain machines to suitable temperatures. \n\nWe'll need some form of insulation to retain as much precious warmth as possible.\n\n                           &6&nExample Spells&r\n\n&7Conjure Aerogel&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r\n\n&6⚠ Note: Apply Amplify to a Break spell to harvest Aerogel.",
+    "context": "chapters/acclimation.snbt / quest 28ACDB98DC2B9D41",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.2D755021F6490B86.quest_desc": {
+    "original": "Obtain your first &7Sourceberry&r by enchanting a &7Cloud Berry&r. \n\nBe sure to plant the &7Sourceberry&r to grow more. The spells at your disposal should help tremendously with this task.\n\n&6⚠ Note: Use a Cutting Board to grind \n&6    Flour for Dough!",
+    "context": "chapters/acclimation.snbt / quest 2D755021F6490B86",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.359A7C9127500D6C.quest_desc": {
+    "original": "A simple &7Furnace&r, despite the cold, should protect that precious heat well enough to get started.",
+    "context": "chapters/acclimation.snbt / quest 359A7C9127500D6C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.453240979BB90EBD.quest_desc": {
+    "original": "The Mercurial Logistics system is a simple network for moving Items and Fluids.\n\nThe &7Inserters&r and &7Extractors&r can be placed against machines or other inventories and then linked up with &7Mercurial Wire&r. \n\n&7Mercurial Connection Nodes&r allow multiple wires to come together to form a broader network, as well as to extend the reach of individual wires.\n\nThings will only get more complicated from here, so be sure to spend some time automating what you can.\n\n&a🛈 Tip: Try to keep your wires isolated to loaded chunks. ",
+    "context": "chapters/acclimation.snbt / quest 453240979BB90EBD",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.453240979BB90EBD.title": {
+    "original": "Mercurial Networks",
+    "context": "chapters/acclimation.snbt / quest 453240979BB90EBD",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.45F3C4F0EDA160C5.quest_desc": {
+    "original": "You’ve got nothing but your wits and a few trinkets to work with; these books will help you get started. \n\n• &6Cloud Burst&r will summon a fluffy cloud.\n\n• &6Brawndo&r will quickly grow plants.\n\n• &6Holdfast&r places a single block in midair which \n    will disappear after a few moments.\n&n                                                              &r\n\nLost your books? Ran out of Saplings? \n\nThis quest is repeatable to get you going again!",
+    "context": "chapters/acclimation.snbt / quest 45F3C4F0EDA160C5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.49E18B07D6E4A5EB.quest_desc": {
+    "original": "With the latent energies in Ambrosium, we can create a Fermentation Vat to magically transmute certain materials. \n\nWe just need a suitable material to line the vat with to control the reaction.\n\n                           &6&nExample Spells&r\n\n&7Conjure Quicksoil&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aCrush&r\n\n&7Conjure Aether Dirt&r\n    &5Touch&r > &aConjure Terrain&r\n\n&n                                                                          &r\n\nThe &7Fermentation Vat&r is operated by Right-Clicking the inputs into the machine. Once everything is in, Sneak Right-Click it again to ‘close’ it. It will only operate while closed.\n\nThe Vat will open again automatically once it can no longer do any work. Be that because it finished, ran out of room for outputs, or ran out of inputs. \n\n                       &n&6A Note on Automation&r&r\n\nFluids and Items may be inserted by any form of logistics such as pipes or hoppers, but only while the device is open. Similarly, items may only be extracted while it is open.\n\nThe device may be closed by applying a Redstone signal to any side other than the front, which can be identified by the red dot at the bottom. \n\nRegardless of the signal, the device will still open automatically if it has no room for outputs.\n\nThe front will output a signal when the device has finished a recipe, allowing finer control for small batches.",
+    "context": "chapters/acclimation.snbt / quest 49E18B07D6E4A5EB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.49F48B91801BE4FE.quest_desc": {
+    "original": "&7Transfer Labels&r are a great way to move items between adjacent inventories, meaning a &7Chest&r next to a &7Furnace&r can now push without the need of a hopper or other pipes. \n\nThe direction of flow depends on the machine the &7Labels&r is placed against. \n\nFor example, an &7Insert Label&r placed on the side of a &7Furnace&r will pull items from an adjacent &7Chest&r into the &7Furnace&r. Alternatively, an &7Extract Label&r on the &7Chest&r would cause it to push items from the &7Chest&r into the &7Furnace&r.\n\nUse a &7Label Accessor&r to Right-Click your labels, even when hidden by a machine, to configure them. Sneak + Left Click will remove the &7Label&r\n\nThey allow quite sophisticated filtering and can even be sped up by simply inserting more &7Labels&r in the GUI.",
+    "context": "chapters/acclimation.snbt / quest 49F48B91801BE4FE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.49F48B91801BE4FE.title": {
+    "original": "Transfer Labels",
+    "context": "chapters/acclimation.snbt / quest 49F48B91801BE4FE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.4ACD723FC7EB7CD6.quest_desc": {
+    "original": "It's hard to keep a fire lit in this place; most open flames will go out immediately or simply not catch in the first place. ",
+    "context": "chapters/acclimation.snbt / quest 4ACD723FC7EB7CD6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4ACD723FC7EB7CD6.title": {
+    "original": "Fire",
+    "context": "chapters/acclimation.snbt / quest 4ACD723FC7EB7CD6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.51636F3E5A461A7B.quest_desc": {
+    "original": "You'll be able to scrape away the ice from &7Icestone&r on a cutting board with any &7Axe&r.\n\nAfter it has been cleaned up, you’ll be left with &7Holystone&r which may be crushed down to obtain other materials. \n\nNotably, you’ll need some &7Ambrosium&r which is an important catalyst for transmutation magic.\n\n&6⚠ Note: Icestone is cold and holding \n&6    too much will rapidly lower your \n&6    body temperature!",
+    "context": "chapters/acclimation.snbt / quest 51636F3E5A461A7B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.616862D8ADBE3928.quest_desc": {
+    "original": "Water will freeze, of course, if left out in the cold. But you’ll need some particularly cold, dense ice soon. \n\nFreeze a &7Water Bucket&r and then re-freeze it until you get &7Blue Ice&r. \n\nBe careful, however, it's extremely cold to hold!\n\nThe &7Freezer&r uses &7Icestone&r as fuel.",
+    "context": "chapters/acclimation.snbt / quest 616862D8ADBE3928",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.62C7492F54D80CBA.quest_desc": {
+    "original": "The few spell tomes you’ve been left with should prove useful, but they’re no substitute for a full &7Spell Book&r. Fully recovering that is going to take time but we can get a start on it now.\n\nGather some wood and craft up some basic tools. \n\nWith an &7Axe&r and &7Cutting Board&r, you’ll be able to get some &7Bark&r for &7Paper&r. \n\nWith a &7Knife&r, you’ll be able to break &7Grass&r for &7Straw&r.\n\nLater, the &7Cutting Board&r may also be used with spells. The following combinations simulate the respective tools.\n\n                           &6&nExample Spells&r\n\n&7Knife or Shears&r\n    &5Touch&r > &aCut&r\n\n&7Axe or Knife&r\n    &5Touch&r > &aCut&r > &6Amplify&r\n\n&7Shears&r\n    &5Touch&r > &aCut&r > &6Extract&r\n\n&7Pickaxe&r\n    &5Touch&r > &aBreak&r\n\n&7Shovel&r\n    &5Touch&r > &aCrush&r \n\n&7Axe&r\n    &5Touch&r > &aFell&r ",
+    "context": "chapters/acclimation.snbt / quest 62C7492F54D80CBA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.62C7492F54D80CBA.title": {
+    "original": "On the Chopping Block",
+    "context": "chapters/acclimation.snbt / quest 62C7492F54D80CBA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6703E3A9E3571660.quest_desc": {
+    "original": "Standing out in the open without protection or holding too many cold items will cause your body temperature to drop rapidly. \n\nWearing protective clothing will slow the rate at which heat is lost, so don't leave home without it. \n&n                                                             &r\n\nBetween your Health and your Hunger, you'll notice a new indicator showing your Temperature Rating. This indicator ranges from 0 to 100, where 0 is considered comfortable and 100 is deadly. It displays as &9Blue&r for freezing and &6Orange&r for overheating. \n\nStarting at around &950&r, you'll notice your movements becoming sluggish and your view start to diminish. \n\nIf your Temperature Rating hits &9100&r, you will rapidly freeze to death.\n\nOverheating may not seem like a threat at the moment, but be aware that holding certain items, like Lava Buckets, will affect your body temperature.",
+    "context": "chapters/acclimation.snbt / quest 6703E3A9E3571660",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6CE9EE018596DAD2.quest_desc": {
+    "original": "Craft a &7Novice Spell Book&r. It comes with a few key glyphs that you’ll be able to put together, but you’ll soon want to explore more glyphs to pull off ever more impressive feats.\n\n                          &6&nUseful Keybinds&r\n\n[\"• Open Book (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Open Book\"}]},\"keybind\":\"key.ars_nouveau.open_book\"},\")\"]\n[\"• Selection HUD (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Selection HUD\"}]},\"keybind\":\"key.ars_nouveau.selection_hud\"},\")\"]\n[\"• Next Slot (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Next Slot\"}]},\"keybind\":\"key.ars_nouveau.next_slot\"},\")\"]\n[\"• Previous Slot (\",{\"color\":\"gold\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Previous Slot\"}]},\"keybind\":\"key.ars_nouveau.previous_slot\"},\")\"]\n\nIf you're feeling a little daunted by spellcraft, that's normal. It's a huge and very powerful system. We'll try to point out useful spells to know throughout the quests, however. \n\nThe guidebook also has a section that explains the rules, such as placing &5Form&r before &aEffect&r or where &6Augments&r are allowed. \n\n[\"Lastly, the community driven \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://ars.guide/spells/introduction/compendium/\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Ars.Guide\",\"underlined\":true},\" has a repository of useful spells. Feel free to explore them and submit your own creations!\"]\n\n                           &6&nExample Spells&r\n\n&7Multi-Tool&r\n    &5Touch&r > &aBreak&r\n\n&7Tree Harvesting&r\n    &5Projectile&r > &aFell&r\n\n&7Conjure Icestone&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r\n\n&a🛈 Tip: Refer to the guide for more examples.\n\n&6⚠ Note: Spells may contain up to thirty glyphs.",
+    "context": "chapters/acclimation.snbt / quest 6CE9EE018596DAD2",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6DBBD5B744B801B1.quest_desc": {
+    "original": "You'll notice that a number of blocks either cannot be placed in this frigid place or will transform when placed. \n\nNotably, the following blocks will be transformed if placed by any means, including conjuration!\n\n\n  • &7Dirt&r                      &2⟶&r           &7Aether Dirt&r\n  • &7Grass Block&r           &2⟶&r           &7Aether Grass&r\n  • &7Cobblestone&r           &2⟶&r           &7Icestone&r\n  • &7Stone&r                   &2⟶&r           &7Holystone&r\n  • &7Sand&r                    &2⟶&r           &7Cold Aercloud&r\n  • &7Sandstone&r             &2⟶&r           &7Quicksoil&r\n  • &7C. Deepslate&r           &2⟶&r           &7Aerogel&r\n  • &7Deepslate&r              &2⟶&r           &7Aerogel&r\n\n{@pagebreak}\n&6&nExample Spells&r\n\n&7Conjure Aether Dirt&r\n    &5Touch&r > &aConjure Terrain&r\n\n&7Conjure Icestone&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r\n\n&7Conjure Holystone&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aSmelt&r\n\n&7Conjure Cold Aercloud&r\n    &5Touch&r > &aConjure Terrain&r > &aCrush&r\n\n&7Conjure Quicksoil&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aCrush&r\n\n&7Conjure Aerogel&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r",
+    "context": "chapters/acclimation.snbt / quest 6DBBD5B744B801B1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.78E557B17D1EB84F.quest_desc": {
+    "original": "The Altar uses &7Ambrosium&r as fuel to transmute items. \n\nAs a first recipe, make some &7Rice&r by transmuting a &7Straw Bale&r, then plant the rice in water to get it growing. \n\nFrom that, you'll be able to create a &7Magebloom Seed&r.",
+    "context": "chapters/acclimation.snbt / quest 78E557B17D1EB84F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "reward.11E0A9AD9E166E7A.title": {
+    "original": "Emergency Supplies",
+    "context": "chapters/acclimation.snbt / reward 11E0A9AD9E166E7A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.3E7BAB348DD3EE9A.title": {
+    "original": "Emergency Supplies",
+    "context": "chapters/acclimation.snbt / reward 3E7BAB348DD3EE9A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.40388BEEAF901737.title": {
+    "original": "Emergency Supplies",
+    "context": "chapters/acclimation.snbt / reward 40388BEEAF901737",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.45A896DE3291BF81.title": {
+    "original": "Emergency Supplies",
+    "context": "chapters/acclimation.snbt / reward 45A896DE3291BF81",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.57C51F8A99D36594.title": {
+    "original": "Emergency Supplies",
+    "context": "chapters/acclimation.snbt / reward 57C51F8A99D36594",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.596A24138CB4C67D.title": {
+    "original": "Emergency Supplies",
+    "context": "chapters/acclimation.snbt / reward 596A24138CB4C67D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.6364852EF59523D4.title": {
+    "original": "Emergency Supplies",
+    "context": "chapters/acclimation.snbt / reward 6364852EF59523D4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.68B7C21542AEB978.title": {
+    "original": "Emergency Supplies",
+    "context": "chapters/acclimation.snbt / reward 68B7C21542AEB978",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2B3416E3F3663598.title": {
+    "original": "Block Conversions",
+    "context": "chapters/acclimation.snbt / task 2B3416E3F3663598",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3A59C49FAF001D7E.title": {
+    "original": "Temperature Management",
+    "context": "chapters/acclimation.snbt / task 3A59C49FAF001D7E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.3B6A2E42A7F4D6C2.title": {
+    "original": "Tools of the Trade",
+    "context": "chapters/acclimation.snbt / task 3B6A2E42A7F4D6C2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.4EAFCD169CB43E2D.title": {
+    "original": "Hearth and Home",
+    "context": "chapters/acclimation.snbt / task 4EAFCD169CB43E2D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.58162F4C2BB35BA4.title": {
+    "original": "Mercurial Fluid Transporters",
+    "context": "chapters/acclimation.snbt / task 58162F4C2BB35BA4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7BBDAB866A167CE4.title": {
+    "original": "Mercurial Item Transporters",
+    "context": "chapters/acclimation.snbt / task 7BBDAB866A167CE4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

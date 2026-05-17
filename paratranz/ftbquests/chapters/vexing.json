@@ -1,0 +1,562 @@
+{
+  "chapter.72447ED7D54B4AF7.title": {
+    "original": "Vexing Island",
+    "context": "chapters/vexing.snbt / chapter 72447ED7D54B4AF7",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.00946DF0B2C88A9F.quest_desc": {
+    "original": "Metals and plastics can serve as wonderful analogs to bone for structure, but motors and servos lack a certain flexibility. \n\nWhy re-invent what nature has already nearly perfected? Re-animated flesh can be enhanced to be stronger and more durable than ever.   ",
+    "context": "chapters/vexing.snbt / quest 00946DF0B2C88A9F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0458B6BC887C9725.quest_desc": {
+    "original": "Summon a &7Wolf&r at the Altar of Birthing and gather some &7Organic Matter&r from it.\n\n&6⚠ Note: The Spawn Egg is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 0458B6BC887C9725",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0458B6BC887C9725.title": {
+    "original": "Wolf",
+    "context": "chapters/vexing.snbt / quest 0458B6BC887C9725",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.053C43E68E7ADB2B.quest_desc": {
+    "original": "With the &7Slice'N'Splice&r, we can rebuild and splice together the genetic material from different creatures to create the monsters we need. \n\n&6⚠ Note: Enderio machines require  \n&6    a Capacitor to function.",
+    "context": "chapters/vexing.snbt / quest 053C43E68E7ADB2B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.05F232C12FA99F92.quest_desc": {
+    "original": "Capable of withstanding greater temperatures, the &7Electric Kiln&r will allow you to make &7Steel&r as well as other useful materials. \n\n&n                                                                          &r\n\nEvery Modern Industrialization multiblock requires input and output hatches commensurate with the recipes it handles. \n\nIn this case, the &7Electric Kiln&r requires both fluid and item hatches.\n\n&a🛈 Tip: Place the controller block, then hold a Wrench \n&a    to see the structure. Similarly, hold a Hatch to see \n&a    valid locations for them.",
+    "context": "chapters/vexing.snbt / quest 05F232C12FA99F92",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.07EC0853BE4C6391.quest_desc": {
+    "original": "Animate a &7Slime&r and defeat it to obtain &7Earthen Spirits&r.\n\n&6⚠ Note: The Ritual Item is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 07EC0853BE4C6391",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.07EC0853BE4C6391.title": {
+    "original": "Earthen Spirit",
+    "context": "chapters/vexing.snbt / quest 07EC0853BE4C6391",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0AEC5C2683575F1C.quest_desc": {
+    "original": "Trade for a &7Runewood Sapling&r at the Weeping Well. \n\nYou’ll need this primarily for its wood, though the sap can be quite useful as well. ",
+    "context": "chapters/vexing.snbt / quest 0AEC5C2683575F1C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0BB6D2595F99ADB4.quest_desc": {
+    "original": "Now that we can animate blocks and start collecting more varied Spirits, it’s time to delve into genetic manipulation.\n\nCraft a &7Scraper&r and Right-Click mobs to gather their &7Organic Matter&r. \n\n&a🛈 Tip: The Delicate Touch enchantment \n&a    makes Scrapers deal no damage!",
+    "context": "chapters/vexing.snbt / quest 0BB6D2595F99ADB4",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0DE5D9ADB947B171.quest_desc": {
+    "original": "Animate a &7Wilden Chimera&r and defeat it to obtain a &7Wilden Tribute&r.\n\n&7Chimera Meat&r may be obtained through &7Soul Shattering&r or by trading extra &7Wilden Tributes&r to a &7Butcher&r. \n\n&6⚠ Note: The Ritual Item is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 0DE5D9ADB947B171",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.12E7105B33AC043E.quest_desc": {
+    "original": "[ \"\", { \"text\": \"Abjuration Essence\", \"color\":\"gray\"}, \" grants access to the blighted lands of the \", { \"text\": \"Vexing Island\", \"color\":\"aqua\", \"underlined\": true,\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]}, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13F15094F3AF4A73\" } }, \".\" ]",
+    "context": "chapters/vexing.snbt / quest 12E7105B33AC043E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.12E7105B33AC043E.title": {
+    "original": "Vexing Island",
+    "context": "chapters/vexing.snbt / quest 12E7105B33AC043E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.13F15094F3AF4A73.quest_desc": {
+    "original": "                      &6&nBiome: Mushroom Fields&r&r\n\nThe following Placement Conversions are in effect in this biome. Remember to use these to your advantage by using Conjure Terrain to summon these blocks.\n\n  • &7Dirt&r                      &2⟶&r           &7Blighted Earth&r\n  • &7Grass Block&r           &2⟶&r           &7Blighted Earth&r\n  • &7Cobblestone&r           &2⟶&r           &7Tainted Rock&r\n  • &7Stone&r                   &2⟶&r           &7Smooth Tainted Rock&r\n  • &7Sand&r                    &2⟶&r           &7Cold Aercloud&r\n  • &7Sandstone&r             &2⟶&r           &7Quicksoil&r\n  • &7C. Deepslate&r           &2⟶&r           &7Twisted Rock&r\n  • &7Deepslate&r              &2⟶&r           &7Smooth Twisted Rock&r\n\n{@pagebreak}\n&6&nExample Spells&r\n\n&7Conjure Blighted Earth&r\n    &5Touch&r > &aConjure Terrain&r\n\n&7Conjure Tainted Rock&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r\n\n&7Conjure Smooth Tainted Rock&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aSmelt&r\n\n&7Conjure Cold Aercloud&r\n    &5Touch&r > &aConjure Terrain&r > &aCrush&r\n\n&7Conjure Quicksoil&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &aCrush&r\n\n&7Conjure Twisted Rock&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r\n\n&7Conjure Smooth Twisted Rock&r\n    &5Touch&r > &aConjure Terrain&r > &6Amplify&r > &6Amplify&r > &aSmelt&r",
+    "context": "chapters/vexing.snbt / quest 13F15094F3AF4A73",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.17198F7EC5DC1A4F.quest_desc": {
+    "original": "The smell leaves something to be desired, but these bio-mechanical &7Robot Arms&r are incredibly precise and capable of adapting to changing conditions mid-task.",
+    "context": "chapters/vexing.snbt / quest 17198F7EC5DC1A4F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.18A17E8080792318.quest_desc": {
+    "original": "Need a little more room to work? Summoning another island is always an option. \n\nAlternatively, Right-Click a &7Tainted Rock&r with an &7Abjuration Essence&r to convert a &n21x11x21&r area to this biome!",
+    "context": "chapters/vexing.snbt / quest 18A17E8080792318",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.18A17E8080792318.title": {
+    "original": "Biome Conversion",
+    "context": "chapters/vexing.snbt / quest 18A17E8080792318",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1AE63FE6C7EF59AB.quest_desc": {
+    "original": "A &7Simple Clicker&r or &7Activator Module&r attacking mobs with a &7Soul Shattering Weapon&r can be an excellent way to automate &7Spirit&r collection. ",
+    "context": "chapters/vexing.snbt / quest 1AE63FE6C7EF59AB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1AE63FE6C7EF59AB.title": {
+    "original": "Clickity Clackity",
+    "context": "chapters/vexing.snbt / quest 1AE63FE6C7EF59AB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1BDCA4CF5ED739BA.quest_desc": {
+    "original": "Upgrading your Goo will give you access to newer recipes and faster in-world processing.",
+    "context": "chapters/vexing.snbt / quest 1BDCA4CF5ED739BA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1C21EC957B97C70A.quest_desc": {
+    "original": "An &7Advanced Clicker&r can be an exceptionally useful device for working with mobs since it can both Attack and Right-Click them with weapons and tools. \n\nUnlike a &7Simple Clicker&r, the &7Advanced Clicker&r acts in a large area. ",
+    "context": "chapters/vexing.snbt / quest 1C21EC957B97C70A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1C9565D5C51B74CC.quest_desc": {
+    "original": "With a &7Cell Analyzer&r and &7DNA Extractor&r, you're ready to begin breaking down the &7Organic Matter&r you've been collecting to obtain the &7DNA&r within. \n\nThese samples will be spliced and introduced into a host to obtain something entirely new.\n\n[ \"These machines can also be used to grant entities permanent buffs. Refer to the \", { \"text\": \"Genetics: Resequenced\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7F17CDF8564DCC49\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" Chapter for more information.\" ]",
+    "context": "chapters/vexing.snbt / quest 1C9565D5C51B74CC",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1C9565D5C51B74CC.title": {
+    "original": "Genetics",
+    "context": "chapters/vexing.snbt / quest 1C9565D5C51B74CC",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1D2F5CE5D285BAEA.quest_desc": {
+    "original": "&7Whirlisprigs&r once roamed the lands, tending to the natural world. It’s been an age since they’ve been seen, but perhaps that can be rectified?\n\nAncient texts alluded to them being related in nature to the &7Allay&r, a creature we can call forth with a little effort…\n&n                                                  &r\n\nCraft a &7Magic Lamp&r and release its inhabitant at an &7Altar of Birthing&r. Then gather some &7Organic Matter&r from it.\n\n&6⚠ Note: The Spawn Egg is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 1D2F5CE5D285BAEA",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1D2F5CE5D285BAEA.quest_subtitle": {
+    "original": "Rub me the right way",
+    "context": "chapters/vexing.snbt / quest 1D2F5CE5D285BAEA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1D2F5CE5D285BAEA.title": {
+    "original": "Genie in a Bottle",
+    "context": "chapters/vexing.snbt / quest 1D2F5CE5D285BAEA",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1E514F5A18364625.quest_desc": {
+    "original": "Finally, craft yourself a &7Whirlisprig Charm&r. These items may be Right-Clicked on any flower to make a home for your new friend.\n\nThe &7Whirlisprig&r will manage the plants in a large area, gently harvesting small quantities of everything in its home area and depositing them in an inventory &nadjacent&r to its &7Blossom&r.\n\nSource is required and will be taken from a nearby &7Source Jar&r.",
+    "context": "chapters/vexing.snbt / quest 1E514F5A18364625",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.26188F1C7EBA08B6.quest_desc": {
+    "original": "Animate a &7Vexing Weald Walker&r and defeat it to obtain &7Eldritch Spirits&r.\n\n&6⚠ Note: The Ritual Item is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 26188F1C7EBA08B6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.26188F1C7EBA08B6.title": {
+    "original": "Eldritch Spirit",
+    "context": "chapters/vexing.snbt / quest 26188F1C7EBA08B6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.36BCEB3B27822AD1.quest_desc": {
+    "original": "These curious gems seem barely capable of holding their own form. \n\nWhen paired with certain other items, they'll immediately assume the new form and stabilize. \n\nMost device upgrades can be duplicated in this way.",
+    "context": "chapters/vexing.snbt / quest 36BCEB3B27822AD1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.37AA9E6270DB015A.quest_desc": {
+    "original": "This is a multiblock structure comprised of a central &7Empowerer&r and four &7Display Stands&r. \n\nEach &7Display Stand&r must be placed three blocks away from the &7Empowerer&r in each of the cardinal directions. \n\nWhen crafting, the central item in the recipe goes on the &7Empowerer&r while the other four items are placed in any order on the surrounding &7Display Stands&r. \n\nEnergy must be provided to each of the four &7Display Stands&r. ",
+    "context": "chapters/vexing.snbt / quest 37AA9E6270DB015A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.37ED5A328F30DD34.quest_desc": {
+    "original": "Creating monsters is no small feat and we’re going to need some very specific materials to pull it off. \n\nWe’ll start with something easy, slimes. We can lean on the latent magic in certain foods to get the process going, though it's still going to need an extra nudge.\n\nGather some &7Spirits of Birthing&r by manually breeding animals in a high Aura environment. \n\nOnce you've animated your slimes, be sure to slay them with a &7Scythe&r or other &7Soul Shattering Weapon&r to properly harvest their &7Spirits&r.\n\n&6⚠ Note: It is sufficient to harm the mob with \n&6    a &oSoul Shattering Weapon&r &6or &oGlyph of Soul&r \n&6    &oShatter&r&6; the killing blow can come from \n&6    another weapon.\n\n&a🛈 Tip: Apply Spirit Plunder to your weapon to \n&a    obtain more Spirits!",
+    "context": "chapters/vexing.snbt / quest 37ED5A328F30DD34",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3BF458796782EB49.quest_desc": {
+    "original": "The &7Cybernetics Station&r allows you to research and install various bio-mechanical enhancements into your body to provide you with permanent buffs and new abilities. \n\nThese abilities vary from the more mundane, such as Step Assist, to the fantastic such as built in Armor, Invisibility, and even Flight. \n\nUnlike other Oritech machines, this one will not function without an appropriate upgrade installed. \n\nThere are three in total which can be installed on the sides and back of the &7Augmentation Center&r. \n\nTo get started, you’ll need to craft and install the &7Cybernetic Research Station&r. Later upgrades will require higher-tier &7Research Stations&r.\n ",
+    "context": "chapters/vexing.snbt / quest 3BF458796782EB49",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3D1D6D17B2900DF0.quest_desc": {
+    "original": "Animate a &7Magma Slime&r and defeat it to obtain &7Infernal Spirits&r.\n\n&6⚠ Note: The Ritual Item is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 3D1D6D17B2900DF0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3D1D6D17B2900DF0.title": {
+    "original": "Infernal Spirit",
+    "context": "chapters/vexing.snbt / quest 3D1D6D17B2900DF0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3D7B773741D78864.quest_desc": {
+    "original": "Harvesting edible meat from &7Wilden&r is a task that requires both skill and focus; one slip and the meat may be fouled by the cursed magic flowing through them.\n\nSuch a delicate process can only be completed with a &7Knife&r. \n\nBy placing the &7Knife&r in an &7Arcane Pedestal&r next to a &7Drygmy Henge&r, they will be able to harvest the &7Meat&r for you.",
+    "context": "chapters/vexing.snbt / quest 3D7B773741D78864",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3D7B773741D78864.title": {
+    "original": "Wilden Meat",
+    "context": "chapters/vexing.snbt / quest 3D7B773741D78864",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.42F2191B5C08849B.quest_desc": {
+    "original": "Summon a &7Bat&r at the Altar of Birthing and gather some &7Organic Matter&r from it.\n\n&6⚠ Note: The Spawn Egg is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.\n\n&a🛈 Tip: Consider making an enclosure to \n&a    contain your bats!",
+    "context": "chapters/vexing.snbt / quest 42F2191B5C08849B",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.42F2191B5C08849B.title": {
+    "original": "Bat",
+    "context": "chapters/vexing.snbt / quest 42F2191B5C08849B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.43580B4D15FCEF00.quest_desc": {
+    "original": "A bit of slicing and splicing will get us what we need. Prepare the required items for the ritual and create your very own &7Whirlisprig&r. \n\nTo earn a &7Token&r of its trust, grow any sapling nearby.\n\n&6⚠ Note: The Ritual Item is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 43580B4D15FCEF00",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.45E411460C53A082.quest_desc": {
+    "original": "Materials may be greatly enhanced by infusing them with one or more &7Spirit&r types and this &7Altar&r is the key to performing such operations. \n\nWorking with the &7Spirit Altar&r is relatively straightforward. At its simplest, you’ll need the &7Altar&r itself and some &7Item Pedestals&r to hold any extra items shown in the recipe. \n\nOn the &7Altar&r, you’ll insert the primary ingredient, shown in the middle of the recipe, and the &7Spirits&r shown on the left. Any items shown on the right will be placed on &7Item Pedestals&r. The craft begins immediately upon placing the items for a valid craft.\n\nCrafting may seem rather slow, however it can be greatly sped up by placing up to four &7Runewood Obelisks&r nearby. The passive animals you've been keeping should provide the necessary &7Spirits&r.\n\n                       &n&6A Note on Automation&r\n\nItems may be inserted by hand or by any form of item logistics. Some form of pipe with a filter is recommended, though not required.\n\nEarly on, you may find it convenient to set up an &7Altar&r to passively craft a single item in batches, however later on you'll be able to easily integrate this device with Applied Energistics patterns so you can request crafts on-demand.\n\n[\"Since it requires multiple input slots, you'll undoubtedly wish to use a \",{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://guide.appliedenergistics.org/1.21.1/ae2-mechanics/subnetworks#root\"},\"color\":\"green\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]},\"text\":\"Subnet\",\"underlined\":true},\" to route items appropriately.\"]",
+    "context": "chapters/vexing.snbt / quest 45E411460C53A082",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.46DDBE0A9170F54A.quest_desc": {
+    "original": "Forging &7Steel&r in &7Blaze Ember&r has certain… advantages over traditional practices. \n\nNot only is it strong and durable, but it is uniquely porous when it comes to &7Spirits&r; as if it has a thirst for souls that can never be quenched. ",
+    "context": "chapters/vexing.snbt / quest 46DDBE0A9170F54A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.4B2DF8F028C3CFA0.quest_desc": {
+    "original": "Animate a &7Guardian&r and gather some &7Organic Matter&r from it.\n\n&6⚠ Note: The Ritual Item is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 4B2DF8F028C3CFA0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.520241157010066D.quest_desc": {
+    "original": "Animate a &7Wilden Stalker&r and harvest it for parts.\n\n&7Wilden Wings&r may only be obtained through &7Soul Shattering&r. \n\n&6⚠ Note: The Ritual Item is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 520241157010066D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.577337FFD6AD9C83.quest_desc": {
+    "original": "[ \"Check out the \", { \"text\": \"Replication Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"13C15ACA23526F9E\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" for information on using these machines to produce items. \" ]",
+    "context": "chapters/vexing.snbt / quest 577337FFD6AD9C83",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.577337FFD6AD9C83.title": {
+    "original": "Replication",
+    "context": "chapters/vexing.snbt / quest 577337FFD6AD9C83",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.5D50FB987FCA7BB5.quest_desc": {
+    "original": "The &7Vexing Archwoods&r on this island will already have a few &7Bastion Fruit&r grown on them. \n\nGather a few and consider setting up a farm when you can; they grow when placed on a &7Vexing Archwood Log&r and can be sped up by applying &7Bone Meal&r or other grow effects. \n\n&a🛈 Tip: Harvest Rituals can be an easy \n&a    way to farm these fruit!",
+    "context": "chapters/vexing.snbt / quest 5D50FB987FCA7BB5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5D74493BC797D6F0.quest_desc": {
+    "original": "Only the most evil and malicious of creatures have &7Wicked Spirits&r within them to harvest. \n\nMaybe go see what your Goats have in their bleating hearts.\n\n&6⚠ Note: The Spawn Egg is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 5D74493BC797D6F0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5D74493BC797D6F0.title": {
+    "original": "Wicked Spirit",
+    "context": "chapters/vexing.snbt / quest 5D74493BC797D6F0",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.619FB543EE458A0E.quest_desc": {
+    "original": "Summon a &7Polar Bear&r at the Altar of Birthing and gather some &7Organic Matter&r from it.\n\n&6⚠ Note: The Spawn Egg is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 619FB543EE458A0E",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.619FB543EE458A0E.title": {
+    "original": "Polar Bear",
+    "context": "chapters/vexing.snbt / quest 619FB543EE458A0E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6660BE0C308A1744.quest_desc": {
+    "original": "Summon a &7Goat &rat the Altar of Birthing and gather some &7Organic Matter&r from it.\n\n&6⚠ Note: The Spawn Egg is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 6660BE0C308A1744",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6660BE0C308A1744.title": {
+    "original": "Goat",
+    "context": "chapters/vexing.snbt / quest 6660BE0C308A1744",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6728201CEC8220A3.quest_desc": {
+    "original": "If, for whatever reason, your Pentacle becomes damaged, worry not. All the materials to recreate it are easily accessible at this point. \n\nRefer to EMI for recipes, as usual. For the &7Strange Crystals&r, they'll form randomly when using &7Bone Meal&r on &7Blighted Earth&r.  \n\nClick the &6👁&r next to each ritual recipe in EMI to preview the pentacle in world. This will show where each block must be placed. They all use the same pentacle. \n\nThe &7Chalice&r may be replaced with a &7Golden&r or &7Iesnium Sacrificial Bowl&r if desired, though this will slow down the rituals. This may be advantageous, however, depending on your needs.\n\nFeel free to recreate the pentacle elsewhere as desired if you need more room for automation.\n\n                 &6&nA Note on Automation&r&r\n\nOccultism’s pentacles have gotten easier to automate than ever, so if you’re only familiar with older versions, read on. \n\nYou may use any pipe or hopper to put items into each &7bowl&r, including the central &7chalice&r. \n\nThe central item may only be inserted once a valid recipe is present in the surrounding bowls and the ritual will start immediately without further interaction. \n\nThis means you can quite simply pipe the items into each bowl without any extra logic.  \n\n&a🛈 Tip: The shape of individual chalk marks is \n&a    random and doesn’t affect the pentacle!",
+    "context": "chapters/vexing.snbt / quest 6728201CEC8220A3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.68C212D2C7F8B308.quest_desc": {
+    "original": "Animate a &7Wilden Defender&r and harvest it for parts.\n\n&7Wilden Spikes&r may only be obtained through &7Soul Shattering&r. \n\n&6⚠ Note: The Ritual Item is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 68C212D2C7F8B308",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.69EE67B1B612D74D.quest_desc": {
+    "original": "Climb to the top of the island and approach the &7Soulwood Tree&r located there. \n\nYou’ll find several &7Exposed Soulwood Logs&r which can be stripped with an &7Axe&r. \n\nRight Click the &7Revealed Soulwood Log&r with a &7Glass Bottle&r to obtain some &7Cursed Sap&r.\n\nA few of these &7Exposed Logs&r will spawn in every new &7Soulwood Tree&r you grow, allowing you to obtain more as needed.",
+    "context": "chapters/vexing.snbt / quest 69EE67B1B612D74D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6A4C2B4518E341D6.quest_desc": {
+    "original": "Animate a &7Blue Swet&r and defeat it to obtain &7Aqueous Spirits&r.\n\n&6⚠ Note: The Ritual Item is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 6A4C2B4518E341D6",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6A4C2B4518E341D6.title": {
+    "original": "Aqueous Spirit",
+    "context": "chapters/vexing.snbt / quest 6A4C2B4518E341D6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6AA9F3E0D4BC181A.quest_desc": {
+    "original": "You’ll find two important structures located on this island. \n\nThe first is the &7Weeping Well&r, which can exchange certain items. Simply toss an item in and the new item will be thrown back at you.\n\nThe second is a &7Ritual&r for more elaborate requests. Look for the chalice surrounded by chalk marks.",
+    "context": "chapters/vexing.snbt / quest 6AA9F3E0D4BC181A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6CA8BA78F5B8FB6A.quest_desc": {
+    "original": "Animate a &7Wilden Pack Hunter&r and harvest it for parts.\n\n&7Wilden Horns&r may only be obtained through &7Soul Shattering&r. \n\n&6⚠ Note: The Ritual Item is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 6CA8BA78F5B8FB6A",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7234B1B299DE122D.quest_desc": {
+    "original": "Finally, craft a &7Drygmy Charm&r. \n\nThese items may be Right-Clicked on &7Mossy Cobblestone&r to make a home for your new friend.\n\nThe &7Drygmy&r will manage creatures in a large area, gently harvesting drops and depositing them in an inventory &7adjacent to its Henge&r.\n\nSource is required and will be taken from a nearby &7Source Jar&r.",
+    "context": "chapters/vexing.snbt / quest 7234B1B299DE122D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.76EC73B59502E2A5.quest_desc": {
+    "original": "A bit of slicing and splicing will get us what we need. Prepare the required items for the ritual and create your very own &7Drygmy&r. \n\nTo earn a &7Token&r of its trust, toss a &7Wilden Horn&r to your &7Drygmy&r.\n\n&6⚠ Note: The Ritual Item is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
+    "context": "chapters/vexing.snbt / quest 76EC73B59502E2A5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.7D8AEEB13B201CFB.quest_desc": {
+    "original": "These highly advanced processors will enable creating a powerful AE2 system to assist in crafting and stock management.\n\nVery handy indeed as crafts become more and more complex.\n\n[ \"Check out the \", { \"text\": \"Applied Energistics Chapter\", \"color\":\"aqua\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"777EE0C4949DFE12\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }, \" for information on setting up an ME Network. \" ]",
+    "context": "chapters/vexing.snbt / quest 7D8AEEB13B201CFB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "task.03DF0245816D38A4.title": {
+    "original": "Wilden Meat",
+    "context": "chapters/vexing.snbt / task 03DF0245816D38A4",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0C683224C0A3D09E.title": {
+    "original": "Processors",
+    "context": "chapters/vexing.snbt / task 0C683224C0A3D09E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.122BA8ACC6374460.title": {
+    "original": "Item Pedestals",
+    "context": "chapters/vexing.snbt / task 122BA8ACC6374460",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.24F2BEBFC964C83B.title": {
+    "original": "Knives",
+    "context": "chapters/vexing.snbt / task 24F2BEBFC964C83B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2A7052B5A35B4A22.title": {
+    "original": "Occultism Pentacle",
+    "context": "chapters/vexing.snbt / task 2A7052B5A35B4A22",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.79CE5559C7D6E3EB.title": {
+    "original": "Vexing Island",
+    "context": "chapters/vexing.snbt / task 79CE5559C7D6E3EB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7CDDB3E6855989E2.title": {
+    "original": "Soul Shattering Weapons",
+    "context": "chapters/vexing.snbt / task 7CDDB3E6855989E2",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

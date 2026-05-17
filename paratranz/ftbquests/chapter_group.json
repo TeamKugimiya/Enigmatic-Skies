@@ -1,0 +1,26 @@
+{
+  "chapter_group.1C7CD605A8DD7732.title": {
+    "original": "&bDiscovery",
+    "context": "chapter_group.snbt / chapter_group 1C7CD605A8DD7732",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "chapter_group.440488E780593120.title": {
+    "original": "&bLearning",
+    "context": "chapter_group.snbt / chapter_group 440488E780593120",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "chapter_group.46AB9129BBE517B6.title": {
+    "original": "&bEnigmatic Skies",
+    "context": "chapter_group.snbt / chapter_group 46AB9129BBE517B6",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "chapter.47870879D8E3742D.title": {
+    "original": "To the Skies!",
+    "context": "chapters/47870879D8E3742D.snbt / chapter 47870879D8E3742D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0A8B7FD4A52663D3.quest_desc": {
+    "original": "&6Enigmatic Skies&r is an automation focused Expert pack designed to challenge you in new and exciting ways. \n\nThe &7Enigmatic Skies&r questline is your primary source of guidance through major progression goals. \n\n            &n&6A Note on Information Sources&r\n\nAs an Expert pack, a great deal of the default progression and recipes for each mod has changed. This means that guidebooks for the various mods included in this pack may give you incorrect information. They are still an invaluable source for how blocks and items work, but don’t assume that recipes or progression requirements found in the books are accurate. \n\nFor recipes, your best source of information is EMI. When looking at an item’s recipe, be sure to check every tab as there may be more than one way to obtain something.  \n\nExtra tooltips and information panes have also been added to many items to help explain how to use them or to highlight important information that's either custom to the pack or otherwise undocumented. \n\nLikewise, these quests will also attempt to give you extra tips and tricks to help you navigate the pack. Especially where custom mechanics are concerned. ",
+    "context": "chapters/47870879D8E3742D.snbt / quest 0A8B7FD4A52663D3",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.16C7D5478BF3D449.quest_desc": {
+    "original": "The &7Learning&r chapters are designed to help you discover useful aspects of major content mods. \n\nThey also provide tips on how to use different features of those mods.\n\nThese chapters cover a lot of ground, but they don’t cover everything. So, be sure to explore the manuals for those mods that have them.",
+    "context": "chapters/47870879D8E3742D.snbt / quest 16C7D5478BF3D449",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.16C7D5478BF3D449.title": {
+    "original": "Learning Mods",
+    "context": "chapters/47870879D8E3742D.snbt / quest 16C7D5478BF3D449",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.44BD4C393C59F1CB.quest_desc": {
+    "original": "The &7Discovery&r questline's purpose is to show what's available in the pack.\n\nThese chapters are a great place to start if you're new to modded Minecraft or if you're in the need for inspiration.",
+    "context": "chapters/47870879D8E3742D.snbt / quest 44BD4C393C59F1CB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.44BD4C393C59F1CB.title": {
+    "original": "Discovering Enigmatica",
+    "context": "chapters/47870879D8E3742D.snbt / quest 44BD4C393C59F1CB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.6DE4258F18A7A321.quest_desc": {
+    "original": "Welcome to &6Enigmatic Skies&r! We hope you enjoy your time here! :D\n\nIt's dangerous to go alone. Take these to get you started!\n\nIf you lose your &7Morphing Tool&r or &7Eccentric Tome&r, worry not; a newly crafted one will come pre-filled. \n&n                                                  &r\n\nQuests are divided into three sections:\n\n[ {\"text\":\"                \"}, { \"text\": \"Enigmatic Skies\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A8B7FD4A52663D3\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }]\n\n[ {\"text\":\"           \"}, { \"text\": \"Discovering Enigmatica\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"44BD4C393C59F1CB\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }]\n\n[ {\"text\":\"                \"}, { \"text\": \"Learning Mods\", \"color\":\"green\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"16C7D5478BF3D449\" },\"hoverEvent\":{\"action\":\"show_text\",\"value\":[{\"text\":\"Click Here\"}]} }]",
+    "context": "chapters/47870879D8E3742D.snbt / quest 6DE4258F18A7A321",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6DE4258F18A7A321.title": {
+    "original": "Welcome!",
+    "context": "chapters/47870879D8E3742D.snbt / quest 6DE4258F18A7A321",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "reward.34CE01457EC3BF54.title": {
+    "original": "Bed",
+    "context": "chapters/47870879D8E3742D.snbt / reward 34CE01457EC3BF54",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.0DE0A9A5505F1850.title": {
+    "original": "Discovering Enigmatica",
+    "context": "chapters/47870879D8E3742D.snbt / task 0DE0A9A5505F1850",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.2249B1CA280D4531.title": {
+    "original": "Enigmatic Skies",
+    "context": "chapters/47870879D8E3742D.snbt / task 2249B1CA280D4531",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.42EE7B1C5F75BCAF.title": {
+    "original": "Welcome!",
+    "context": "chapters/47870879D8E3742D.snbt / task 42EE7B1C5F75BCAF",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.7C0E5A805AE1132B.title": {
+    "original": "Learning Mods",
+    "context": "chapters/47870879D8E3742D.snbt / task 7C0E5A805AE1132B",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

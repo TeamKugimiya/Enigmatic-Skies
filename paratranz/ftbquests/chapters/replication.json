@@ -1,0 +1,58 @@
+{
+  "chapter.13C15ACA23526F9E.title": {
+    "original": "Replication",
+    "context": "chapters/replication.snbt / chapter 13C15ACA23526F9E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.1275C61F2390D761.quest_desc": {
+    "original": "The &7ME Replication Connector&r allows you to interface your Replication network with your AE2 network. With it in place, AE2 will be able to request anything from your Replication network for auto-crafting.\n\nNote that AE2 must be taught how to create each Matter Type. This can be done by placing Pattern Providers against Disintegrators and setting up patterns for each matter type. \n\nIt works best if you create one pattern per matter type.",
+    "context": "chapters/replication.snbt / quest 1275C61F2390D761",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.223BE2F1F8A5C87C.quest_desc": {
+    "original": "The &7Replication Terminal&r is used to request crafts from patterns stored on &7Memory Chips&r. \n\nIt also gives you an overview of the total amount of each &7Matter&r stored on the network and allows you to manage any ongoing requests. ",
+    "context": "chapters/replication.snbt / quest 223BE2F1F8A5C87C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.26B8DEFFA75B3944.quest_desc": {
+    "original": "The Identification Chamber is used to scan and store patterns into Memory Chips. This process is destructive, so your input item will be lost. But that’s ok, right? You’ll soon have as many as you want. \n\nEach Memory Chip can store up to 16 different patterns, and once installed in a Chip Storage will make those items requestable from the Terminal.\n\n&a🛈 Tip: Items may be piped into the \n&a    Identification Chamber through\n&a    the bottom.",
+    "context": "chapters/replication.snbt / quest 26B8DEFFA75B3944",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.307FEC610F0B542F.quest_desc": {
+    "original": "The Replicator itself essentially has two modes of operation. \n\nIn either mode, it will automatically drawn required materials from Tanks attached to the network.\n\n\n&7&nInfinite Mode&r\n\nTo use this mode, simply place an item in the Infinite Mode slot. The Replicator will attempt to continually clone this item using material from the network. \n\nThis is generally best for things you’ll need a steady supply of. \n\n\n&7&nOn-Demand Mode&r\n\nAny Replicator on the network that isn’t in Infinite Mode is available for On-Demand requests. Such requests are made at a Terminal and will automatically be balanced across available Replicators. \n\nMaking such a request will also require storing patterns on a Memory Chip.\n\n&6⚠ Note: Items with extra data, such as \n&6    batteries or inventories, will be\n&6    cloned empty.",
+    "context": "chapters/replication.snbt / quest 307FEC610F0B542F",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6F1A7E1B49FCC4C0.quest_desc": {
+    "original": "Replication begins by breaking down material into their base components. \n\nThere are eight of these Matter types in total and materials may consist of more than one. You'll be able to obtain them all by crafting Tokens.\n&n                                                                          &r\n\nPlace the &7Disintegrator&r then connect the provided &7Matter Pipes&r and &7Matter Tank&r to it. \n\n&7Matter Tanks&r only connect to &7Pipes&r from the top and bottom faces. &7Tanks&r can also be stacked on top of each other and will still connect through to the network. \n\nReplication also uses a fair amount of power, which can be provided directly to machines or transmitted through Matter Pipes to any machines on the network.\n\nOnce everything is connected, toss some items in the &7Disintegrator&r. The matter will automatically flow out from this machine and be stored in the &7Matter Tank&r. From here, it's available to other machines for use. ",
+    "context": "chapters/replication.snbt / quest 6F1A7E1B49FCC4C0",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "task.31508ACE862B4A9A.title": {
+    "original": "Tokens",
+    "context": "chapters/replication.snbt / task 31508ACE862B4A9A",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}

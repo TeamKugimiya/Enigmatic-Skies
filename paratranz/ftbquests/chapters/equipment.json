@@ -1,0 +1,170 @@
+{
+  "chapter.21245A37A9042E2C.title": {
+    "original": "Equipment",
+    "context": "chapters/equipment.snbt / chapter 21245A37A9042E2C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.0DA6F0172E06CCB1.quest_desc": {
+    "original": "Building on its tool upgrade system, Just Dire Things also introduces a number of abilities for its armor tiers. \n\nLike tools, these are applied to armor via a Smithing Table. Many of these are active abilities, however, rather than always being active.\nSome of these abilities, such as Run Speed, will grow in power depending on the armor tier. \n&n                                                  &r\n\nTo configure Armor abilities and bind them to keybinds for use, you’ll need to be holding a Just Dire Things tool while also wearing the armor. \n\nSneak Right-Click the tool to open its menu, then click the armor piece shown in the armor slots menu. \n\nThe following pages will cover what each ability does. \n\n&a🛈 Tip: To see which abilities a piece\n&a    has, hold Shift while hovering over\n&a    it in EMI. \n{@pagebreak}\n&7&nHelmet Abilities\n\n • &aNight Vision&r: Provides Night Vision \n   continually.\n • &aWater Breathing&r: Provides Water\n   Breathing continually.\n • &aDebuff Remover&r: Removes debuffs \n   on activation.\n{@pagebreak}\n&7&nChestplate Abilities\n\n • &aInvulnerability&r: Grants total \n   invulnerability for a short time \n   on activation.\n • &aExtinguish&r: Automatically \n   extinguishes you when you're \n   burning. \n • &aElytra&r: Grants Elytra flight.\n • &aDeath Protection&r: Prevents death \n   once per cooldown period.\n • &aFlight&r: Grants Creative Flight.\n • &aLava Immunity&r: Complete fire immunity.\n{@pagebreak}\n&7&nLegging Abilities\n\n • &aRun Speed&r: Adjustable run speed \n   bonus.\n • &aWalk Speed&r: Adjustable walk speed \n   bonus.\n • &aSwim Speed&r: Adjustable swim speed \n   bonus.\n • &aDecoy&r: Summons a decoy to distract\n   mobs.\n • &aPhase&r: Allows you to pass through \n   blocks. Does not impart the ability to \n   see in blocks. Falling will phase you \n   through the ground.\n{@pagebreak}\n&7&nBoot Abilities\n\n • &aStep Assist&r: Step over full blocks.\n • &aJump Boost&r: Adjustable jump height\n   bonus.\n • &aNegate Fall Damage&r: Soft landings.\n • &aGround Stomp&r: Knocks back nearby \n   mobs on activation.\n • &aEarthquake&r: Applies slowness to \n   nearby mobs on activation.",
+    "context": "chapters/equipment.snbt / quest 0DA6F0172E06CCB1",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.0DA6F0172E06CCB1.title": {
+    "original": "Just Dire Armor",
+    "context": "chapters/equipment.snbt / quest 0DA6F0172E06CCB1",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3753A3EB1909F923.quest_desc": {
+    "original": "Made from &7Salt&r, &7Briny Dorodangos&r may be processed down into new materials!\n\n                   &n&6Materials&r\n\n  • &7Lapis Lazuli&r\n  • &7Certus Quartz Crystals&r\n  • &7Neptunium Nuggets&r",
+    "context": "chapters/equipment.snbt / quest 3753A3EB1909F923",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3954AC8D791145CE.quest_desc": {
+    "original": "Wandering Trader keeps ding-dong-ditching your house? Let this say hello instead!",
+    "context": "chapters/equipment.snbt / quest 3954AC8D791145CE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3C4305830D6978C5.quest_desc": {
+    "original": "Looking for an upgrade to your mining?\n\nA Pneumatic Jackhammer is an all-in-one mining tool with the ability to mine out large areas with ease. \n\nIt can even hot-swap enchantments by inserting either a Fortune or Silk Touch book in the inventory.\n\n&a🛈 Tip: An Air Canister Array acts as \n&a    a portable air battery, keeping \n&a    your tools running longer!",
+    "context": "chapters/equipment.snbt / quest 3C4305830D6978C5",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3C50D5FE5FA787A9.quest_desc": {
+    "original": "For when you just need a big fracking gun to tell the monster hordes who’s boss. ",
+    "context": "chapters/equipment.snbt / quest 3C50D5FE5FA787A9",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3ED6754FC6B0A36D.quest_desc": {
+    "original": "The tools added by Just Dire Things have a variety of interesting properties which can be attached to them; simply craft the tool and the upgrade together in a &7Smithing Table&r.\n\nOnce installed, each can be enabled, disabled, or otherwise configured by Sneak Right-Clicking while holding the tool. \n\nMost of these work automatically when enabled. However others, like Lawnmower, are activated on Right-Click.\n\nThe following pages will cover what each ability does. \n\n&a🛈 Tip: To see which abilities a tool has,\n&a    hold Shift while hovering over it\n&a    in EMI. \n{@pagebreak}\n&7&nWeapon Abilities\n\nAvailable on Swords and Paxels.\n\n • &aAuto Smoker&r: Cooks drops.\n • &aCauterize Wounds&r: Self-Heal at the \n   cost of durability/energy.\n • &aMob X-Ray&r: Highlights nearby mobs.\n\n&7&nMiscellaneous Abilities\n\nAvailable on several tool types.\n\n • &aDrops Teleporter&r: Teleports drops \n   to a bound inventory.\n • &aLava Repair&r: Repairs when dropped \n   in Lava, converting the Lava to \n   Obsidian.\n • &aHammer&r: AoE mining starting at 3x3. \n   Increase with tier.\n • &aAuto Smelter&r: Smelts mined blocks.\n • &aInstant Break&r: Yep.\n{@pagebreak}\n&7&nPickaxe Abilities\n\nAvailable on both Pickaxes and Paxels.\n\n • &aOre Miner&r: Mines all connected ore.\n\n&7&nShovel Abilities\n\nAvailable on both Shovels and Paxels.\n\n • &aLawnmower&r: Instantly breaks nearby\n   grass and flowers.\n\n&7&nAxe Abilities\n\nAvailable on both Axes and Paxels.\n\n • &aTree Feller&r: Breaks logs in an area.\n • &aLeaf Breaker&r: Instantly breaks \n   leaves in an area.\n{@pagebreak}\n&7&nHoe Abilities\n\nHoes behave a little differently from other tools in that their special ability is to create new farmland types.\n\nThese farmlands all have the following abilities: \n\n • Immune to trampling.\n • Boost crop growth.\n • Auto-harvest and replant. \n\nFor Hoes with the Drops Teleporter ability, auto-harvest drops will go to whatever inventory the Hoe was bound to at the time of tilling. ",
+    "context": "chapters/equipment.snbt / quest 3ED6754FC6B0A36D",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3ED6754FC6B0A36D.title": {
+    "original": "Just Dire Tools",
+    "context": "chapters/equipment.snbt / quest 3ED6754FC6B0A36D",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.3FF8D40CD4CB33BB.quest_desc": {
+    "original": "Looking for a simple unbreakable tool? These will have you covered. \n\nThey need power but can accept enchantments, making them a great alternative to normal tools. ",
+    "context": "chapters/equipment.snbt / quest 3FF8D40CD4CB33BB",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.3FF8D40CD4CB33BB.title": {
+    "original": "Power Tools",
+    "context": "chapters/equipment.snbt / quest 3FF8D40CD4CB33BB",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.47FF0CFF9CC92DBE.quest_desc": {
+    "original": "A powered &7Refinery&r that handles the more complicated aspects of the process for you by regulating heat and pressure automatically!\n\nFor recipes with multiple fluid outputs, be sure to stack &7Refinery Chamber Modules&r atop the Refinery to get the extra outputs.",
+    "context": "chapters/equipment.snbt / quest 47FF0CFF9CC92DBE",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.5D97DDB66F470605.quest_desc": {
+    "original": "Neptunium tools and armor are Unbreakable, making the tools quite useful in farms. ",
+    "context": "chapters/equipment.snbt / quest 5D97DDB66F470605",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.66C2FBA12D91F642.quest_desc": {
+    "original": "The Exo Suit is an unbreakable suit of powered armor which provides moderate protection, night vision, and speed increases. \n\nUpgraded versions of the Chestplate are also available to add Elytra or Jetpack flight!",
+    "context": "chapters/equipment.snbt / quest 66C2FBA12D91F642",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6E4554D07901967C.quest_desc": {
+    "original": "Quite possibly the last suit of armor you’ll ever need. \n\nSelf-repairing, flight-enabling, high-jumping, and so much more. \n\nThe endermen will ignore you, the pigmen will adore you, and the pillagers will abhor you. \n\n&a🛈 Tip: Load the armor into a Charging \n&a    Station to see all of the upgrades \n&a    each item can accept.",
+    "context": "chapters/equipment.snbt / quest 6E4554D07901967C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.6E4554D07901967C.title": {
+    "original": "Pneumatic Armor",
+    "context": "chapters/equipment.snbt / quest 6E4554D07901967C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "quest.7EE93B81F83AD199.quest_desc": {
+    "original": "Enchanting &7Clay&r appears to impart it with its own form of transmutation magic, though it seems to need to eat to work?\n\nNo matter, this should prove quite useful.\n&n                                                  &r\n\nTo work with Goo, place it and then place the required block next to it so the two are touching. \n\nIn this case, we’ll need some &7Slime Blocks&r, which you can make from dough. We'll also need to feed the thing something suitably magical. \n\nA &7Source Berry Roll&r ought to suffice for now.",
+    "context": "chapters/equipment.snbt / quest 7EE93B81F83AD199",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "task.0219421FBD8DB647.title": {
+    "original": "Just Dire Upgrades",
+    "context": "chapters/equipment.snbt / task 0219421FBD8DB647",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.34E6ED3A221ADB0E.title": {
+    "original": "Just Dire Tools",
+    "context": "chapters/equipment.snbt / task 34E6ED3A221ADB0E",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.54F9AD36E2BEBF47.title": {
+    "original": "Neptunium Tools and Armor",
+    "context": "chapters/equipment.snbt / task 54F9AD36E2BEBF47",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
+  "task.57BE29AB834A63FE.title": {
+    "original": "Just Dire Armor",
+    "context": "chapters/equipment.snbt / task 57BE29AB834A63FE",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  }
+}
