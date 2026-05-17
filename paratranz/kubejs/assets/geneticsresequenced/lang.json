@@ -1,0 +1,58 @@
+{
+  "gene.geneticsresequenced.frost_proof": {
+    "original": "Frost Proof",
+    "context": "source/kubejs/assets/geneticsresequenced/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "gene.geneticsresequenced.stone_skin": {
+    "original": "Stone Skin",
+    "context": "source/kubejs/assets/geneticsresequenced/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "gene.geneticsresequenced.wilden": {
+    "original": "Wilden",
+    "context": "source/kubejs/assets/geneticsresequenced/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "gene.geneticsresequenced.wilden_4": {
+    "original": "Wilden IV",
+    "context": "source/kubejs/assets/geneticsresequenced/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.gene.geneticsresequenced.frost_proof": {
+    "original": "Makes you immune to cold damage.",
+    "context": "source/kubejs/assets/geneticsresequenced/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.gene.geneticsresequenced.stone_skin": {
+    "original": "Your skin hardens, granting you extra armor.",
+    "context": "source/kubejs/assets/geneticsresequenced/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.gene.geneticsresequenced.wilden": {
+    "original": "Grants the magical potency of Wilden beasts.",
+    "context": "source/kubejs/assets/geneticsresequenced/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.gene.geneticsresequenced.wilden_4": {
+    "original": "Grants the magical potency of the Wilden Chimera.",
+    "context": "source/kubejs/assets/geneticsresequenced/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "gateways.catching_fire": {
+    "original": "Catching Fire",
+    "context": "source/kubejs/assets/gateways/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rewards.gateways.loot_table.bastion_treasure": {
+    "original": "Last Bastion",
+    "context": "source/kubejs/assets/gateways/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

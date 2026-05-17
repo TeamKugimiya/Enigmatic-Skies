@@ -1,0 +1,478 @@
+{
+  "advancements.modern_industrialization.diesel_jetpack.description": {
+    "original": "Craft a Turbo Jetpack",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "advancements.modern_industrialization.plasma_turbine.description": {
+    "original": "Craft a Plasma Turbine to transform Luminiferous Aether into energy",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_alluvial_trommel": {
+    "original": "Andesite Alloy Alluvial Trommel",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_assembler": {
+    "original": "Andesite Alloy Assembler",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_barrel": {
+    "original": "Andesite Alloy Barrel",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_boiler": {
+    "original": "Decrepit Boiler",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_centrifuge": {
+    "original": "Andesite Alloy Centrifuge",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_compressor": {
+    "original": "Andesite Alloy Compressor",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_cutting_machine": {
+    "original": "Andesite Alloy Cutting Machine",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_fluid_input_hatch": {
+    "original": "Andesite Alloy Fluid Input Hatch",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_fluid_output_hatch": {
+    "original": "Andesite Alloy Fluid Output Hatch",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_furnace": {
+    "original": "Andesite Alloy Furnace",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_item_input_hatch": {
+    "original": "Andesite Alloy Item Input Hatch",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_item_output_hatch": {
+    "original": "Andesite Alloy Item Output Hatch",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_macerator": {
+    "original": "Andesite Alloy Macerator",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_machine_casing": {
+    "original": "Andesite Alloy Machine Casing",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_machine_casing_pipe": {
+    "original": "Andesite Alloy Pipe Machine Casing",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_mixer": {
+    "original": "Andesite Alloy Mixer",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_plated_bricks": {
+    "original": "Andesite Alloy Plated Bricks",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.bronze_tank": {
+    "original": "Andesite Alloy Tank",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.conductive_coil": {
+    "original": "Conductive Coil",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.copper_coil": {
+    "original": "Copper Coil",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.electric_alembic": {
+    "original": "Electric Alembic",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.electric_alluvial_trommel": {
+    "original": "Electric Alluvial Trommel",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.electric_kiln": {
+    "original": "Electric Kiln",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.energetic_coil": {
+    "original": "Energetic Coil",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.fire_clay_brick_fluid_input_hatch": {
+    "original": "Fire Clay Brick Fluid Input Hatch",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.fire_clay_brick_fluid_output_hatch": {
+    "original": "Fire Clay Brick Fluid Output Hatch",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.fire_clay_brick_item_input_hatch": {
+    "original": "Fire Clay Brick Item Input Hatch",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.fire_clay_brick_item_output_hatch": {
+    "original": "Fire Clay Brick Item Output Hatch",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.helium_plasma": {
+    "original": "Luminiferous Aether",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.industrial_cauldron": {
+    "original": "Industrial Cauldron",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.sky_machine_casing": {
+    "original": "Sky Machine Casing",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.sky_machine_casing_pipe": {
+    "original": "Sky Pipe Machine Casing",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.steam_alembic": {
+    "original": "Steam Alembic",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.steam_kiln": {
+    "original": "Steam Kiln",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.steel_alluvial_trommel": {
+    "original": "Steel Alluvial Trommel",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.steel_assembler": {
+    "original": "Steel Assembler",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.steel_centrifuge": {
+    "original": "Steel Centrifuge",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.modern_industrialization.vibrant_coil": {
+    "original": "Vibrant Coil",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.andesite_alloy_large_plate": {
+    "original": "Andesite Alloy Large Plate",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.andesite_alloy_plate": {
+    "original": "Andesite Alloy Plate",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.andesite_alloy_rod": {
+    "original": "Andesite Alloy Rod",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.conductive_cable": {
+    "original": "Conductive Cable (MV)",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.copper_cable": {
+    "original": "Copper Cable (LV)",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.diesel_jetpack": {
+    "original": "Turbo Jetpack",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.energetic_cable": {
+    "original": "Energetic Cable (HV)",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.helium_plasma_bucket": {
+    "original": "Luminiferous Aether Bucket",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.iridium_large_plate": {
+    "original": "Iridium Large Plate",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.iron_rod_magnetic": {
+    "original": "Magnetic Iron Rod",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.quantum_circuit": {
+    "original": "Quantum Processor",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.sky_blade": {
+    "original": "Sky Blade",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.sky_large_plate": {
+    "original": "Sky Large Plate",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.sky_plate": {
+    "original": "Sky Plate",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.sky_rotor": {
+    "original": "Sky Rotor",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.modern_industrialization.vibrant_cable": {
+    "original": "Vibrant Cable (EV)",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.modern_industrialization.bronze_alluvial_trommel": {
+    "original": "Alluvial Trommel",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.modern_industrialization.bronze_assembler": {
+    "original": "Andesite Alloy Assembler",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.modern_industrialization.bronze_centrifuge": {
+    "original": "Andesite Alloy Centrifuge",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.modern_industrialization.electric_alembic": {
+    "original": "Electric Alembic",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.modern_industrialization.electric_alluvial_trommel": {
+    "original": "Electric Alluvial Trommel",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.modern_industrialization.electric_kiln": {
+    "original": "Electric Kiln",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.modern_industrialization.industrial_cauldron": {
+    "original": "Industrial Cauldron",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.modern_industrialization.steam_alembic": {
+    "original": "Steam Alembic",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.modern_industrialization.steam_kiln": {
+    "original": "Steam Kiln",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.modern_industrialization.steel_alluvial_trommel": {
+    "original": "Steel Alluvial Trommel",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.modern_industrialization.steel_assembler": {
+    "original": "Steel Assembler",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.modern_industrialization.steel_centrifuge": {
+    "original": "Steel Centrifuge",
+    "context": "source/kubejs/assets/modern_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "item.theurgy.copper_wire": {
+    "original": "Mercurial Wire",
+    "context": "source/kubejs/assets/theurgy/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.theurgy.copper_wire.tooltip": {
+    "original": "A piece of wire capable of transferring matter in its mercurial form.",
+    "context": "source/kubejs/assets/theurgy/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

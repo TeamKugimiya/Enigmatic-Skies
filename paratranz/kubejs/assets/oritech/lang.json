@@ -1,0 +1,9 @@
+{
+  "item.oritech.motor": {
+    "original": "Rune of Swiftness",
+    "context": "source/kubejs/assets/oritech/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

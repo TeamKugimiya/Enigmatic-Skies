@@ -1,0 +1,2319 @@
+{
+  "item.occultism.fragile_soul_gem.tooltip_empty": {
+    "original": "Use on a creature to capture it. §cSingle Use!",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.fragile_soul_gem.tooltip_filled": {
+    "original": "Contains a bound %s soul. §cWill shatter on release!",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_aechor_plant": {
+    "original": "§6Ritual: Animate Aechor Plant",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_aechor_plant.tooltip": {
+    "original": "§5Infuse Lotus Pistils with magic to bring them to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_badlands_creeper": {
+    "original": "§6Ritual: Animate Badlands Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_badlands_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_bamboo_creeper": {
+    "original": "§6Ritual: Animate Bamboo Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_bamboo_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_beach_creeper": {
+    "original": "§6Ritual: Animate Beach Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_beach_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_birch_creeper": {
+    "original": "§6Ritual: Animate Birch Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_birch_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_blazing_weald_walker": {
+    "original": "§6Ritual: Animate Blazing Weald Walker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_blazing_weald_walker.tooltip": {
+    "original": "§5Infuse an Archwood Sapling with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_blue_swet": {
+    "original": "§6Ritual: Animate Blue Swet",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_blue_swet.tooltip": {
+    "original": "§5Infuse a jelly with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_bogged": {
+    "original": "§6Ritual: Animate Bogged",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_bogged.tooltip": {
+    "original": "§5Infuse an Skeletal Contractor with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_cascading_weald_walker": {
+    "original": "§6Ritual: Animate Cascading Weald Walker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_cascading_weald_walker.tooltip": {
+    "original": "§5Infuse an Archwood Sapling with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_cave_creeper": {
+    "original": "§6Ritual: Animate Cave Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_cave_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_creeper": {
+    "original": "§6Ritual: Animate Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_desert_creeper": {
+    "original": "§6Ritual: Animate Desert Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_desert_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_dripstone_creeper": {
+    "original": "§6Ritual: Animate Dripstone Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_dripstone_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_flashing_weald_walker": {
+    "original": "§6Ritual: Animate Flashing Weald Walker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_flashing_weald_walker.tooltip": {
+    "original": "§5Infuse an Archwood Sapling with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_flourishing_weald_walker": {
+    "original": "§6Ritual: Animate Flourishing Weald Walker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_flourishing_weald_walker.tooltip": {
+    "original": "§5Infuse an Archwood Sapling with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_golden_swet": {
+    "original": "§6Ritual: Animate Golden Swet",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_golden_swet.tooltip": {
+    "original": "§5Infuse a jelly with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_guardian": {
+    "original": "§6Ritual: Animate Guardian",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_guardian.tooltip": {
+    "original": "§5Infuse prismarine with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_hills_creeper": {
+    "original": "§6Ritual: Animate Hills Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_hills_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_honey_slime": {
+    "original": "§6Ritual: Animate Honey Slime",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_honey_slime.tooltip": {
+    "original": "§5Infuse honey with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_jungle_creeper": {
+    "original": "§6Ritual: Animate Jungle Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_jungle_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_magma_cube": {
+    "original": "§6Ritual: Animate Magma Cube",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_magma_cube.tooltip": {
+    "original": "§5Infuse a jelly with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_mimic": {
+    "original": "§6Ritual: Animate Mimic",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_mimic.tooltip": {
+    "original": "§5Infuse purpur with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_mushroom_creeper": {
+    "original": "§6Ritual: Animate Mushroom Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_mushroom_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_ocean_creeper": {
+    "original": "§6Ritual: Animate Ocean Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_ocean_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_phantom": {
+    "original": "§6Ritual: Animate Phantom",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_phantom.tooltip": {
+    "original": "§5Infuse an Skeletal Contractor with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_rootmin": {
+    "original": "§6Ritual: Animate Rootmin",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_rootmin.tooltip": {
+    "original": "§5Infuse mud with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_savannah_creeper": {
+    "original": "§6Ritual: Animate Savannah Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_savannah_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_sentry": {
+    "original": "§6Ritual: Animate Sentry",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_sentry.tooltip": {
+    "original": "§5Infuse bricks with magic to bring them to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_shulker": {
+    "original": "§6Ritual: Animate Shulker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_shulker.tooltip": {
+    "original": "§5Infuse purpur with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_skeleton": {
+    "original": "§6Ritual: Animate Skeleton",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_skeleton.tooltip": {
+    "original": "§5Infuse an Skeletal Contractor with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_slime": {
+    "original": "§6Ritual: Animate Slime",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_slime.tooltip": {
+    "original": "§5Infuse a jelly with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_snowy_creeper": {
+    "original": "§6Ritual: Animate Snowy Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_snowy_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_spruce_creeper": {
+    "original": "§6Ritual: Animate Spruce Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_spruce_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_stray": {
+    "original": "§6Ritual: Animate Stray",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_stray.tooltip": {
+    "original": "§5Infuse an Skeletal Contractor with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_swamp_creeper": {
+    "original": "§6Ritual: Animate Swamp Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_swamp_creeper.tooltip": {
+    "original": "§5Infuse a Creeper Head with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_vexing_weald_walker": {
+    "original": "§6Ritual: Animate Vexing Weald Walker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_vexing_weald_walker.tooltip": {
+    "original": "§5Infuse an Archwood Sapling with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_zephyr": {
+    "original": "§6Ritual: Animate Zephyr",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.animate_zephyr.tooltip": {
+    "original": "§5Infuse a cloud with magic to bring it to life.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.catching_fire": {
+    "original": "§6Ritual: Catching Fire",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.catching_fire.tooltip": {
+    "original": "§5Tear a open a dimensional rift to steal fire from another plane.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_aechor_plant": {
+    "original": "Animate Aechor Plant",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_badlands_creeper": {
+    "original": "Animate Badlands Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_bamboo_creeper": {
+    "original": "Animate Bamboo Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_beach_creeper": {
+    "original": "Animate Beach Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_birch_creeper": {
+    "original": "Animate Birch Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_blazing_weald_walker": {
+    "original": "Animate Blazing Weald Walker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_blue_swet": {
+    "original": "Animate Blue Swet",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_bogged": {
+    "original": "Animate Bogged",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_cascading_weald_walker": {
+    "original": "Animate Cascading Weald Walker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_cave_creeper": {
+    "original": "Animate Cave Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_creeper": {
+    "original": "Animate Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_desert_creeper": {
+    "original": "Animate Desert Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_dripstone_creeper": {
+    "original": "Animate Dripstone Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_flashing_weald_walker": {
+    "original": "Animate Flashing Weald Walker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_flourishing_weald_walker": {
+    "original": "Animate Flourishing Weald Walker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_golden_swet": {
+    "original": "Animate Golden Swet",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_guardian": {
+    "original": "Animate Guardian",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_hills_creeper": {
+    "original": "Animate Hills Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_honey_slime": {
+    "original": "Animate Honey Slime",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_jungle_creeper": {
+    "original": "Animate Jungle Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_magma_cube": {
+    "original": "Animate Magma Cube",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_mimic": {
+    "original": "Animate Mimic",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_mushroom_creeper": {
+    "original": "Animate Mushroom Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_ocean_creeper": {
+    "original": "Animate Ocean Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_phantom": {
+    "original": "Animate Phantom",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_rootmin": {
+    "original": "Animate Rootmin",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_savannah_creeper": {
+    "original": "Animate Savannah Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_sentry": {
+    "original": "Animate Sentry",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_shulker": {
+    "original": "Animate Shulker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_skeleton": {
+    "original": "Animate Skeleton",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_slime": {
+    "original": "Animate Slime",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_snowy_creeper": {
+    "original": "Animate Snowy Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_spruce_creeper": {
+    "original": "Animate Spruce Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_stray": {
+    "original": "Animate Stray",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_swamp_creeper": {
+    "original": "Animate Swamp Creeper",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_vexing_weald_walker": {
+    "original": "Animate Vexing Weald Walker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/animate_zephyr": {
+    "original": "Animate Zephyr",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/catching_fire": {
+    "original": "Catching Fire",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/transmute_cockatrice": {
+    "original": "Transmute Cockatrice",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/transmute_drygmy": {
+    "original": "Transmute Drygmy",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/transmute_mooshroom": {
+    "original": "Transmute Mooshroom",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/transmute_ravager": {
+    "original": "Transmute Ravager",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/transmute_whirlisprig": {
+    "original": "Transmute Whirlisprig",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/transmute_wilden_boss": {
+    "original": "Transmute Wilden Chimera",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/transmute_wilden_guardian": {
+    "original": "Transmute Wilden Defender",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/transmute_wilden_hunter": {
+    "original": "Transmute Wilden Pack Hunter",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.sm/ritual/transmute_wilden_stalker": {
+    "original": "Transmute Wilden Stalker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_cockatrice": {
+    "original": "§6Ritual: Transmute Cockatrice",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_cockatrice.tooltip": {
+    "original": "§5Transmute a Cockatrice from raw materials.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_drygmy": {
+    "original": "§6Ritual: Transmute Drygmy",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_drygmy.tooltip": {
+    "original": "§5Transmute a Drygmy from raw materials.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_mooshroom": {
+    "original": "§6Ritual: Transmute Mooshroom",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_mooshroom.tooltip": {
+    "original": "§5Transmute a Mooshroom from raw materials.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_ravager": {
+    "original": "§6Ritual: Transmute Ravager",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_ravager.tooltip": {
+    "original": "§5Transmute a Ravager from raw materials.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_whirlisprig": {
+    "original": "§6Ritual: Transmute Whirlisprig",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_whirlisprig.tooltip": {
+    "original": "§5Transmute a Whirlisprig from raw materials.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_wilden_boss": {
+    "original": "§6Ritual: Transmute Wilden Chimera",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_wilden_boss.tooltip": {
+    "original": "§5Infuse a villager with monstrous attributes.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_wilden_guardian": {
+    "original": "§6Ritual: Transmute Wilden Defender",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_wilden_guardian.tooltip": {
+    "original": "§5Infuse a villager with monstrous attributes.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_wilden_hunter": {
+    "original": "§6Ritual: Transmute Wilden Pack Hunter",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_wilden_hunter.tooltip": {
+    "original": "§5Infuse a villager with monstrous attributes.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_wilden_stalker": {
+    "original": "§6Ritual: Transmute Wilden Stalker",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.occultism.ritual_dummy.transmute_wilden_stalker.tooltip": {
+    "original": "§5Infuse a villager with monstrous attributes.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_aechor_plant.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_aechor_plant.finished": {
+    "original": "Successfully animated a Aechor Plant.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_aechor_plant.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_aechor_plant.started": {
+    "original": "Started animating Aechor Plant.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_badlands_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_badlands_creeper.finished": {
+    "original": "Successfully animated a Badlands Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_badlands_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_badlands_creeper.started": {
+    "original": "Started animating Badlands Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_bamboo_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_bamboo_creeper.finished": {
+    "original": "Successfully animated a Bamboo Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_bamboo_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_bamboo_creeper.started": {
+    "original": "Started animating Bamboo Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_beach_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_beach_creeper.finished": {
+    "original": "Successfully animated a Beach Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_beach_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_beach_creeper.started": {
+    "original": "Started animating Beach Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_birch_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_birch_creeper.finished": {
+    "original": "Successfully animated a Birch Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_birch_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_birch_creeper.started": {
+    "original": "Started animating Birch Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_blazing_weald_walker.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_blazing_weald_walker.finished": {
+    "original": "Successfully animated a Blazing Weald Walker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_blazing_weald_walker.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_blazing_weald_walker.started": {
+    "original": "Started animating Blazing Weald Walker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_blue_swet.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_blue_swet.finished": {
+    "original": "Successfully animated a Blue Swet.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_blue_swet.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_blue_swet.started": {
+    "original": "Started animating Blue Swet.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_bogged.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_bogged.finished": {
+    "original": "Successfully animated a Bogged.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_bogged.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_bogged.started": {
+    "original": "Started animating Bogged.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_cascading_weald_walker.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_cascading_weald_walker.finished": {
+    "original": "Successfully animated a Cascading Weald Walker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_cascading_weald_walker.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_cascading_weald_walker.started": {
+    "original": "Started animating Cascading Weald Walker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_cave_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_cave_creeper.finished": {
+    "original": "Successfully animated a Cave Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_cave_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_cave_creeper.started": {
+    "original": "Started animating Cave Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_creeper.finished": {
+    "original": "Successfully animated a Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_creeper.started": {
+    "original": "Started animating Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_desert_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_desert_creeper.finished": {
+    "original": "Successfully animated a Desert Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_desert_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_desert_creeper.started": {
+    "original": "Started animating Desert Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_dripstone_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_dripstone_creeper.finished": {
+    "original": "Successfully animated a Dripstone Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_dripstone_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_dripstone_creeper.started": {
+    "original": "Started animating Dripstone Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_flashing_weald_walker.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_flashing_weald_walker.finished": {
+    "original": "Successfully animated a Flashing Weald Walker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_flashing_weald_walker.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_flashing_weald_walker.started": {
+    "original": "Started animating Flashing Weald Walker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_flourishing_weald_walker.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_flourishing_weald_walker.finished": {
+    "original": "Successfully animated a Flourishing Weald Walker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_flourishing_weald_walker.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_flourishing_weald_walker.started": {
+    "original": "Started animating Flourishing Weald Walker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_golden_swet.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_golden_swet.finished": {
+    "original": "Successfully animated a Golden Swet.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_golden_swet.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_golden_swet.started": {
+    "original": "Started animating Golden Swet.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_guardian.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_guardian.finished": {
+    "original": "Successfully animated a Guardian.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_guardian.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_guardian.started": {
+    "original": "Started animating Guardian.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_hills_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_hills_creeper.finished": {
+    "original": "Successfully animated a Hills Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_hills_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_hills_creeper.started": {
+    "original": "Started animating Hills Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_honey_slime.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_honey_slime.finished": {
+    "original": "Successfully animated a Honey Slime.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_honey_slime.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_honey_slime.started": {
+    "original": "Started animating Honey Slime.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_jungle_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_jungle_creeper.finished": {
+    "original": "Successfully animated a Jungle Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_jungle_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_jungle_creeper.started": {
+    "original": "Started animating Jungle Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_magma_cube.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_magma_cube.finished": {
+    "original": "Successfully animated a Magma Cube.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_magma_cube.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_magma_cube.started": {
+    "original": "Started animating Magma Cube.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_mimic.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_mimic.finished": {
+    "original": "Successfully animated a Mimic.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_mimic.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_mimic.started": {
+    "original": "Started animating Mimic.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_mushroom_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_mushroom_creeper.finished": {
+    "original": "Successfully animated a Mushroom Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_mushroom_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_mushroom_creeper.started": {
+    "original": "Started animating Mushroom Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_ocean_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_ocean_creeper.finished": {
+    "original": "Successfully animated a Ocean Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_ocean_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_ocean_creeper.started": {
+    "original": "Started animating Ocean Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_phantom.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_phantom.finished": {
+    "original": "Successfully animated a Phantom.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_phantom.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_phantom.started": {
+    "original": "Started animating Phantom.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_rootmin.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_rootmin.finished": {
+    "original": "Successfully animated a Rootmin.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_rootmin.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_rootmin.started": {
+    "original": "Started animating Rootmin.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_savannah_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_savannah_creeper.finished": {
+    "original": "Successfully animated a Savannah Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_savannah_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_savannah_creeper.started": {
+    "original": "Started animating Savannah Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_sentry.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_sentry.finished": {
+    "original": "Successfully animated a Sentry.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_sentry.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_sentry.started": {
+    "original": "Started animating Sentry.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_shulker.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_shulker.finished": {
+    "original": "Successfully animated a Shulker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_shulker.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_shulker.started": {
+    "original": "Started animating Shulker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_skeleton.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_skeleton.finished": {
+    "original": "Successfully animated a Skeleton.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_skeleton.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_skeleton.started": {
+    "original": "Started animating Skeleton.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_slime.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_slime.finished": {
+    "original": "Successfully animated a Slime.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_slime.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_slime.started": {
+    "original": "Started animating Slime.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_snowy_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_snowy_creeper.finished": {
+    "original": "Successfully animated a Snowy Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_snowy_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_snowy_creeper.started": {
+    "original": "Started animating Snowy Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_spruce_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_spruce_creeper.finished": {
+    "original": "Successfully animated a Spruce Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_spruce_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_spruce_creeper.started": {
+    "original": "Started animating Spruce Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_stray.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_stray.finished": {
+    "original": "Successfully animated a Stray.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_stray.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_stray.started": {
+    "original": "Started animating Stray.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_swamp_creeper.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_swamp_creeper.finished": {
+    "original": "Successfully animated a Swamp Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_swamp_creeper.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_swamp_creeper.started": {
+    "original": "Started animating Swamp Creeper.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_vexing_weald_walker.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_vexing_weald_walker.finished": {
+    "original": "Successfully animated a Vexing Weald Walker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_vexing_weald_walker.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_vexing_weald_walker.started": {
+    "original": "Started animating Vexing Weald Walker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_zephyr.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_zephyr.finished": {
+    "original": "Successfully animated a Zephyr.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_zephyr.interrupted": {
+    "original": "Animation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/animate_zephyr.started": {
+    "original": "Started animating Zephyr.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/catching_fire.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/catching_fire.finished": {
+    "original": "Successfully opened rift.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/catching_fire.interrupted": {
+    "original": "Rift opening interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/catching_fire.started": {
+    "original": "Started opening rift.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_cockatrice.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_cockatrice.finished": {
+    "original": "Successfully transmuted Cockatrice.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_cockatrice.interrupted": {
+    "original": "Transmutation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_cockatrice.started": {
+    "original": "Started transmuting Cockatrice.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_drygmy.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_drygmy.finished": {
+    "original": "Successfully transmuted a Drygmy.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_drygmy.interrupted": {
+    "original": "Transmutation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_drygmy.started": {
+    "original": "Started transmuting Drygmy.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_mooshroom.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_mooshroom.finished": {
+    "original": "Successfully transmuted Mooshroom.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_mooshroom.interrupted": {
+    "original": "Transmutation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_mooshroom.started": {
+    "original": "Started transmuting Mooshroom.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_ravager.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_ravager.finished": {
+    "original": "Successfully transmuted a Ravager.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_ravager.interrupted": {
+    "original": "Transmutation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_ravager.started": {
+    "original": "Started transmuting Ravager.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_whirlisprig.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_whirlisprig.finished": {
+    "original": "Successfully transmuted a Whirlisprig.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_whirlisprig.interrupted": {
+    "original": "Transmutation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_whirlisprig.started": {
+    "original": "Started transmuting Whirlisprig.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_boss.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_boss.finished": {
+    "original": "§6...Ed...Ward...Big...Brother?",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_boss.interrupted": {
+    "original": "Transmutation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_boss.started": {
+    "original": "Started transmuting Wilden Chimera.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_guardian.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_guardian.finished": {
+    "original": "Successfully transmuted Wilden Defender.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_guardian.interrupted": {
+    "original": "Transmutation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_guardian.started": {
+    "original": "Started transmuting Wilden Defender.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_hunter.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_hunter.finished": {
+    "original": "Successfully transmuted Wilden Pack Hunter.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_hunter.interrupted": {
+    "original": "Transmutation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_hunter.started": {
+    "original": "Started transmuting Wilden Pack Hunter.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_stalker.conditions": {
+    "original": "Not all requirements for this ritual are met.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_stalker.finished": {
+    "original": "Successfully transmuted Wilden Stalker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_stalker.interrupted": {
+    "original": "Transmutation ritual interrupted.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ritual.enigmatica.ritual/transmute_wilden_stalker.started": {
+    "original": "Started transmuting Wilden Stalker.",
+    "context": "source/kubejs/assets/occultism/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "block.mi_tweaks.large_settling_tank": {
+    "original": "Large Settling Tank",
+    "context": "source/kubejs/assets/mi_tweaks/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.mi_tweaks.settling_tank": {
+    "original": "Settling Tank",
+    "context": "source/kubejs/assets/mi_tweaks/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.mi_tweaks.snack_packer": {
+    "original": "Snack Packer",
+    "context": "source/kubejs/assets/mi_tweaks/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.mi_tweaks.large_settling_tank": {
+    "original": "Large Settling Tank",
+    "context": "source/kubejs/assets/mi_tweaks/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.mi_tweaks.settling_tank": {
+    "original": "Settling Tank",
+    "context": "source/kubejs/assets/mi_tweaks/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "rei_categories.mi_tweaks.snack_packer": {
+    "original": "Snack Packer",
+    "context": "source/kubejs/assets/mi_tweaks/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

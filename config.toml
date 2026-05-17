@@ -19,7 +19,8 @@ project_id = 19100
 [source]
 archive_roots = ["overrides", "."]
 include = [
-  "config/ftbquests/quests/**/*.snbt"
+  "config/ftbquests/quests/**/*.snbt",
+  "kubejs/assets/**/lang/en_us.json"
 ]
 
 [[convert.sources]]
@@ -31,5 +32,14 @@ source_root = "./source/config/ftbquests/quests/lang"
 quest_data_root = "./source/config/ftbquests/quests"
 translation_root = "./translation/config/ftbquests/quests/lang"
 paratranz_root = "ftbquests"
+source_locale = "{source_locale}"
+target_locale = "{target_locale}"
+
+[[convert.sources]]
+name = "kubejs-assets"
+type = "json-lang"
+source_root = "./source/kubejs/assets"
+translation_root = "./translation/kubejs/assets"
+paratranz_root = "kubejs/assets"
 source_locale = "{source_locale}"
 target_locale = "{target_locale}"

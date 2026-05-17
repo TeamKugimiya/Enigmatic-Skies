@@ -1,0 +1,72 @@
+{
+  "block.extended_industrialization.bronze_composter": {
+    "original": "Andesite Alloy Composter",
+    "context": "source/kubejs/assets/extended_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "lef_tier.extended_industrialization.modern_industrialization.conductive_coil": {
+    "original": "Conductive",
+    "context": "source/kubejs/assets/extended_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "lef_tier.extended_industrialization.modern_industrialization.copper_coil": {
+    "original": "Copper",
+    "context": "source/kubejs/assets/extended_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "lef_tier.extended_industrialization.modern_industrialization.energetic_coil": {
+    "original": "Energetic",
+    "context": "source/kubejs/assets/extended_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "lef_tier.extended_industrialization.modern_industrialization.vibrant_coil": {
+    "original": "Vibrant",
+    "context": "source/kubejs/assets/extended_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "teslatower_tier.extended_industrialization.modern_industrialization.conductive_coil": {
+    "original": "Conductive",
+    "context": "source/kubejs/assets/extended_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "teslatower_tier.extended_industrialization.modern_industrialization.copper_coil": {
+    "original": "Copper",
+    "context": "source/kubejs/assets/extended_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "teslatower_tier.extended_industrialization.modern_industrialization.energetic_coil": {
+    "original": "Energetic",
+    "context": "source/kubejs/assets/extended_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "teslatower_tier.extended_industrialization.modern_industrialization.superconductor_coil": {
+    "original": "Superconductor",
+    "context": "source/kubejs/assets/extended_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "teslatower_tier.extended_industrialization.modern_industrialization.vibrant_coil": {
+    "original": "Vibrant",
+    "context": "source/kubejs/assets/extended_industrialization/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

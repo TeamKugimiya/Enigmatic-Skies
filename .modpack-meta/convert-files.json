@@ -64,6 +64,26 @@
         "ftbquests/unassigned/reward.json",
         "ftbquests/unassigned/task.json"
       ]
+    },
+    "kubejs-assets": {
+      "converter_type": "json-lang",
+      "paratranz_files": [
+        "kubejs/assets/actuallyadditions/lang.json",
+        "kubejs/assets/aether/lang.json",
+        "kubejs/assets/apotheosis/lang.json",
+        "kubejs/assets/ars_caelum/lang.json",
+        "kubejs/assets/ars_nouveau/lang.json",
+        "kubejs/assets/enigmatica/lang.json",
+        "kubejs/assets/extended_industrialization/lang.json",
+        "kubejs/assets/farmersdelight/lang.json",
+        "kubejs/assets/gateways/lang.json",
+        "kubejs/assets/geneticsresequenced/lang.json",
+        "kubejs/assets/mi_tweaks/lang.json",
+        "kubejs/assets/modern_industrialization/lang.json",
+        "kubejs/assets/occultism/lang.json",
+        "kubejs/assets/oritech/lang.json",
+        "kubejs/assets/theurgy/lang.json"
+      ]
     }
   }
 }

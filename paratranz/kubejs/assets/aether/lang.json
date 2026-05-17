@@ -1,0 +1,9 @@
+{
+  "item.aether.blue_berry": {
+    "original": "Cloud Berry",
+    "context": "source/kubejs/assets/aether/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

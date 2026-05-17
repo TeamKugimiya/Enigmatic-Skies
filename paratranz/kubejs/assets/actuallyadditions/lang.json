@@ -1,0 +1,37 @@
+{
+  "actuallyadditions.configuration.minerLensEnergy": {
+    "original": "Lens of Hikaru Energy",
+    "context": "source/kubejs/assets/actuallyadditions/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "booklet.actuallyadditions.chapter.lensMining": {
+    "original": "Lens of Hikaru",
+    "context": "source/kubejs/assets/actuallyadditions/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "booklet.actuallyadditions.chapter.lensMining.text.1": {
+    "original": "The <item>Lens of Hikaru<r> can <imp>create ores<r> out of blocks in its sight. <n>When the laser hits a <item>block of stone<r>, it will convert it into <imp>different overworld ores<r>, whereas a <item>block of netherrack<r> will be converted into <imp>nether ores<r>. <n>Each operation uses <imp><energy> CF<r>, however each operation requires <imp>additional power<r> depending on the rarity of the ore that is generated.",
+    "context": "source/kubejs/assets/actuallyadditions/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.actuallyadditions.lens_of_the_miner": {
+    "original": "Lens of Hikaru",
+    "context": "source/kubejs/assets/actuallyadditions/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "jei.actuallyadditions.mining_lens": {
+    "original": "Lens of Hikaru",
+    "context": "source/kubejs/assets/actuallyadditions/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "tooltip.alakarkinos_shard1": "§5♫ Watch me dazzle like a diamond in the rough ♫",
+    "tooltip.starbuncle_shard": "§5♫ You know we're gonna be, gonna be golden ♫",
+    "tooltip.wixie_shard": "§5♫ Floating in the sky, high above the world I used to know ♫",
+    "tooltip.bookwyrm_charm": "§5♫ I'm hiding in the blue, Safe between the clouds ♫",
+    "tooltip.ars_nouveau.amethyst_charm": "§5♫ Let the jagged edges meet the light instead ♫",
+
+    "ars_nouveau.alakarkinos.set_home": "Home set. Place Source and blocks to convert within 3 blocks.",
+    "tooltip.source_gem": "A gem infused with magical energy.",
+    "tooltip.ars_nouveau.wilden_tribute": "Obtained by defeating the Wilden Chimera.",
+    "tooltip.wilden_horn": "Drops from Wilden Pack Hunters.",
+    "tooltip.wilden_spike": "Drops from Wilden Defenders.",
+    "tooltip.wilden_wing": "Drops from Wilden Stalkers.",
+    "item.ars_nouveau.wilden_hunter_se": "Wilden Pack Hunter Spawn Egg",
+    "item.ars_nouveau.wilden_guardian_se": "Wilden Defender Spawn Egg",
+    "item.ars_nouveau.wilden_stalker_se": "Wilden Stalker Spawn Egg"
+}

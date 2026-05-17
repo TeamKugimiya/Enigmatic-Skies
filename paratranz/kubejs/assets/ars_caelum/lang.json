@@ -1,0 +1,93 @@
+{
+  "ars_caelum.ritual_desc.ritual_conjure_island_blazing": {
+    "original": "Creates an island of Blazing Archwoods. Converts the biome to Archwood Forest. Requires a full jar of Source to begin. NOTE: This ritual should be performed at least 32 blocks from any other block.",
+    "context": "source/kubejs/assets/ars_caelum/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ars_caelum.ritual_desc.ritual_conjure_island_cascading": {
+    "original": "Creates an island of Cascading Archwoods. Converts the biome to Warm Ocean. Requires a full jar of Source to begin. NOTE: This ritual should be performed at least 32 blocks from any other block.",
+    "context": "source/kubejs/assets/ars_caelum/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ars_caelum.ritual_desc.ritual_conjure_island_flourishing": {
+    "original": "Creates an island of Flourishing Archwoods. Converts the biome to Mangrove Swamp. Requires a full jar of Source to begin. NOTE: This ritual should be performed at least 32 blocks from any other block.",
+    "context": "source/kubejs/assets/ars_caelum/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ars_caelum.ritual_desc.ritual_conjure_island_geode": {
+    "original": "Creates an island in the shape of a Beehive. Requires a full jar of Source to begin. NOTE: This ritual should be performed at least 32 blocks from any other block.",
+    "context": "source/kubejs/assets/ars_caelum/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ars_caelum.ritual_desc.ritual_conjure_island_sculk": {
+    "original": "Creates an island of Flashing Archwoods. Converts the biome to Deep Dark. Requires a full jar of Source to begin. NOTE: This ritual should be performed at least 32 blocks from any other block.",
+    "context": "source/kubejs/assets/ars_caelum/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ars_caelum.ritual_desc.ritual_conjure_island_starter": {
+    "original": "Creates a Lush Garden Island capable of summoning animals. NOTE: This ritual should be performed at least 32 blocks from any other block.",
+    "context": "source/kubejs/assets/ars_caelum/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ars_caelum.ritual_desc.ritual_conjure_island_vexing": {
+    "original": "Creates an island of Vexing Archwoods and a Weeping Well. Converts the biome to Mushroom Island. Requires a full jar of Source to begin. NOTE: This ritual should be performed at least 32 blocks from any other block.",
+    "context": "source/kubejs/assets/ars_caelum/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "ars_caelum.ritual_desc.ritual_conjure_island_village": {
+    "original": "Conjures a small island suitable for building on.",
+    "context": "source/kubejs/assets/ars_caelum/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.ars_caelum.ritual_conjure_island_geode": {
+    "original": "Conjure Island: Beehive",
+    "context": "source/kubejs/assets/ars_caelum/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.ars_caelum.ritual_conjure_island_sculk": {
+    "original": "Conjure Island: Flashing",
+    "context": "source/kubejs/assets/ars_caelum/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.ars_caelum.ritual_conjure_island_starter": {
+    "original": "Conjure Island: Lush Garden",
+    "context": "source/kubejs/assets/ars_caelum/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.ars_caelum.ritual_conjure_island_vexing": {
+    "original": "Conjure Island: Vexing",
+    "context": "source/kubejs/assets/ars_caelum/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.ars_caelum.ritual_conjure_island_village": {
+    "original": "Conjure Island: Platform",
+    "context": "source/kubejs/assets/ars_caelum/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

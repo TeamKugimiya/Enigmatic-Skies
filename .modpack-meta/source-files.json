@@ -261,6 +261,96 @@
       "sha256": "ffa9dcf3f2d86018ec9ecd49bf870cea7394193b41b6fb31042e298cddd93bb5",
       "size": 866,
       "source_archive_path": "overrides/config/ftbquests/quests/reward_tables/79D53E33D5224416.snbt"
+    },
+    "kubejs/assets/actuallyadditions/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "6575c61b2fa230ac5eb748e41c5d95dc1426c40fbb995c65a8799c4cd3d75330",
+      "size": 773,
+      "source_archive_path": "overrides/kubejs/assets/actuallyadditions/lang/en_us.json"
+    },
+    "kubejs/assets/aether/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "c77a4b0e16798743388150a7919eca5752e5552230274c661528cccf7bca9137",
+      "size": 45,
+      "source_archive_path": "overrides/kubejs/assets/aether/lang/en_us.json"
+    },
+    "kubejs/assets/apotheosis/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "be3084d1a7104d48415594e2dddcdbe0734fe65d7262b18f0777edfd7b973b06",
+      "size": 906,
+      "source_archive_path": "overrides/kubejs/assets/apotheosis/lang/en_us.json"
+    },
+    "kubejs/assets/ars_caelum/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "622aaa40468e700e9c058baf013c0dd292efa1608a2da39767cfacc5485192f7",
+      "size": 2288,
+      "source_archive_path": "overrides/kubejs/assets/ars_caelum/lang/en_us.json"
+    },
+    "kubejs/assets/ars_nouveau/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "7a13c8241e7d4aaaa37cbb177c920c5e802bb9ce2b856e135535ec08cd532395",
+      "size": 1141,
+      "source_archive_path": "overrides/kubejs/assets/ars_nouveau/lang/en_us.json"
+    },
+    "kubejs/assets/enigmatica/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "fdaa6b6862f0fb9a9a824f62c61d039537023fc5c34fa2b85f975e4d16b64244",
+      "size": 26969,
+      "source_archive_path": "overrides/kubejs/assets/enigmatica/lang/en_us.json"
+    },
+    "kubejs/assets/extended_industrialization/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "7ec1c4daaedf1bbb1b0c3702527d5a2930ec9e59e80f5f0451f954e6540aa712",
+      "size": 997,
+      "source_archive_path": "overrides/kubejs/assets/extended_industrialization/lang/en_us.json"
+    },
+    "kubejs/assets/farmersdelight/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "7d9a8117938c9247b81cb0789852298d9b75407e30c1dd12bfcae7775b36ee88",
+      "size": 113,
+      "source_archive_path": "overrides/kubejs/assets/farmersdelight/lang/en_us.json"
+    },
+    "kubejs/assets/gateways/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "91b028551dfd2b363e7024eadc1ce9a2d03dd59347481fabe20689d5fb90ccba",
+      "size": 124,
+      "source_archive_path": "overrides/kubejs/assets/gateways/lang/en_us.json"
+    },
+    "kubejs/assets/geneticsresequenced/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "e6f96df88aa261bbcec8d1e2076c36b7d7f35fae315d9906e7bae6e05ac5cc81",
+      "size": 610,
+      "source_archive_path": "overrides/kubejs/assets/geneticsresequenced/lang/en_us.json"
+    },
+    "kubejs/assets/mi_tweaks/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "27580f8869c1d0660efc0eeca3f8bcd04e0d62bd80ceff06ddd72ac5f26c00c2",
+      "size": 386,
+      "source_archive_path": "overrides/kubejs/assets/mi_tweaks/lang/en_us.json"
+    },
+    "kubejs/assets/modern_industrialization/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "193ddade7f03f7814908091e1ea59938cf9fc05282099bc720f8d6aecd60f412",
+      "size": 5819,
+      "source_archive_path": "overrides/kubejs/assets/modern_industrialization/lang/en_us.json"
+    },
+    "kubejs/assets/occultism/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "c9066b1863bc891bae5b7c7b89f38b809ed5f2343272ac025b6ca93d1101e066",
+      "size": 34199,
+      "source_archive_path": "overrides/kubejs/assets/occultism/lang/en_us.json"
+    },
+    "kubejs/assets/oritech/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "4dff81412ec88d1f24269041e2c5712a93e6f9f2393ea305bebd793ea859df6e",
+      "size": 53,
+      "source_archive_path": "overrides/kubejs/assets/oritech/lang/en_us.json"
+    },
+    "kubejs/assets/theurgy/lang/en_us.json": {
+      "kind": "translatable",
+      "sha256": "85ccc4919652919be1b9b9afb620326e828b3129add43c43a13ec3128cec6c22",
+      "size": 170,
+      "source_archive_path": "overrides/kubejs/assets/theurgy/lang/en_us.json"
     }
   }
 }

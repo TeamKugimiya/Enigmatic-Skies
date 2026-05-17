@@ -1,0 +1,58 @@
+{
+  "advancements.apotheosis.progression.ascent.criteria.kill_wilden_guardian": {
+    "original": "Slay a Wilden Defender",
+    "context": "source/kubejs/assets/apotheosis/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "advancements.apotheosis.progression.ascent.criteria.kill_wilden_hunter": {
+    "original": "Slay a Wilden Pack Hunter",
+    "context": "source/kubejs/assets/apotheosis/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "advancements.apotheosis.progression.ascent.criteria.kill_wilden_stalker": {
+    "original": "Slay a Wilden Stalker",
+    "context": "source/kubejs/assets/apotheosis/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "advancements.apotheosis.progression.ascent.desc": {
+    "original": "Equip a full set of Uncommon gear to begin your Ascent",
+    "context": "source/kubejs/assets/apotheosis/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "advancements.apotheosis.progression.pinnacle.criteria.kill_chimera": {
+    "original": "Slay the Wilden Chimera",
+    "context": "source/kubejs/assets/apotheosis/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "advancements.apotheosis.progression.pinnacle.desc": {
+    "original": "Entering the Pinnacle requires acquiring a full set of Epic gear",
+    "context": "source/kubejs/assets/apotheosis/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "advancements.apotheosis.progression.summit.criteria.kill_chimera": {
+    "original": "Slay the Wilden Chimera",
+    "context": "source/kubejs/assets/apotheosis/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "advancements.apotheosis.progression.summit.desc": {
+    "original": "To reach the Summit, slay the Wilden Chimera, and equip a full set of Rare gear",
+    "context": "source/kubejs/assets/apotheosis/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

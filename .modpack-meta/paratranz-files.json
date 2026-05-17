@@ -123,6 +123,81 @@
       "file_id": 3042763,
       "last_pushed_hash": "ba0c16ab98307b66ceab31ad637f0b8d4bc19c2f55f99b3f6ec79dd954bffced",
       "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "kubejs/assets/actuallyadditions/lang.json": {
+      "file_id": 3043467,
+      "last_pushed_hash": "adc6511542e6bd8a64432d2e6bc509bf4c007bffd45c1fb47a37dd678b5e537d",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/aether/lang.json": {
+      "file_id": 3043468,
+      "last_pushed_hash": "70ffb2322d771ff05bf70e0cfec98442ee11bd02fa3d2c19821f2cd50eae5219",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/apotheosis/lang.json": {
+      "file_id": 3043469,
+      "last_pushed_hash": "1b5cedc84c083430abb7539ff256855b1eb3312e1e0cede3c77a3185e6fd0905",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/ars_caelum/lang.json": {
+      "file_id": 3043470,
+      "last_pushed_hash": "4a354ae6e3edb8fbca25cbf412ca3d45f1860e94e1c68ea5d4a1256af202511b",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/ars_nouveau/lang.json": {
+      "file_id": 3043471,
+      "last_pushed_hash": "c0f36409af4d470dc7b5473c5f8b1c2f03ad72db17fb25034d43ad8a211a10a4",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/enigmatica/lang.json": {
+      "file_id": 3043472,
+      "last_pushed_hash": "cbb502a198fe24dae8624cf8da37f3c284ab876fcbe13b304f71308e2e8bad0b",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/extended_industrialization/lang.json": {
+      "file_id": 3043473,
+      "last_pushed_hash": "dace0f22922fc61cb4b989bb9ea23bea4140255245314e19428b4b0c75939c52",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/farmersdelight/lang.json": {
+      "file_id": 3043474,
+      "last_pushed_hash": "f420acaafdfe624c44201e0e2d247699bb298a716047322d0daadf6f60fd2b41",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/gateways/lang.json": {
+      "file_id": 3043475,
+      "last_pushed_hash": "d750fb502edb0b7a73e7d3f58f956dcb0debc539921c0d3a070b0e9be90f3ff6",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/geneticsresequenced/lang.json": {
+      "file_id": 3043476,
+      "last_pushed_hash": "4d6822aa776da333e59ee0fd7ebcfa14527bdfc2f16888dce9696dfc3ac56253",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/mi_tweaks/lang.json": {
+      "file_id": 3043477,
+      "last_pushed_hash": "579362a750cbed70b1a1ea42bd650202d4f200deca903defd615afdaf8a2fc66",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/modern_industrialization/lang.json": {
+      "file_id": 3043478,
+      "last_pushed_hash": "24754681511414c2474f5d6a4c79a2e83a239cdb12bdd9c1f18585ebd98b547f",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/occultism/lang.json": {
+      "file_id": 3043479,
+      "last_pushed_hash": "8e8f55753b81b9218afdc43d8da3374bb70619fa995e44038ead0988b5828700",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/oritech/lang.json": {
+      "file_id": 3043480,
+      "last_pushed_hash": "599c488b0165a0459c7d7ceb96db39940383a8fe061be5acd04f2ad0d3eabf4a",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
+    },
+    "kubejs/assets/theurgy/lang.json": {
+      "file_id": 3043481,
+      "last_pushed_hash": "c4d10729311d9b46a80473152f5bbe1b6e518eaadffca06c3ebbe418f56deacc",
+      "last_pushed_at": "2026-05-17T14:50:44Z"
     }
   }
 }

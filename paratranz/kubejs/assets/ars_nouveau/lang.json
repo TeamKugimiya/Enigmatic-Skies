@@ -1,0 +1,100 @@
+{
+  "ars_nouveau.alakarkinos.set_home": {
+    "original": "Home set. Place Source and blocks to convert within 3 blocks.",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.ars_nouveau.wilden_guardian_se": {
+    "original": "Wilden Defender Spawn Egg",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.ars_nouveau.wilden_hunter_se": {
+    "original": "Wilden Pack Hunter Spawn Egg",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.ars_nouveau.wilden_stalker_se": {
+    "original": "Wilden Stalker Spawn Egg",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.alakarkinos_shard1": {
+    "original": "§5♫ Watch me dazzle like a diamond in the rough ♫",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.ars_nouveau.amethyst_charm": {
+    "original": "§5♫ Let the jagged edges meet the light instead ♫",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.ars_nouveau.wilden_tribute": {
+    "original": "Obtained by defeating the Wilden Chimera.",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.bookwyrm_charm": {
+    "original": "§5♫ I'm hiding in the blue, Safe between the clouds ♫",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.source_gem": {
+    "original": "A gem infused with magical energy.",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.starbuncle_shard": {
+    "original": "§5♫ You know we're gonna be, gonna be golden ♫",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.wilden_horn": {
+    "original": "Drops from Wilden Pack Hunters.",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.wilden_spike": {
+    "original": "Drops from Wilden Defenders.",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.wilden_wing": {
+    "original": "Drops from Wilden Stalkers.",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.wixie_shard": {
+    "original": "§5♫ Floating in the sky, high above the world I used to know ♫",
+    "context": "source/kubejs/assets/ars_nouveau/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "item.actuallyadditions.lens_of_the_miner": "Lens of Hikaru",
+    "booklet.actuallyadditions.chapter.lensMining": "Lens of Hikaru",
+    "booklet.actuallyadditions.chapter.lensMining.text.1": "The <item>Lens of Hikaru<r> can <imp>create ores<r> out of blocks in its sight. <n>When the laser hits a <item>block of stone<r>, it will convert it into <imp>different overworld ores<r>, whereas a <item>block of netherrack<r> will be converted into <imp>nether ores<r>. <n>Each operation uses <imp><energy> CF<r>, however each operation requires <imp>additional power<r> depending on the rarity of the ore that is generated.",
+    "jei.actuallyadditions.mining_lens": "Lens of Hikaru",
+    "actuallyadditions.configuration.minerLensEnergy": "Lens of Hikaru Energy"
+}

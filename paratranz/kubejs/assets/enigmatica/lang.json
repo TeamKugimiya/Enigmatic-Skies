@@ -1,0 +1,2354 @@
+{
+  "base.enigmatica.sky_block": {
+    "original": "Into the Skies!",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.brilliant_cold_aercloud": {
+    "original": "Brilliant Cold Aercloud",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.brilliant_mud": {
+    "original": "Brilliant Mud",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.brilliant_salt": {
+    "original": "Brilliant Salt",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.brilliant_sand": {
+    "original": "Brilliant Sand",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.brilliant_sculk": {
+    "original": "Brilliant Sculk",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.brilliant_smooth_basalt": {
+    "original": "Brilliant Smooth Basalt",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.briny_seawater": {
+    "original": "Briny Seawater",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.espresso": {
+    "original": "Espresso",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.heavy_oil": {
+    "original": "Heavy Oil",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.light_oil": {
+    "original": "Light Oil",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.pitch": {
+    "original": "Pitch",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.starbies_nitro_cold_brew": {
+    "original": "§aStarbie's§r Nitro Cold Brew",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.vapours_of_nyx": {
+    "original": "Vapours of Nyx",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.vulcanized_rubber": {
+    "original": "Vulcanized Rubber",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "block.enigmatica.wastewater": {
+    "original": "Wastewater",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "entity.enigmatica.clockwork_evoker": {
+    "original": "Clockwork Evoker",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "entity.enigmatica.clockwork_pillager": {
+    "original": "Clockwork Pillager",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "entity.enigmatica.clockwork_vindicator": {
+    "original": "Clockwork Vindicator",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "entity.enigmatica.clockwork_witch": {
+    "original": "Clockwork Witch",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "fluid_type.enigmatica.briny_seawater": {
+    "original": "Briny Seawater",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "fluid_type.enigmatica.espresso": {
+    "original": "Espresso",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "fluid_type.enigmatica.heavy_oil": {
+    "original": "Heavy Oil",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "fluid_type.enigmatica.light_oil": {
+    "original": "Light Oil",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "fluid_type.enigmatica.pitch": {
+    "original": "Pitch",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "fluid_type.enigmatica.starbies_nitro_cold_brew": {
+    "original": "§aStarbie's§r Nitro Cold Brew",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "fluid_type.enigmatica.vapours_of_nyx": {
+    "original": "Vapours of Nyx",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "fluid_type.enigmatica.vulcanized_rubber": {
+    "original": "Vulcanized Rubber",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "fluid_type.enigmatica.wastewater": {
+    "original": "Wastewater",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.antikythera_mechanism": {
+    "original": "Right-Click an Illager Trophy to bring it to life!",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.aura_bottle": {
+    "original": "Use a Bottle and Cork in an area of high Aura in the Overworld.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.beheading_tools": {
+    "original": "Easily cleaves the heads from your foes!",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.biome_essentia": {
+    "original": "Use on a Block of the Skies to convert the biome in a large area.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.birth_spirit": {
+    "original": "Obtained by manually breeding animals in high Aura areas.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.bleachdew": {
+    "original": "Use Bone Meal on a Lotus Flower to obtain Bleachdew.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.borrowed_flame.create_gateway": {
+    "original": "Create a Catching Fire Gate Pearl in the Particle Accelerator to summon a Gateway. ",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.borrowed_flame.defeat_gateway": {
+    "original": "Defeat the Gateway to obtain \"Borrowed\" Flame.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.break_prevention": {
+    "original": "When applied to a tool in an anvil, the tool will stop working when durability runs out instead of being destroyed.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.coral": {
+    "original": "May be obtained by using Bone Meal on Gravel or Sand under water in an Ocean Biome.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.coral.cascading_islands": {
+    "original": "The Cascading Islands count as an Ocean Biome.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.ether_gas.auto_harvesting": {
+    "original": "Enables auto-harvesting in the Hydroponic Bed.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.ether_gas.gentle_harvesting": {
+    "original": "Enables gentle-harvesting in the Plant Gatherer.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.ether_gas.ore_multiplier": {
+    "original": "Enables 5x Ore Multiplier in the Fermentation Station.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.evoker_trophy": {
+    "original": "Right-Click an Evoker Trophy with an Antikythera Mechanism to bring it to life!",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.gold_leaf": {
+    "original": "Obtained by breaking Golden Leaves.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.golden_leaves": {
+    "original": "Obtained by using Brilliant Fiber on leaves. Allow to spread for best effect.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.illager_trophy": {
+    "original": "Right-Click with an Antikythera Mechanism to bring it to life!",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.industrial_insulation_block": {
+    "original": "Absorbs and voids any fluids placed nearby.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.justdirethings_clicker": {
+    "original": "Can be automated using a JustDireThings Clicker.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.lotus_pistils": {
+    "original": "Lotus Pistils may be planted on Lily Pads to convert them into a Lotus Flower.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.mob_heads": {
+    "original": "Heads may be obtained from mobs by killing them with particularly powerful axes and paxels.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.mob_heads.search": {
+    "original": "Search for §5#beheading§r in EMI for a list!",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.pillager_trophy": {
+    "original": "Right-Click a Pillager Trophy with an Antikythera Mechanism to bring it to life!",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.processors.blueprint": {
+    "original": "Purchase a Blueprint from a Fluix Researcher.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.processors.crafted": {
+    "original": "Crafted using a Replicator.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.arrow": {
+    "original": "● Arrow:                30K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.automation": {
+    "original": "May be automated with a Supplementaries Cannon.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.bomb": {
+    "original": "● Bomb:                   35K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.bottle_o_enchanting": {
+    "original": "● Bottle o' Enchanting: 200K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.cannonball": {
+    "original": "● Cannonball:            35K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.egg": {
+    "original": "● Egg:                     10K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.ender_pearl": {
+    "original": "● Ender Pearl:            50K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.fire_charge": {
+    "original": "● Fire Charge:          35K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.llama_spit": {
+    "original": "● Llama Spit:            100K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.pollen_puff": {
+    "original": "● Pollen Puff:           10K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.shulker_bullet": {
+    "original": "● Shulker Bullet:       300K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.slimeball": {
+    "original": "● Slimeball:               10K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.snowball": {
+    "original": "● Snowball:                7K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.spectral_arrow": {
+    "original": "● Spectral Arrow:        40K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.trident": {
+    "original": "● Trident:                 3M",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.valid_projectiles": {
+    "original": "Valid projectiles:",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.projectile_generator.wind_charge": {
+    "original": "● Wind Charge:          100K",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.sky_dust": {
+    "original": "Sky Dust can be generated by pointing an Annihilation Plane at the sky at build limit (§2Y=319§r).",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.sludge": {
+    "original": "May be produced in a Sludge Refiner. Sludge is a by-product of the Plant Gatherer.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.soul_shattering_mobs": {
+    "original": "Obtained with a Soul Shattering weapon from the following mobs:",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.strange_materials": {
+    "original": "May appear when using Bone Meal on Blighted land.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.time_changer.rotation": {
+    "original": "The rotation of the Hand of Time denotes the time it will change to, with up being midnight and down being noon.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.time_changer.setup": {
+    "original": "To set it up, place an Item Frame on the device and insert a Hand of Time.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.time_changer.trigger": {
+    "original": "Drop a Clock nearby to trigger the effect.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.time_changer.use": {
+    "original": "May be used to change to a specific time of day at the expense of Aura.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.token_euphoria": {
+    "original": "Drops from a Clockwork Evoker.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.token_grief": {
+    "original": "Drops from a Clockwork Witch.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.token_rage": {
+    "original": "Drops from a Clockwork Vindicator.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.token_terror": {
+    "original": "Drops from a Clockwork Pillager.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.vacuum_bottle": {
+    "original": "Use a Bottle and Cork in an area devoid of Aura.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.villager_trade": {
+    "original": "Obtained by trading with %s Villagers.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.villager_trade.level": {
+    "original": "Trade Level: %s",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.vindicator_trophy": {
+    "original": "Right-Click a Vindicator Trophy with an Antikythera Mechanism to bring it to life!",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.weather_changer.dark_prismarine": {
+    "original": "● Dark Prismarine - Rain",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.weather_changer.fire_charge": {
+    "original": "● Fire Charge - Storm",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.weather_changer.sunflower": {
+    "original": "● Sunflower - Clear Skies",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.weather_changer.trigger": {
+    "original": "Drop one of the following items nearby to trigger the effect:",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.weather_changer.use": {
+    "original": "May be used to change the weather at the expense of Aura.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.wireless_charger_antenna": {
+    "original": "Place on top of an Enderio Wireless Charger to increase its range.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "info.enigmatica.witch_trophy": {
+    "original": "Right-Click a Witch Trophy with an Antikythera Mechanism to bring it to life!",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.aerbunny_iou": {
+    "original": "§6IOU:§r 1x Aerbunny",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.andesite_pebble": {
+    "original": "Andesite Pebble",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.antikythera_mechanism": {
+    "original": "Antikythera Mechanism",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.basalt_pebble": {
+    "original": "Basalt Pebble",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.beef_bits": {
+    "original": "§aMeatFresh: §7Beef Bits",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.boggy_dorodango": {
+    "original": "Boggy Dorodango",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.borrowed_flame": {
+    "original": "Borrowed Flame",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.braising_cain": {
+    "original": "§6CloudDash: §rBraising Cain",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.briny_dorodango": {
+    "original": "Briny Dorodango",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.briny_seawater_bucket": {
+    "original": "Briny Seawater Bucket",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.bun_believable_burger": {
+    "original": "§6CloudDash: §rBun-Believable Burger",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.calcite_pebble": {
+    "original": "Calcite Pebble",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.caster_tome.firenado": {
+    "original": "Firenado",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.caster_tome.ghostnado": {
+    "original": "Ghostnado",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.caster_tome.smokenado": {
+    "original": "Smokenado",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.caster_tome.waterspout": {
+    "original": "Waterspout",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.chicken_chunks": {
+    "original": "§aMeatFresh: §7Chicken Chunks",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.chicken_iou": {
+    "original": "§6IOU:§r 1x Chicken",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.cloudy_dorodango": {
+    "original": "Cloudy Dorodango",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.cookie_dough": {
+    "original": "Cookie Dough",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.cozy_cauldron": {
+    "original": "§6CloudDash: §dCozy Cauldron",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.deepslate_pebble": {
+    "original": "Deepslate Pebble",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.desert_essentia": {
+    "original": "Desert Essentia",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.diorite_pebble": {
+    "original": "Diorite Pebble",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.dormant_wildroot": {
+    "original": "Dormant Wildroot",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.dumpling_drop": {
+    "original": "§6CloudDash: §dDumpling Drop",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.eastern_anemo": {
+    "original": "Eastern Anemo",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.elemental_matrix": {
+    "original": "Elemental Matrix",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.espresso_bucket": {
+    "original": "Espresso Bucket",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.fire_clay_ball": {
+    "original": "Fire Clay Ball",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.flappin_jack_s_trove": {
+    "original": "§6CloudDash: §rFlappin' Jack's Trove",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.flask_of_four_winds": {
+    "original": "Flask of Four Winds",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.flyin_fox": {
+    "original": "§6CloudDash: §rFlyin' Fox",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.forest_essentia": {
+    "original": "Forest Essentia",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.glazed_and_confused": {
+    "original": "§6CloudDash: §dGlazed and Confused",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.goat_iou": {
+    "original": "§6IOU:§r 1x Goat",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.granite_pebble": {
+    "original": "Granite Pebble",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.great_eggspectations": {
+    "original": "§6CloudDash: §rGreat Eggspectations",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.heavy_oil_bucket": {
+    "original": "Heavy Oil Bucket",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.honey_cookie_dough": {
+    "original": "Honey Cookie Dough",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.jaxs_snax": {
+    "original": "§6CloudDash: §dJax's Snax",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.kerogen": {
+    "original": "Kerogen",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.la_drygmese_poutine": {
+    "original": "§6CloudDash: §dLa Drygmese Poutine",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.light_oil_bucket": {
+    "original": "Light Oil Bucket",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.lilys_lilac_cotton_candy": {
+    "original": "Lily's Lilac Cotton Candy",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.luminiferous_aether_bottle": {
+    "original": "Luminiferous Aether Bottle",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.magic_lamp": {
+    "original": "Magic Lamp",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.melon_ball": {
+    "original": "Melon Ball",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.mimic_meat": {
+    "original": "Mimic Meat",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.moa_iou": {
+    "original": "§6IOU:§r 1x Moa",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.mutton_morsels": {
+    "original": "§aMeatFresh: §7Mutton Morsels",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.northern_anemo": {
+    "original": "Northern Anemo",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.ocean_essentia": {
+    "original": "Ocean Essentia",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.pelagite": {
+    "original": "Pelagite",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.phyg_iou": {
+    "original": "§6IOU:§r 1x Phyg",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.pitch_bucket": {
+    "original": "Pitch Bucket",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.plains_essentia": {
+    "original": "Plains Essentia",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.pork_pieces": {
+    "original": "§aMeatFresh: §7Pork Pieces",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.poutine": {
+    "original": "Poutine",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.primordial_mud": {
+    "original": "Primordial Mud",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.pulsating_mechanism": {
+    "original": "Pulsating Mechanism",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.qulliq_vessel": {
+    "original": "Qulliq Vessel",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.reverberating_dorodango": {
+    "original": "Reverberating Dorodango",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.ruby": {
+    "original": "Ruby",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.savanna_essentia": {
+    "original": "Savanna Essentia",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.sheep_eatin_green": {
+    "original": "§6CloudDash: §rSheep-Eatin' Green",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.sheepuff_iou": {
+    "original": "§6IOU:§r 1x Sheepuff",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.silty_dorodango": {
+    "original": "Silty Dorodango",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.source_berry_cookie_dough": {
+    "original": "Source Berry Cookie Dough",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.source_berry_roll_dough": {
+    "original": "Source Berry Roll Dough",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.source_ink": {
+    "original": "Source Ink",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.southern_anemo": {
+    "original": "Southern Anemo",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.starbies_nitro_cold_brew_bucket": {
+    "original": "§aStarbie's§r Nitro Cold Brew Bucket",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.stone_pebble": {
+    "original": "Stone Pebble",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.stoneware_vessel": {
+    "original": "Stoneware Vessel",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.suffused_wildroot": {
+    "original": "Suffused Wildroot",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.suns_out_buns_out": {
+    "original": "§6CloudDash: §rSun's Out, Buns Out",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.swamp_essentia": {
+    "original": "Swamp Essentia",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.sweet_berry_cookie_dough": {
+    "original": "Sweet Berry Cookie Dough",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.taiga_essentia": {
+    "original": "Taiga Essentia",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.tempestuous_mechanism": {
+    "original": "Tempestuous Mechanism",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.the_bun_also_rises": {
+    "original": "§6CloudDash: §dThe Bun Also Rises",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.tuff_pebble": {
+    "original": "Tuff Pebble",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.tundra_essentia": {
+    "original": "Tundra Essentia",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.unfired_vessel": {
+    "original": "Unfired Vessel",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.vapours_of_nyx_bottle": {
+    "original": "Vapours of Nyx Bottle",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.vapours_of_nyx_bucket": {
+    "original": "Vapours of Nyx Bucket",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.volcanic_dorodango": {
+    "original": "Volcanic Dorodango",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.vulcanized_rubber_bucket": {
+    "original": "Vulcanized Rubber Bucket",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.warded_vessel": {
+    "original": "Warded Vessel",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.wastewater_bucket": {
+    "original": "Wastewater Bucket",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.welkin_decanter": {
+    "original": "Welkin Decanter",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.western_anemo": {
+    "original": "Western Anemo",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.enigmatica.world_seed": {
+    "original": "World Seed",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.lingering_potion.effect.flight": {
+    "original": "Lingering Potion of Flight",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.lingering_potion.effect.greater_instant_damage": {
+    "original": "Lingering Potion of Harming",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.lingering_potion.effect.greater_mana_regen": {
+    "original": "Lingering Potion of Mana Regeneration",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.lingering_potion.effect.greater_recovery": {
+    "original": "Lingering Potion of Recovery",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.lingering_potion.effect.greater_regeneration": {
+    "original": "Lingering Potion of Regeneration",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.lingering_potion.effect.greater_resistance": {
+    "original": "Lingering Potion of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.lingering_potion.effect.greater_shielding": {
+    "original": "Lingering Potion of Shielding",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.lingering_potion.effect.greater_spell_damage": {
+    "original": "Lingering Potion of Spell Damage",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.lingering_potion.effect.greater_strength": {
+    "original": "Lingering Potion of Strength",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.lingering_potion.effect.long_flight": {
+    "original": "Lingering Potion of Flight",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.lingering_potion.effect.long_resistance": {
+    "original": "Lingering Potion of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.lingering_potion.effect.resistance": {
+    "original": "Lingering Potion of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.lingering_potion.effect.strong_resistance": {
+    "original": "Lingering Potion of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.potion.effect.flight": {
+    "original": "Potion of Flight",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.potion.effect.greater_instant_damage": {
+    "original": "Potion of Harming",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.potion.effect.greater_mana_regen": {
+    "original": "Potion of Mana Regeneration",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.potion.effect.greater_recovery": {
+    "original": "Potion of Recovery",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.potion.effect.greater_regeneration": {
+    "original": "Potion of Regeneration",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.potion.effect.greater_resistance": {
+    "original": "Potion of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.potion.effect.greater_shielding": {
+    "original": "Potion of Shielding",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.potion.effect.greater_spell_damage": {
+    "original": "Potion of Spell Damage",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.potion.effect.greater_strength": {
+    "original": "Potion of Strength",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.potion.effect.long_flight": {
+    "original": "Potion of Flight",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.potion.effect.long_resistance": {
+    "original": "Potion of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.potion.effect.resistance": {
+    "original": "Potion of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.potion.effect.strong_resistance": {
+    "original": "Potion of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.splash_potion.effect.flight": {
+    "original": "Splash Potion of Flight",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.splash_potion.effect.greater_instant_damage": {
+    "original": "Splash Potion of Harming",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.splash_potion.effect.greater_mana_regen": {
+    "original": "Splash Potion of Mana Regeneration",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.splash_potion.effect.greater_recovery": {
+    "original": "Splash Potion of Recovery",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.splash_potion.effect.greater_regeneration": {
+    "original": "Splash Potion of Regeneration",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.splash_potion.effect.greater_resistance": {
+    "original": "Splash Potion of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.splash_potion.effect.greater_shielding": {
+    "original": "Splash Potion of Shielding",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.splash_potion.effect.greater_spell_damage": {
+    "original": "Splash Potion of Spell Damage",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.splash_potion.effect.greater_strength": {
+    "original": "Splash Potion of Strength",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.splash_potion.effect.long_flight": {
+    "original": "Splash Potion of Flight",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.splash_potion.effect.long_resistance": {
+    "original": "Splash Potion of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.splash_potion.effect.resistance": {
+    "original": "Splash Potion of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.splash_potion.effect.strong_resistance": {
+    "original": "Splash Potion of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.tipped_arrow.effect.flight": {
+    "original": "Arrow of Flight",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.tipped_arrow.effect.greater_instant_damage": {
+    "original": "Arrow of Harming",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.tipped_arrow.effect.greater_mana_regen": {
+    "original": "Arrow of Mana Regeneration",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.tipped_arrow.effect.greater_recovery": {
+    "original": "Arrow of Recovery",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.tipped_arrow.effect.greater_regeneration": {
+    "original": "Arrow of Regeneration",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.tipped_arrow.effect.greater_resistance": {
+    "original": "Arrow of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.tipped_arrow.effect.greater_shielding": {
+    "original": "Arrow of Shielding",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.tipped_arrow.effect.greater_spell_damage": {
+    "original": "Arrow of Spell Damage",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.tipped_arrow.effect.greater_strength": {
+    "original": "Arrow of Strength",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.tipped_arrow.effect.long_flight": {
+    "original": "Arrow of Flight",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.tipped_arrow.effect.long_resistance": {
+    "original": "Arrow of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.tipped_arrow.effect.resistance": {
+    "original": "Arrow of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "item.minecraft.tipped_arrow.effect.strong_resistance": {
+    "original": "Arrow of Resistance",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.animal_fodder": {
+    "original": "Feeds animals and induces them to breed",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.anti_magnet": {
+    "original": "Anti-Magnet",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.applies_potions_area": {
+    "original": "Applies Potions in the Area",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.arcane_blocked_attacks": {
+    "original": "Arcane Instrument: Blocked Attacks Boost Spell Damage and Mana Regen",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.arcane_focus_area": {
+    "original": "Arcane Focus: Area",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.arcane_focus_projectile": {
+    "original": "Arcane Focus: Projectile",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.arcane_focus_self": {
+    "original": "Arcane Focus: Self",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.arcane_focus_touch": {
+    "original": "Arcane Focus: Touch",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.arcane_hover": {
+    "original": "Arcane Instrument: Allows the Wearer to Hover",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.arcane_item_to_source": {
+    "original": "Arcane Instrument: Converts Items to Source",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.arcane_lingering_potions": {
+    "original": "Arcane Instrument: Converts Potions to Lingering Potions",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.arcane_mana_pool": {
+    "original": "Arcane Instrument: Increases Personal Mana Pool",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.arcane_mana_regen": {
+    "original": "Arcane Instrument: Increases Personal Mana Regen Rate",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.arcane_random_effects": {
+    "original": "Arcane Instrument: Grants Random Potion Effects",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.arcane_spell_cost": {
+    "original": "Arcane Instrument: Reduces Spell Cost",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.arcane_splash_potions": {
+    "original": "Arcane Instrument: Converts Potions to Splash Potions",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.armadillo_scute": {
+    "original": "Obtained by brushing Armadillos",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.armor_insulation": {
+    "original": "May be used to insulate armor",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.aura_animal_breeding": {
+    "original": "Induces animals to breed in areas with high Aura",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.aura_furnace": {
+    "original": "Aura Powered Furnace",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.aura_generator": {
+    "original": "Aura Generator",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.aura_ore_conversion": {
+    "original": "Converts stone to random ores with Aura",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.auto_crafter": {
+    "original": "Auto-crafter",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.awaken_trophy": {
+    "original": "Right-Click the Trophy with an Antikythera Mechanism to awaken it.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.block_breaker": {
+    "original": "Block Breaker",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.block_placer": {
+    "original": "Block Placer",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.break_prevention": {
+    "original": "Prevents using a tool if it would break on the next use",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.bulk_unstackable_storage": {
+    "original": "Bulk Unstackable Storage",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.burning_to_touch": {
+    "original": "Burning to the Touch",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.cold_to_touch": {
+    "original": "Cold to the Touch",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.cool_to_touch": {
+    "original": "Cool to the Touch",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.creates_light_sources": {
+    "original": "Creates Light Sources",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.cross_dimensional_logistics": {
+    "original": "Cross-Dimensional Logistics",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.cross_dimensional_storage": {
+    "original": "Cross-Dimensional Storage",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.detects_aura_levels": {
+    "original": "Detects Aura Levels",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.disabled_item": {
+    "original": "This item has been disabled.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.endless_water_source": {
+    "original": "Endless Water Source",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.filtered_hopper": {
+    "original": "Filtered Hopper",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.found_blazing_islands": {
+    "original": "Found on Blazing Islands",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.found_cascading_islands": {
+    "original": "Found on Cascading Islands",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.found_flashing_islands": {
+    "original": "Found on Flashing Islands",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.found_flourishing_islands": {
+    "original": "Found on Flourishing Islands",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.found_lush_garden_islands": {
+    "original": "Found on Lush Garden Islands",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.found_platform_islands": {
+    "original": "Found on Platform Islands",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.found_vexing_islands": {
+    "original": "Found on Vexing Islands",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.freezing_to_touch": {
+    "original": "Freezing to the Touch",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.generates_fe_from_aura": {
+    "original": "Generates FE From Aura",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.highlights_dark_areas": {
+    "original": "Highlights Nearby Dark Areas",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.highlights_inventories": {
+    "original": "Highlights Nearby Inventories",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.highlights_netherite": {
+    "original": "Highlights Nearby Netherite",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.hot_to_touch": {
+    "original": "Hot to the Touch",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.inhibits_aura_cache_recharge": {
+    "original": "Inhibits Aura from charging a worn Aura Cache or Aura Trove",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.inhibits_aura_nether_grass": {
+    "original": "Inhibits Aura induced grass growth in the Nether",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.inhibits_boosted_plant_growth": {
+    "original": "Inhibits boosted plant growth from Aura",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.invisible_fence": {
+    "original": "Invisible Fence",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.iou_exchange": {
+    "original": "§5May be exchanged for %s %s",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.item_collector": {
+    "original": "Item Collector",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.knocks_foes_back": {
+    "original": "Knocks Foes Back",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.ore_processing": {
+    "original": "Ore Processing",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.prevents_death": {
+    "original": "Prevents Death",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.prevents_mob_spawns": {
+    "original": "Prevents Mob Spawns",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.prevents_negative_aura_drain": {
+    "original": "Prevents Negative Aura Drain",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.redstone_timer": {
+    "original": "Redstone Timer",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.snow_and_ice_maker": {
+    "original": "Snow and Ice Maker",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.straw_from_grass": {
+    "original": "Break Grass with a Knife!",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.time_manipulator": {
+    "original": "Time Manipulator",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.universal_chalk": {
+    "original": "May replace any Chalk in any pentacle",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.villager_trade": {
+    "original": "Trade with %s %s Villagers!",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.visualizes_apparatus_area": {
+    "original": "Arcane Instrument: Visualizes Apparatus Effect Area",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.warm_to_touch": {
+    "original": "Warm to the Touch",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.weather_manipulator": {
+    "original": "Weather Manipulator",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.weeping_well_location": {
+    "original": "The Weeping Well is located on the Vexing Island",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.wither_immune": {
+    "original": "Wither Immune",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.wixie_conversion": {
+    "original": "Sneak Right-Click on the block to convert.",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.wolf_armor.fite": {
+    "original": "Fite!",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.wolf_armor.goodest_doge": {
+    "original": "Goodest Doge",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.wolf_armor.much_wow": {
+    "original": "Much Wow",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.wolf_armor.vetty_cute": {
+    "original": "Vetty Cute",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.enigmatica.worm_from_grass": {
+    "original": "Small chance when tilling Grass",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_elemental_air_chestplate_set": {
+    "original": "Wearing Full Thunderguard's Set",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_elemental_air_robes_set": {
+    "original": "Wearing Full Aethermancer's Set",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_elemental_air_tunic_set": {
+    "original": "Wearing Full Olympian's Set",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_elemental_aqua_chestplate_set": {
+    "original": "Wearing Full Winterguard's Set",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_elemental_aqua_robes_set": {
+    "original": "Wearing Full Aquamancer's Set",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_elemental_aqua_tunic_set": {
+    "original": "Wearing Full Nereid's Set",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_elemental_earth_chestplate_set": {
+    "original": "Wearing Full Wealdguard's Set",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_elemental_earth_robes_set": {
+    "original": "Wearing Full Geomancer's Set",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_elemental_earth_tunic_set": {
+    "original": "Wearing Full Nymph's Set",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_elemental_fire_chestplate_set": {
+    "original": "Wearing Full Netherguard's Set",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_elemental_fire_robes_set": {
+    "original": "Wearing Full Pyromancer's Set",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_elemental_fire_tunic_set": {
+    "original": "Wearing Full Pyromaniac's Set",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_nouveau_armor_tier_2": {
+    "original": "Wearing Full Tier 2",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_nouveau_armor_tier_3": {
+    "original": "Wearing Full Tier 3",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.ars_technica_technomancer_chestplate_set": {
+    "original": "Wearing Full Technomancer's Set",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  },
+  "tooltip.hint.enigmatica.extended_industrialization_nano_armor_set": {
+    "original": "Wearing Full Nano Suit",
+    "context": "source/kubejs/assets/enigmatica/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}

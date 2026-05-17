@@ -1,0 +1,9 @@
+{
+  "farmersdelight.jei.info.dough": {
+    "original": "Wheat can be turned into Dough by crafting it with a Water Bucket.",
+    "context": "source/kubejs/assets/farmersdelight/lang/en_us.json",
+    "meta": {
+      "converter": "json-lang"
+    }
+  }
+}
