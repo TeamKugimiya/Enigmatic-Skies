@@ -1,0 +1,51 @@
+name: 補丁問題
+description: 回報安裝、建構輸出或遊戲內載入問題
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: input
+    id: modpack-version
+    attributes:
+      label: 模組包版本
+      placeholder: "例如：v4.2.1"
+    validations:
+      required: true
+  - type: input
+    id: patch-version
+    attributes:
+      label: 中文化補丁版本
+      placeholder: "例如：v4.2.1-tk.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: environment
+    attributes:
+      label: 發生位置
+      options:
+        - 玩家端
+        - 伺服器端
+        - 兩者皆有
+        - 不確定
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 重現步驟
+      description: 請描述安裝方式、啟動流程與發生問題的操作。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 預期結果
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 實際結果
+      description: 若有 crash log、latest.log 或截圖，請提供連結或關鍵片段。
+    validations:
+      required: true
