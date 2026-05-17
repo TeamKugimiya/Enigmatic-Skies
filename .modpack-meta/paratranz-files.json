@@ -1,7 +1,128 @@
 {
   "schema_version": 1,
-  "project_slug": "",
-  "paratranz_project_id": 0,
-  "wire_format": "",
-  "files": {}
+  "project_slug": "enigmatic-skies",
+  "paratranz_project_id": 19100,
+  "wire_format": "paratranz-json-adapter-v1",
+  "files": {
+    "ftbquests/chapter_group.json": {
+      "file_id": 3042740,
+      "last_pushed_hash": "7f7f0e55907f5c802420a43ae40df95812a5fff8ab7dbeed4cf0c44b4ade5105",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/0EFE9E753A92388D.json": {
+      "file_id": 3042741,
+      "last_pushed_hash": "366abb25d801502ad38fa5ed5742b5d37ae82c589f7c251669837eef84ecd6f0",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/25ADADD36B4FDE05.json": {
+      "file_id": 3042742,
+      "last_pushed_hash": "221f57f769865782bd82afc583841fd8a768751e7806b66bae3e3c2e8aa4b122",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/402AE6264B81A84B.json": {
+      "file_id": 3042743,
+      "last_pushed_hash": "f1f2ebd9cb3796fb087accb56d6d7006e65334f3404d2f47f0abe06dd2b7f29a",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/47870879D8E3742D.json": {
+      "file_id": 3042744,
+      "last_pushed_hash": "7cec285743a631cdcfe4f8ff68dd0b3177e8c75440747d19a726daa99e662475",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/777EE0C4949DFE12.json": {
+      "file_id": 3042745,
+      "last_pushed_hash": "c36dae87e499ace5ff21cfe040e33fd6e941aeacbe27603cbef16378961e23b7",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/7F17CDF8564DCC49.json": {
+      "file_id": 3042746,
+      "last_pushed_hash": "c759a76cb7c208e3268b6e4cdaa006535abd968c0564741ff8d7d301a2522e78",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/acclimation.json": {
+      "file_id": 3042747,
+      "last_pushed_hash": "7ce6603955fa5a6c7906ed5f66507d7ee3bdd865a140d67f0a30dea29dcafab8",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/ars_nouveau.json": {
+      "file_id": 3042748,
+      "last_pushed_hash": "3dc360d18ca68bbd753a2876478ac0a259b3447af3c2dcad675b0be6b5fb807c",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/blazing.json": {
+      "file_id": 3042749,
+      "last_pushed_hash": "163a278dfdd7cf8b08e8f73cdf7257f4aa07710e2d68ef252b71502de5fdb1a8",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/cascading.json": {
+      "file_id": 3042750,
+      "last_pushed_hash": "f49f93abb72c18fbdde27c4470c71ecdc9dbd8b5b81700064e7de78ae88de713",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/equipment.json": {
+      "file_id": 3042751,
+      "last_pushed_hash": "6fa57c0606a5250a9299c448e53064a297680af4ed0aafc882e88b9d6025b636",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/flashing.json": {
+      "file_id": 3042752,
+      "last_pushed_hash": "f1a34780e7cc507656a5b7111bcb641761b82c89ddca333796a5569383fd920c",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/flourishing.json": {
+      "file_id": 3042753,
+      "last_pushed_hash": "7d2d7f3c685723b8fc4525c9e82faee293c1339d6eb91546e699e642dfa37561",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/it_takes_a_village.json": {
+      "file_id": 3042754,
+      "last_pushed_hash": "c4db2b882d01650f8991682bde695177618593ed67d3790c611b3afabeae3e1d",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/malum.json": {
+      "file_id": 3042755,
+      "last_pushed_hash": "fcd5e4459dbbb48c7a0fbbf97a90e9bd8a801f8f17b26387bad11fd108613553",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/natures_aura.json": {
+      "file_id": 3042756,
+      "last_pushed_hash": "3fe2557c56c2de392b226bec789b8f1e2252a1cd82d6694ebff6c9cdb186af22",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/pneumaticcraft.json": {
+      "file_id": 3042757,
+      "last_pushed_hash": "1d703ad1f8d58bbe8100463cf0ebf4dbc905be2f6731ce11768fe76f552d4aa6",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/power_generation.json": {
+      "file_id": 3042758,
+      "last_pushed_hash": "d99d9f1436c40adf9d0265f1e9e80c816a9f2798ae845640d9be47d32aa9c3b4",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/replication.json": {
+      "file_id": 3042759,
+      "last_pushed_hash": "5f95df0e1af3a5339902a900a601e78247a825505e0bdccbd3c399f135c309b3",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/the_beginning.json": {
+      "file_id": 3042760,
+      "last_pushed_hash": "9f96010148a0c17bb9f3a309809635a3ea86eecc4fd294f086ba16eda7ecab48",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/chapters/vexing.json": {
+      "file_id": 3042761,
+      "last_pushed_hash": "790633b40dc1a076091cc250403f0a63b1c932ca9e1cb8c1a138f634d8a5f7c8",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/file.json": {
+      "file_id": 3042762,
+      "last_pushed_hash": "5c45f9b9123bf388e9d2c3c9a46a61b3402710381e30595361c48450bcbda893",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    },
+    "ftbquests/reward_table.json": {
+      "file_id": 3042763,
+      "last_pushed_hash": "ba0c16ab98307b66ceab31ad637f0b8d4bc19c2f55f99b3f6ec79dd954bffced",
+      "last_pushed_at": "2026-05-17T14:40:08Z"
+    }
+  }
 }
