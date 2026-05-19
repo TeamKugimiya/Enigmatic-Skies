@@ -1,0 +1,15 @@
+name: ParaTranz Download
+
+on:
+  schedule:
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  download:
+    uses: TeamKugimiya/reusable-workflows/.github/workflows/Modpack-Paratranz-Download.yml@v1
+    secrets: inherit

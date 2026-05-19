@@ -1,0 +1,27 @@
+name: Modpack Build
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "GitHub Release tag；留空只上傳 Artifact"
+        required: false
+        type: string
+      prerelease:
+        description: "標記為 pre-release"
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  build:
+    uses: TeamKugimiya/reusable-workflows/.github/workflows/Modpack-Build.yml@v1
+    secrets: inherit
+
+  release:
+    needs: build
+    uses: TeamKugimiya/reusable-workflows/.github/workflows/Modpack-Release.yml@v1
+    with:
+      artifact_pattern: ${{ needs.build.outputs.artifact_pattern }}
+      version: ${{ inputs.version }}
+      prerelease: ${{ inputs.prerelease }}

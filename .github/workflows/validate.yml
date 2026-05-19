@@ -1,0 +1,13 @@
+name: Modpack Validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    uses: TeamKugimiya/reusable-workflows/.github/workflows/Modpack-Validate.yml@v1
+    with:
+      strict: true
+    secrets: inherit
