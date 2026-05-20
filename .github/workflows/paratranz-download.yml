@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 20 * * *"
   workflow_dispatch:
+    inputs:
+      rebuild:
+        description: "下載前先強制 ParaTranz 重新建構 artifact（傳入 --rebuild）"
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -12,4 +18,6 @@ permissions:
 jobs:
   download:
     uses: TeamKugimiya/reusable-workflows/.github/workflows/Modpack-Paratranz-Download.yml@v1
+    with:
+      rebuild: ${{ inputs.rebuild || false }}
     secrets: inherit
