@@ -17,6 +17,7 @@
   },
   "quest.074827E52A09685F.title": {
     "original": "Water",
+    "translation": "水",
     "context": "chapters/acclimation.snbt / quest 074827E52A09685F",
     "meta": {
       "line_split_policy": "none",
@@ -137,6 +138,7 @@
   },
   "quest.4ACD723FC7EB7CD6.title": {
     "original": "Fire",
+    "translation": "火",
     "context": "chapters/acclimation.snbt / quest 4ACD723FC7EB7CD6",
     "meta": {
       "line_split_policy": "none",

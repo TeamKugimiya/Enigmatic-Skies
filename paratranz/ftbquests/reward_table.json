@@ -1,6 +1,7 @@
 {
   "reward_table.00540CF744EBCDCA.title": {
     "original": "Farmer's Delight",
+    "translation": "農夫樂事",
     "context": "reward_table.snbt / reward_table 00540CF744EBCDCA",
     "meta": {
       "line_split_policy": "none",
@@ -97,6 +98,7 @@
   },
   "reward_table.65B36FE5D4A2DE53.title": {
     "original": "Bed",
+    "translation": "床",
     "context": "reward_table.snbt / reward_table 65B36FE5D4A2DE53",
     "meta": {
       "line_split_policy": "none",
@@ -129,6 +131,7 @@
   },
   "reward_table.7306EFE33A5617BA.title": {
     "original": "Hats",
+    "translation": "帽子",
     "context": "reward_table.snbt / reward_table 7306EFE33A5617BA",
     "meta": {
       "line_split_policy": "none",

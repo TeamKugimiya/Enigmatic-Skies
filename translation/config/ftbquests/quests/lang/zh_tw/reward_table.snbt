@@ -1,5 +1,5 @@
 {
-  reward_table.00540CF744EBCDCA.title: "Farmer's Delight",
+  reward_table.00540CF744EBCDCA.title: "農夫樂事",
   reward_table.01958857E91F63D0.title: "Spare Parts: Rare",
   reward_table.02545B33A0B47726.title: "Scavenger's Delight",
   reward_table.044F2F65D540C024.title: "Miner's Delight",
@@ -11,11 +11,11 @@
   reward_table.506FFF33A24A6C87.title: "Sorcerer's Delight",
   reward_table.57D690FA70BABEA6.title: "PneumaticCraft Lootbox: Legendary",
   reward_table.63595DAD65E0F896.title: "Ars Nouveau Lootbox: Epic",
-  reward_table.65B36FE5D4A2DE53.title: "Bed",
+  reward_table.65B36FE5D4A2DE53.title: "床",
   reward_table.6AE591972B41AD78.title: "Spare Parts: Common",
   reward_table.6F5C02ACE833C527.title: "Malum Lootbox",
   reward_table.72C4CB45CED49659.title: "Nature's Aura Lootbox",
-  reward_table.7306EFE33A5617BA.title: "Hats",
+  reward_table.7306EFE33A5617BA.title: "帽子",
   reward_table.77FB07B0CC8EAE79.title: "Ars Nouveau Lootbox: Rare",
   reward_table.79D53E33D5224416.title: "Spare Parts: AE"
 }
