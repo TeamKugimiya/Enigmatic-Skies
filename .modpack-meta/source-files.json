@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project_slug": "enigmatic-skies",
-  "upstream_artifact_id": "8085819",
+  "upstream_artifact_id": "8102201",
   "overlay_root": "overrides",
   "files": {
     "config/ftbquests/quests/chapter_groups.snbt": {
@@ -48,8 +48,8 @@
     },
     "config/ftbquests/quests/chapters/acclimation.snbt": {
       "kind": "translatable",
-      "sha512": "ec2cf965e858333b842035e9d17a4c990fb325a4f53cee6e7931178aa837da159f8e14939068f74be70c5371ddb18eca87f498a69b4c266738a0429bd2089154",
-      "size": 28085,
+      "sha512": "6e50bada4d4df92e2609a0c4626cc301704ca881be6334d264deff1ea6ac3275f010a58c89575da29a4bb6a42d3007ccffd2e9023f879eeec033b48b505abb9a",
+      "size": 28220,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/acclimation.snbt"
     },
     "config/ftbquests/quests/chapters/ars_nouveau.snbt": {
@@ -78,8 +78,8 @@
     },
     "config/ftbquests/quests/chapters/flashing.snbt": {
       "kind": "translatable",
-      "sha512": "f13083d5ba9197a81b8a98f4d91591a27cd7d1e84bfa6cf3964be370060e35d7801abac3e8b6013ae7815806961237566a99c6e9171645e9e759d52d983bd69e",
-      "size": 12161,
+      "sha512": "df67369adb8657b6cf6638faafb360fb1033214626ea32cb827447c5d8114d33a773958ed26a20e82f54bbc8504691da50f3fe8b148b4e79e778dd7d6db17401",
+      "size": 12712,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/flashing.snbt"
     },
     "config/ftbquests/quests/chapters/flourishing.snbt": {
@@ -144,8 +144,8 @@
     },
     "config/ftbquests/quests/lang/en_us.snbt": {
       "kind": "translatable",
-      "sha512": "9c46ff8fa85a28b0528345c5a1e68573b54f57dff6ce95b27872247b673748e8527bbb2466ca52cd14eca6ed2409f5002eedbc6dd68d342304e15f2a02e896b9",
-      "size": 345837,
+      "sha512": "62ea95f577e6db581041bf8eb71d2f8ba89704a4ba1d064a9012ee7d5fc53352017c8cfaa12621ab9a1b4cc92324136595c1706a73660a0f89ffc4623079de26",
+      "size": 346293,
       "source_archive_path": "overrides/config/ftbquests/quests/lang/en_us.snbt"
     },
     "config/ftbquests/quests/reward_tables/00540CF744EBCDCA.snbt": {

@@ -6,11 +6,13 @@ on:
       - main
     paths:
       - source/kubejs/**
+      - paratranz/**
   push:
     branches: 
       - main
     paths:
       - source/kubejs/**
+      - paratranz/**
 
 jobs:
   upload:

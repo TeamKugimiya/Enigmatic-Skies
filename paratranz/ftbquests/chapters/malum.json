@@ -80,7 +80,7 @@
     }
   },
   "quest.359562022532BAE1.quest_desc": {
-    "original": "Spirit Infusion is used to enhance items and materials, granting them greater potency. \n&n                                                   &r\nTo begin, let’s make some Soulstained Steel. \n\nWhen viewing Spirit Altar recipes in EMI, the central item and the Spirits shown to the left should be insterted onto the Altar itself. \n\nAny items shown on the right must be instered into a nearby Item Pedestal or Item Stand. \n\nItems may be piped into the these blocks, or otherwise Right-Clicked into place when crafting by hand.\n\n&6⚠ Note: Item Stands and Pedestals \n&6    must be within four blocks of \n&6    the Altar.",
+    "original": "Spirit Infusion is used to enhance items and materials, granting them greater potency. \n&n                                                  &r\n\nWhen viewing Spirit Altar recipes in EMI, the central item and the Spirits shown to the left should be insterted onto the Altar itself. \n\nAny items shown on the right must be instered into a nearby Item Pedestal or Item Stand. \n\nItems may be piped into the these blocks, or otherwise Right-Clicked into place when crafting by hand.\n\n&6⚠ Note: Item Stands and Pedestals \n&6    must be within four blocks of \n&6    the Altar.",
     "context": "chapters/malum.snbt / quest 359562022532BAE1",
     "meta": {
       "line_split_policy": "lf",

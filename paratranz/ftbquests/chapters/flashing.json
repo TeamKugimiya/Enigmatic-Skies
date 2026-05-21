@@ -15,6 +15,14 @@
       "snbt_value_shape": "list_of_string"
     }
   },
+  "quest.0BB08CCD3FEDEB54.quest_desc": {
+    "original": "Moving materials long distances can be a troublesome task, but with an &7Entangled Block&r you can treat over there as if it were over here.\n\nSneak Right-Click an inventory with the &7Binder&r to select it, then Right-Click the &7Entangled Block&r with the wand to bind the two. \n\nOnce bound, you'll be able to pipe in and out of the &7Entangled Block&r as if it were the bound inventory. Perfect for accessing fluids or items from far away!",
+    "context": "chapters/flashing.snbt / quest 0BB08CCD3FEDEB54",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
   "quest.0C32904CD01E4743.quest_desc": {
     "original": "Animate a Zephyr and harvest it for parts.\n\n&6⚠ Note: The Ritual Item is not required. \n&6    It's simply here as a courtesy for \n&6    viewing the recipe.",
     "context": "chapters/flashing.snbt / quest 0C32904CD01E4743",
