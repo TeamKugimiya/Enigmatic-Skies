@@ -2,8 +2,15 @@ name: ParaTranz Upload
 
 on:
   pull_request:
+    branches:
+      - main
+    paths:
+      - source/kubejs/**
   push:
-    branches: [main]
+    branches: 
+      - main
+    paths:
+      - source/kubejs/**
 
 jobs:
   upload:
