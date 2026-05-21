@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "project_slug": "enigmatic-skies",
-  "upstream_artifact_id": "8102201",
+  "upstream_artifact_id": "8120210",
   "overlay_root": "overrides",
   "files": {
     "config/ftbquests/quests/chapter_groups.snbt": {
@@ -12,8 +12,8 @@
     },
     "config/ftbquests/quests/chapters/0EFE9E753A92388D.snbt": {
       "kind": "translatable",
-      "sha512": "a63de752c2d2268f0b020928b196c31021a8a727924079bc571160e9501b3151ba038bf2520faa201174e73bf10b286ce31b355745fe81f9857a19e6a5738262",
-      "size": 6894,
+      "sha512": "456220265042e4c93e953d82abd946c4a6b2dce9d9eeac27879700c09abc557d1c7822061a5ac6ac36ede73d5c99410d311fd550efce8b14cb16eec0207ddbe3",
+      "size": 6892,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/0EFE9E753A92388D.snbt"
     },
     "config/ftbquests/quests/chapters/25ADADD36B4FDE05.snbt": {
@@ -90,8 +90,8 @@
     },
     "config/ftbquests/quests/chapters/it_takes_a_village.snbt": {
       "kind": "translatable",
-      "sha512": "2752f0df15ac615086d7e2ed0418b42cac7be021b99f12b2d121d7fe62f5f4c791e3d887e284427994fb847e99adb1ac7369ef9bfb2c8402b538eb523643ea69",
-      "size": 36122,
+      "sha512": "136becd6c71ded775fee6b76578077ed6c170840afd7aee1156abb8a4370a6b9f03801bfebfd8bc189c1b2c4fb9d243bd6390f6546d26f20d361fd3d00569039",
+      "size": 36681,
       "source_archive_path": "overrides/config/ftbquests/quests/chapters/it_takes_a_village.snbt"
     },
     "config/ftbquests/quests/chapters/malum.snbt": {
@@ -144,8 +144,8 @@
     },
     "config/ftbquests/quests/lang/en_us.snbt": {
       "kind": "translatable",
-      "sha512": "62ea95f577e6db581041bf8eb71d2f8ba89704a4ba1d064a9012ee7d5fc53352017c8cfaa12621ab9a1b4cc92324136595c1706a73660a0f89ffc4623079de26",
-      "size": 346293,
+      "sha512": "c7ba8b8c25900544b6ba87d643147d5ad9ef4104cfa11321f282edb3d66675e9fd31ea0df494f616ff751d9e0c62104c897783679042634a62a8db0e08d6471d",
+      "size": 346738,
       "source_archive_path": "overrides/config/ftbquests/quests/lang/en_us.snbt"
     },
     "config/ftbquests/quests/reward_tables/00540CF744EBCDCA.snbt": {

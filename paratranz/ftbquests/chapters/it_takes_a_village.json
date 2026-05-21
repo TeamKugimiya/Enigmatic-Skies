@@ -167,6 +167,22 @@
       "snbt_value_shape": "string"
     }
   },
+  "quest.1A9CC0DF3D43189C.quest_desc": {
+    "original": "Each of these islands convert their respective areas to their own biome type when summoned, enabling new block conversions and opening up new resources. \n\nTo reset an area to the Void biome type, however, simply Right-Click &7Holystone&r with a &7Conjuration Essence&r to convert a &n21x11x21&r area to this biome!",
+    "context": "chapters/it_takes_a_village.snbt / quest 1A9CC0DF3D43189C",
+    "meta": {
+      "line_split_policy": "lf",
+      "snbt_value_shape": "list_of_string"
+    }
+  },
+  "quest.1A9CC0DF3D43189C.title": {
+    "original": "Biome Conversion",
+    "context": "chapters/it_takes_a_village.snbt / quest 1A9CC0DF3D43189C",
+    "meta": {
+      "line_split_policy": "none",
+      "snbt_value_shape": "string"
+    }
+  },
   "quest.1ACB8880980AF206.quest_desc": {
     "original": "There’s much to do and you’re going to need help. With everyone else gone, you'll have to make your own friends.\n\nFor ages, homunculi have been crafted in the same way; clay formed into the shape of a person and a note bearing instructions inserted into their head. \n\nThen, just a touch of magic to bring animate it with a semblance of life.\n&n                                                  &r\n\nCraft some &7Source Ink&r and &7Blank Parchment&r, you'll need these to make a &7Statue&r. \n\n&7Quick Soil&r will make a form of glass suitable for making &7Bottles&r. ",
     "context": "chapters/it_takes_a_village.snbt / quest 1ACB8880980AF206",

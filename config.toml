@@ -11,7 +11,7 @@ platform = "curseforge"
 project_id = "1503381"
 minecraft_version = "1.21.1"
 loader = "neoforge"
-release_channel = "release"
+release_channel = "beta"
 
 [paratranz]
 project_id = 19100
